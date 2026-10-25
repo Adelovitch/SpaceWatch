@@ -115,7 +115,7 @@ def enrich(article):
     except Exception:
         pass
     if not article.get("summary") and "APOD:" in article.get("title", ""):
-        article["summary"] = "NASA Astronomy Picture of the Day — " + article["title"].split("–")[-1].strip() + ". Consultez la publication pour son explication scientifique."
+        article["summary"] = "NASA Astronomy Picture of the Day — " + article["title"].split("–")[-1].strip() + ". Read the original NASA page for the scientific explanation."
     return article
 
 def parse(payload, source):
