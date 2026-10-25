@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
 from pathlib import Path
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
@@ -80,6 +80,42 @@ def image_from_entry(node):
     parser.feed(raw)
     return next((u for item in parser.images if (u := safe_image(item))), "")
 
+class MetadataParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.image = ""
+        self.description = ""
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() != "meta":
+            return
+        data = dict(attrs)
+        key = (data.get("property") or data.get("name") or "").lower()
+        if key in ("og:image", "twitter:image") and not self.image:
+            self.image = data.get("content", "")
+        if key in ("og:description", "description") and not self.description:
+            self.description = clean(data.get("content", ""))
+
+def enrich(article):
+    # Metadata from the original publisher only, with a short timeout.
+    if article.get("image") and not article.get("summary", "").startswith("APOD Science APOD"):
+        return article
+    try:
+        req = Request(article["url"], headers={"User-Agent": "Mozilla/5.0 (compatible; SpaceWatch/0.2)"})
+        with urlopen(req, timeout=7) as response:
+            page = response.read(350_000).decode("utf-8", errors="replace")
+        parser = MetadataParser()
+        parser.feed(page)
+        if not article.get("image"):
+            article["image"] = safe_image(urljoin(article["url"], parser.image))
+        if parser.description and (
+            article.get("summary", "").startswith("APOD Science APOD")
+            or not article.get("summary")
+        ):
+            article["summary"] = parser.description[:360]
+    except Exception:
+        pass
+    return article
+
 def parse(payload, source):
     root = ET.fromstring(payload)
     atom = root.tag == ATOM + "feed"
@@ -116,6 +152,9 @@ def main():
     for article in articles:
         unique.setdefault(article["url"].split("#")[0].rstrip("/"), article)
     articles = sorted(unique.values(), key=lambda a: a["published"], reverse=True)[:120]
+    # Prioritize visible articles; cap requests to protect the update schedule.
+    for article in articles[:18]:
+        enrich(article)
     print(json.dumps({"articles": len(articles), "sources": states}))
     if not articles:
         raise SystemExit("Aucun article reçu — données précédentes conservées")
