@@ -106,7 +106,7 @@ def enrich(article):
         parser = MetadataParser()
         parser.feed(page)
         if not article.get("image"):
-            article["image"] = safe_image(urljoin(article["url"], parser.image))
+            article["image"] = safe_image(urljoin(article["url"], parser.image)) if parser.image else ""
         if parser.description and (
             article.get("summary", "").startswith("APOD Science APOD")
             or not article.get("summary")
