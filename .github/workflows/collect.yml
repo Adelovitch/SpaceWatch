@@ -15,9 +15,14 @@ jobs:
           python-version: '3.12'
       - name: Collecter NASA et ESA
         run: python scripts/collect.py
+      - name: Installer le traducteur local
+        run: python -m pip install argostranslate
+      - name: Traduire en français
+        continue-on-error: true
+        run: python scripts/translate.py
       - name: Enregistrer les articles
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/articles.json
+          git add data/articles.json data/translation_cache.json 2>/dev/null || git add data/articles.json
           if ! git diff --cached --quiet; then git commit -m 'data: actualiser les articles'; git push; fi
