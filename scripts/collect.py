@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from html.parser import HTMLParser
+from urllib.parse import urlparse
 from pathlib import Path
 from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
@@ -20,6 +21,7 @@ FEEDS = [
 ]
 ATOM = "{http://www.w3.org/2005/Atom}"
 DC = "{http://purl.org/dc/elements/1.1/}"
+MEDIA = "{http://search.yahoo.com/mrss/}"
 
 class Stripper(HTMLParser):
     def __init__(self):
@@ -54,6 +56,30 @@ def iso(value):
         dt = dt.replace(tzinfo=timezone.utc)
     return dt.astimezone(timezone.utc).isoformat()
 
+class ImageParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.images = []
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() == "img":
+            values = dict(attrs)
+            self.images.append(values.get("src", "") or values.get("data-src", ""))
+
+def safe_image(url):
+    parsed = urlparse(url or "")
+    return url if parsed.scheme == "https" and parsed.netloc and not parsed.username else ""
+
+def image_from_entry(node):
+    for tag in ("enclosure", MEDIA + "content", MEDIA + "thumbnail"):
+        for element in node.findall(tag):
+            url = safe_image(element.get("url", ""))
+            if url and (tag != "enclosure" or element.get("type", "").startswith("image/")):
+                return url
+    raw = childtext(node, "description", ATOM + "content", "{http://purl.org/rss/1.0/modules/content/}encoded")
+    parser = ImageParser()
+    parser.feed(raw)
+    return next((u for item in parser.images if (u := safe_image(item))), "")
+
 def parse(payload, source):
     root = ET.fromstring(payload)
     atom = root.tag == ATOM + "feed"
@@ -71,7 +97,7 @@ def parse(payload, source):
             continue
         published = iso(childtext(node, "pubDate", ATOM + "published", ATOM + "updated", DC + "date"))
         summary = clean(childtext(node, "description", ATOM + "summary", ATOM + "content"))
-        articles.append(dict(title=title, url=url, source=source, summary=summary, published=published))
+        articles.append(dict(title=title, url=url, source=source, summary=summary, published=published, image=image_from_entry(node)))
     return articles
 
 def main():
