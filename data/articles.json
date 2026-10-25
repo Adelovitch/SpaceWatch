@@ -1,649 +1,741 @@
 {
-  "updated_at": "2026-10-25T20:53:19.212231+00:00",
+  "updated_at": "2026-10-25T21:26:21.705068+00:00",
   "articles": [
     {
       "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
       "source": "NASA",
       "summary": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]",
-      "published": "2026-10-25T08:19:48+00:00"
+      "published": "2026-10-25T08:19:48+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
       "source": "NASA",
       "summary": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta’s Selfie Explanation",
-      "published": "2026-10-24T04:05:00+00:00"
+      "published": "2026-10-24T04:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png/jcr:content/renditions/cq5dam.web.1280.1280.png"
     },
     {
       "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
       "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "source": "NASA",
       "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and Sp",
-      "published": "2026-10-23T22:39:39+00:00"
+      "published": "2026-10-23T22:39:39+00:00",
+      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg"
     },
     {
       "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
       "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
       "source": "NASA",
       "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
-      "published": "2026-10-23T22:37:53+00:00"
+      "published": "2026-10-23T22:37:53+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg"
     },
     {
       "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
       "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
       "source": "NASA",
       "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected",
-      "published": "2026-10-23T21:51:19+00:00"
+      "published": "2026-10-23T21:51:19+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "title": "RS-25 Engine Tests at NASA Stennis",
       "url": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/",
       "source": "NASA Images",
       "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.",
-      "published": "2026-10-23T18:59:00+00:00"
+      "published": "2026-10-23T18:59:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg"
     },
     {
       "title": "RS-25 Engine Tests at NASA Stennis",
       "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
       "source": "NASA",
       "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]",
-      "published": "2026-10-23T18:57:04+00:00"
+      "published": "2026-10-23T18:57:04+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg"
     },
     {
       "title": "NASA, Virginia Launch Power Partnership for Energy Security",
       "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
       "source": "NASA",
       "summary": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning ",
-      "published": "2026-10-23T17:50:21+00:00"
+      "published": "2026-10-23T17:50:21+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg"
     },
     {
       "title": "Week in images: 19-23 October 2026",
       "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
       "source": "ESA",
       "summary": "Week in images: 19-23 October 2026 Discover our week through the lens",
-      "published": "2026-10-23T13:15:00+00:00"
+      "published": "2026-10-23T13:15:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg"
     },
     {
       "title": "Earth from Space: The pink city",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_The_pink_city",
       "source": "ESA",
       "summary": "Image: This image shows a detailed view of the city of Toulouse in southwest France, with its terracotta tiled rooftops lending it the nickname la ville rose, or the pink city.",
-      "published": "2026-10-23T08:00:00+00:00"
+      "published": "2026-10-23T08:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg"
     },
     {
       "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
       "source": "NASA",
       "summary": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern Spring Explanation:",
-      "published": "2026-10-23T04:05:00+00:00"
+      "published": "2026-10-23T04:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/APOD_Lucy.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "title": "El Niño Then and Now",
       "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
       "source": "NASA",
       "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-      "published": "2026-10-23T04:00:00+00:00"
+      "published": "2026-10-23T04:00:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_20261012_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
     },
     {
       "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
       "source": "NASA",
       "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
-      "published": "2026-10-22T21:39:58+00:00"
+      "published": "2026-10-22T21:39:58+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2019/11/nasa_meatball.jpg"
     },
     {
       "title": "Spiral's Edge",
       "url": "https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/",
       "source": "NASA Images",
       "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
-      "published": "2026-10-22T21:36:00+00:00"
+      "published": "2026-10-22T21:36:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg"
     },
     {
       "title": "350th ESA Council: Media information session",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
       "source": "ESA",
       "summary": "Video: 01:45:34 Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the 350th Council meeting held at ESA Headquarters in Paris on 21—22 October 2026.",
-      "published": "2026-10-22T14:00:00+00:00"
+      "published": "2026-10-22T14:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/350th_esa_council_media_information_session/27588859-3-eng-GB/350th_ESA_Council_Media_information_session_card_full.jpg"
     },
     {
       "title": "ESA Open Days 2026",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
       "source": "ESA",
       "summary": "Video: 00:00:49 ESA Open Days 2026 welcomed over 23 000 visitors across its six establishments, giving the public the opportunity to discover more about Europe’s space activities, meet the people behind the missions and explore how ESA is shaping the future of space.",
-      "published": "2026-10-22T09:00:00+00:00"
+      "published": "2026-10-22T09:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/esa_open_days_2026/27587076-1-eng-GB/ESA_Open_Days_2026_card_full.png"
     },
     {
       "title": "ESA Council approves appointment of two new directors",
       "url": "https://www.esa.int/About_Us/Corporate_news/ESA_Council_approves_appointment_of_two_new_directors",
       "source": "ESA",
       "summary": "The European Space Agency Council has approved the appointment of two new directors: Andrzej Banasiak as Director of Commercialisation and Industry Partnership, and Nicolaus Hanowski as Director of Space Operations.",
-      "published": "2026-10-22T08:26:00+00:00"
+      "published": "2026-10-22T08:26:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/11/europe_seen_by_ers_satellite/16486928-1-eng-GB/Europe_seen_by_ERS_satellite_card_full.jpg"
     },
     {
       "title": "Stars brewing in a nebulous cauldron",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
       "source": "ESA",
       "summary": "Image: Stars brewing in a nebulous cauldron",
-      "published": "2026-10-22T08:00:00+00:00"
+      "published": "2026-10-22T08:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg"
     },
     {
       "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
       "url": "https://www.nasa.gov/image-detail/iss075e0190239/",
       "source": "NASA Images",
       "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.",
-      "published": "2026-10-21T15:07:00+00:00"
+      "published": "2026-10-21T15:07:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg"
     },
     {
       "title": "Webb Captures Stellar Jets",
       "url": "https://www.nasa.gov/image-detail/55572978759-545472774e-o/",
       "source": "NASA Images",
       "summary": "NASA’s James Webb Space Telescope has revealed many protostars and stars within the glowing gases of NGC 7129. Hot, atomic hydrogen gas is shown here in the golden region, while cooler, molecular hydrogen gas, shocked by embedded protostars, is represented in red.",
-      "published": "2026-10-20T14:45:00+00:00"
+      "published": "2026-10-20T14:45:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png"
     },
     {
       "title": "MMX lifts off to Mars’s moon Phobos",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
       "source": "ESA Science",
       "summary": "Image: MMX lifts off to Mars’s moon Phobos",
-      "published": "2026-10-20T07:00:00+00:00"
+      "published": "2026-10-20T07:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif"
     },
     {
       "title": "Martian Dawn",
       "url": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/",
       "source": "NASA Images",
       "summary": "The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.",
-      "published": "2026-10-19T16:05:00+00:00"
+      "published": "2026-10-19T16:05:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp"
     },
     {
       "title": "Celebrating BepiColombo, three words at a time",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
       "source": "ESA Science",
       "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words. Their answers capture the character of the m",
-      "published": "2026-10-19T15:00:00+00:00"
+      "published": "2026-10-19T15:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png"
     },
     {
       "title": "Euclid discovers new comet",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
       "source": "ESA",
       "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-      "published": "2026-10-19T12:00:00+00:00"
+      "published": "2026-10-19T12:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif"
     },
     {
       "title": "Artemis II Heat Shield After Splashdown",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
       "source": "NASA Images",
       "summary": "Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
-      "published": "2026-10-16T16:33:00+00:00"
+      "published": "2026-10-16T16:33:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg"
     },
     {
       "title": "Chandra Finds Possible Origin of 'Treble Clef' Waves",
       "url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
       "source": "NASA Images",
       "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol.",
-      "published": "2026-10-15T14:20:00+00:00"
+      "published": "2026-10-15T14:20:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg"
     },
     {
       "title": "NASA’s SpaceX CRS-35 Launch Jellyfish",
       "url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
       "source": "NASA Images",
       "summary": "The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft are seen illuminated by sunlight against the predawn sky during the launch of NASA’s SpaceX CRS-35 mission, Tuesday, Oct. 13, 2026, as seen from Cocoa Beach, Florida. The light makes the plumes look like a jellyfish in the sky.",
-      "published": "2026-10-14T15:19:00+00:00"
+      "published": "2026-10-14T15:19:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg"
     },
     {
       "title": "Where winds blow and lava flows",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows",
       "source": "ESA Science",
       "summary": "Image: Where winds blow and lava flows",
-      "published": "2026-10-14T09:00:00+00:00"
+      "published": "2026-10-14T09:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/where_winds_blow_and_lava_flows/27545666-1-eng-GB/Where_winds_blow_and_lava_flows_card_full.jpg"
     },
     {
       "title": "Transporter-18 SmallSats Encapsulation",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
       "source": "NASA Images",
       "summary": "Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.",
-      "published": "2026-10-13T17:52:00+00:00"
+      "published": "2026-10-13T17:52:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg"
     },
     {
       "title": "Week in images: 12-16 October 2026",
       "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026",
       "source": "ESA",
       "summary": "Week in images: 12-16 October 2026 Discover our week through the lens",
-      "published": "2026-10-13T13:10:00+00:00"
+      "published": "2026-10-13T13:10:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg"
     },
     {
       "title": "Mars moon lander set to launch on 19 October",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
       "source": "ESA Science",
       "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. MMX is led by the Japan Aerospace Exploration Agency (JAXA",
-      "published": "2026-10-13T12:00:00+00:00"
+      "published": "2026-10-13T12:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png"
     },
     {
       "title": "Cosmic House of Mirrors",
       "url": "https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/",
       "source": "NASA Images",
       "summary": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.",
-      "published": "2026-10-09T14:28:00+00:00"
+      "published": "2026-10-09T14:28:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg"
     },
     {
       "title": "Crew-12 Returns to Earth",
       "url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
       "source": "NASA Images",
       "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.",
-      "published": "2026-10-08T18:53:00+00:00"
+      "published": "2026-10-08T18:53:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg"
     },
     {
       "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
       "source": "ESA Science",
       "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar st",
-      "published": "2026-10-08T09:00:00+00:00"
+      "published": "2026-10-08T09:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_card_full.png"
     },
     {
       "title": "Artemis II Crew Moon Photo Annotations",
       "url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
       "source": "NASA Images",
       "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.",
-      "published": "2026-10-07T15:46:00+00:00"
+      "published": "2026-10-07T15:46:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg"
     },
     {
       "title": "Mars’s oddest cloud may be even odder than we thought",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
       "source": "ESA Science",
       "summary": "Scientists using the European Space Agency's Mars Express , in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-      "published": "2026-10-07T15:00:00+00:00"
+      "published": "2026-10-07T15:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png"
     },
     {
       "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
       "url": "https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/",
       "source": "NASA Images",
       "summary": "This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.",
-      "published": "2026-10-06T16:17:00+00:00"
+      "published": "2026-10-06T16:17:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg"
     },
     {
       "title": "Webb captures commotion from nebula’s stellar jets",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
       "source": "ESA Science",
       "summary": "Image: Webb captures commotion from nebula’s stellar jets",
-      "published": "2026-10-06T13:00:00+00:00"
+      "published": "2026-10-06T13:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg"
     },
     {
       "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
       "url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
       "source": "NASA Images",
       "summary": "NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.",
-      "published": "2026-10-05T17:45:00+00:00"
+      "published": "2026-10-05T17:45:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg"
     },
     {
       "title": "NASA's DAVINCI Probe Can Stand the Heat",
       "url": "https://www.nasa.gov/image-detail/davinci-heat-test-1/",
       "source": "NASA Images",
       "summary": "An engineering model of NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) descent probe passed a key test that ran from Aug. 28 to Sept. 10, showing it can survive the extreme temperatures of Venus.",
-      "published": "2026-10-02T19:04:00+00:00"
+      "published": "2026-10-02T19:04:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/davinci-heat-test-1.jpg"
     },
     {
       "title": "NASA’s SpaceX Crew-13 Launches",
       "url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/",
       "source": "NASA Images",
       "summary": "A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space For",
-      "published": "2026-10-01T18:07:00+00:00"
+      "published": "2026-10-01T18:07:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg"
     },
     {
       "title": "Star Trails",
       "url": "https://www.nasa.gov/image-detail/iss075e0144232/",
       "source": "NASA Images",
       "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.",
-      "published": "2026-09-30T17:51:00+00:00"
+      "published": "2026-09-30T17:51:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg"
     },
     {
       "title": "Science begins for Smile",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Smile/Science_begins_for_Smile",
       "source": "ESA Science",
       "summary": "On 23 September, the European-Chinese Smile mission was declared ready to start revealing how Earth responds to the wind of charged particles from the Sun. This follows a busy in-space commissioning period since the spacecraft launched on 19 May and reached its target orbit for science operations on 20 June.",
-      "published": "2026-09-30T07:05:00+00:00"
+      "published": "2026-09-30T07:05:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/smile_s_first_ultraviolet_image_shows_auroral_substorm/27545329-1-eng-GB/Smile_s_first_ultraviolet_image_shows_auroral_substorm_card_full.png"
     },
     {
       "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1312/",
       "source": "NASA Images",
       "summary": "Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.",
-      "published": "2026-09-29T15:33:00+00:00"
+      "published": "2026-09-29T15:33:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg"
     },
     {
       "title": "Galaxies in a cosmic house of mirrors",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
       "source": "ESA Science",
       "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster ",
-      "published": "2026-09-29T08:00:00+00:00"
+      "published": "2026-09-29T08:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galaxies_in_a_cosmic_house_of_mirrors/27538440-1-eng-GB/Galaxies_in_a_cosmic_house_of_mirrors_card_full.jpg"
     },
     {
       "title": "Space Station View of Earth at Night",
       "url": "https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/",
       "source": "NASA Images",
       "summary": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time from the International Space Station as it orbited 259 miles above Earth.",
-      "published": "2026-09-28T15:22:00+00:00"
+      "published": "2026-09-28T15:22:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55534901810-95d2f06788-o.jpg"
     },
     {
       "title": "Hubble Spots Chaotic Secret in Galaxy",
       "url": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/",
       "source": "NASA Images",
       "summary": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
-      "published": "2026-09-25T15:54:00+00:00"
+      "published": "2026-09-25T15:54:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg"
     },
     {
       "title": "Practicing for Safe Landings on the Moon and Beyond",
       "url": "https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/",
       "source": "NASA Images",
       "summary": "An Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California, on Thursday, Aug. 27, 2026.",
-      "published": "2026-09-24T16:36:00+00:00"
+      "published": "2026-09-24T16:36:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/afrc2026-0179-18orig.jpg"
     },
     {
       "title": "NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
       "url": "https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/",
       "source": "NASA Images",
       "summary": "An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.",
-      "published": "2026-09-23T18:45:00+00:00"
+      "published": "2026-09-23T18:45:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg"
     },
     {
       "title": "NASA's Chandra Finds Unusual Objects in Pinwheel Galaxy",
       "url": "https://www.nasa.gov/image-detail/m101-lg/",
       "source": "NASA Images",
       "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
-      "published": "2026-09-22T15:44:00+00:00"
+      "published": "2026-09-22T15:44:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg"
     },
     {
       "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
       "url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-mt-bank-stadium/",
       "source": "NASA Images",
       "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore.",
-      "published": "2026-09-21T18:46:00+00:00"
+      "published": "2026-09-21T18:46:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55540215826-eb77fe7409-o.jpg"
     },
     {
       "title": "COSI Telescope Comes Together",
       "url": "https://www.nasa.gov/image-detail/cosi-2026july-01/",
       "source": "NASA Images",
       "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
-      "published": "2026-09-18T15:46:00+00:00"
+      "published": "2026-09-18T15:46:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg"
     },
     {
       "title": "NASA Unveils Enterprise, the First Space Shuttle",
       "url": "https://www.nasa.gov/image-detail/the-shuttle-enterprise-with-star-trek-cast/",
       "source": "NASA Images",
       "summary": "The rollout ceremony for NASA’s first space shuttle, OV-101, coincided with Constitution Day of the nation’s bicentennial on Sept.17, 1976. Although the orbiter was originally planned to be named Constitution, Star Trek fans successfully convinced President Gerald Ford to name it Enterprise after the series’ fictional starship.",
-      "published": "2026-09-17T15:23:00+00:00"
+      "published": "2026-09-17T15:23:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg"
     },
     {
       "title": "Indonesia's Anak Krakatau",
       "url": "https://www.nasa.gov/image-detail/krakatau-oli-20260905-lrg/",
       "source": "NASA Images",
       "summary": "Anak Krakatau erupts ash and volcanic gases in this image acquired with the OLI (Operational Land Imager) on Landsat 8 on Sept. 5, 2026.",
-      "published": "2026-09-16T15:28:00+00:00"
+      "published": "2026-09-16T15:28:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg"
     },
     {
       "title": "Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1307/",
       "source": "NASA Images",
       "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.",
-      "published": "2026-09-15T16:16:00+00:00"
+      "published": "2026-09-15T16:16:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg"
     },
     {
       "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
       "url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-acrisure-stadium/",
       "source": "NASA Images",
       "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania.",
-      "published": "2026-09-14T16:04:00+00:00"
+      "published": "2026-09-14T16:04:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55527488950-2ce6740658-o.jpg"
     },
     {
       "title": "NASA's Chandra Spots Galactic Gem",
       "url": "https://www.nasa.gov/image-detail/galaxies-iizw096/",
       "source": "NASA Images",
       "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.",
-      "published": "2026-09-11T17:22:00+00:00"
+      "published": "2026-09-11T17:22:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg"
     },
     {
       "title": "Dust and Water in Sagittarius A*",
       "url": "https://www.nasa.gov/image-detail/55459350878-2e1468b664-o/",
       "source": "NASA Images",
       "summary": "Using the James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the center of our Milky Way galaxy.",
-      "published": "2026-09-10T16:15:00+00:00"
+      "published": "2026-09-10T16:15:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png"
     },
     {
       "title": "Artemis II Crew at NASA Marshall",
       "url": "https://www.nasa.gov/image-detail/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig/",
       "source": "NASA Images",
       "summary": "The crew of NASA’s Artemis II mission visited NASA’s Marshall Space Flight Center in Huntsville, Alabama on Sept. 1, 2026.",
-      "published": "2026-09-09T15:32:00+00:00"
+      "published": "2026-09-09T15:32:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg"
     },
     {
       "title": "Superbubble in the Large Magellanic Cloud",
       "url": "https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/",
       "source": "NASA Images",
       "summary": "N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.",
-      "published": "2026-09-08T16:49:00+00:00"
+      "published": "2026-09-08T16:49:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg"
     },
     {
       "title": "Lunar Occultation of Venus",
       "url": "https://www.nasa.gov/image-detail/amf-nhq202606170001/",
       "source": "NASA Images",
       "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
-      "published": "2026-09-04T14:16:00+00:00"
+      "published": "2026-09-04T14:16:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/NHQ202606170001/NHQ202606170001~large.jpg"
     },
     {
       "title": "BepiColombo’s Mercury arrival begins - full replay",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
       "source": "ESA Science",
       "summary": "Video: 02:31:10 Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury. After travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 Sept",
-      "published": "2026-09-03T15:00:00+00:00"
+      "published": "2026-09-03T15:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/bepicolombo_s_mercury_arrival_begins_-_full_replay/27450090-5-eng-GB/BepiColombo_s_Mercury_arrival_begins_-_full_replay_card_full.jpg"
     },
     {
       "title": "Igniting Roman's Journey",
       "url": "https://www.nasa.gov/image-detail/amf-nhq202608300037/",
       "source": "NASA Images",
       "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida.",
-      "published": "2026-09-03T14:25:00+00:00"
+      "published": "2026-09-03T14:25:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg"
     },
     {
       "title": "August Lunar Eclipse Rises Over Louisiana",
       "url": "https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/",
       "source": "NASA Images",
       "summary": "A lunar eclipse is visible over southern Louisiana. The lunar eclipse was visible throughout much of North and South America and part of Europe and Africa between Aug. 27-28. The Full Moon slipped through Earth’s shadow on Aug. 27, continuing into Aug. 28 for some parts of the world, resulting in the lunar eclipse. At maximum eclipse, the Moon takes on a dra",
-      "published": "2026-09-02T15:39:00+00:00"
+      "published": "2026-09-02T15:39:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/MAF_20260827_LunarEclipse_01/MAF_20260827_LunarEclipse_01~large.jpg"
     },
     {
       "title": "Artemis III RS-25 Engine Processing: #3 Lift",
       "url": "https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/",
       "source": "NASA Images",
       "summary": "Technicians prepare to transfer the #2 RS-25 SLS (Space Launch System) rocket engine (front) to the work stand with the #3 engine (back) for integration with the Artemis III core stage rocket on Tuesday, Aug. 25, 2026, inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida. During Artemis III, the four RS‑25 engines will launch the Or",
-      "published": "2026-09-01T17:32:00+00:00"
+      "published": "2026-09-01T17:32:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg"
     },
     {
       "title": "NASA's Nancy Grace Roman Space Telescope Launches",
       "url": "https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/",
       "source": "NASA Images",
       "summary": "A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug. 30, 2026, at NASA’s Kennedy Space Center in Florida.",
-      "published": "2026-08-31T14:19:00+00:00"
+      "published": "2026-08-31T14:19:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg"
     },
     {
       "title": "Media briefing: BepiColombo's next milestone towards Mercury",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
       "source": "ESA Science",
       "summary": "Video: 01:09:40 Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury. This briefing focused on the complexities of the separation of the Mercury Transfer Module ( MTM ), scheduled for 3 September 2026, a critical milestone marking",
-      "published": "2026-08-31T14:00:00+00:00"
+      "published": "2026-08-31T14:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/media_briefing_bepicolombo_s_next_milestone_towards_mercury/27443108-5-eng-GB/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury_card_full.jpg"
     },
     {
       "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
       "url": "https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/",
       "source": "NASA Images",
       "summary": "President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.",
-      "published": "2026-08-28T22:24:00+00:00"
+      "published": "2026-08-28T22:24:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg"
     },
     {
       "title": "Civil Servants Sworn in at NASA Ames",
       "url": "https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/",
       "source": "NASA Images",
       "summary": "New civil servants and guests pose for a group photo with NASA and Center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221.",
-      "published": "2026-08-27T18:04:00+00:00"
+      "published": "2026-08-27T18:04:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0108-042orig.jpg"
     },
     {
       "title": "Roman Space Telescope Travels to SpaceX Hangar",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1305/",
       "source": "NASA Images",
       "summary": "NASA’s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels to the SpaceX hangar at Launch Complex 39A at NASA’s Kennedy Space Center on Tuesday, Aug. 25, 2026.",
-      "published": "2026-08-26T18:41:00+00:00"
+      "published": "2026-08-26T18:41:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260825-ph-ser01-0001orig.jpg"
     },
     {
       "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
       "url": "https://www.nasa.gov/image-detail/gmt230_ehdc1-2/",
       "source": "NASA Images",
       "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station.",
-      "published": "2026-08-25T14:58:00+00:00"
+      "published": "2026-08-25T14:58:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg"
     },
     {
       "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
       "url": "https://www.nasa.gov/image-detail/freedom-250-grand-prix/",
       "source": "NASA Images",
       "summary": "NASA astronaut Reid Wiseman, Artemis II commander, is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap in the fastest seat in sport ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Photo Credit: (NASA/Joel Kowsky)",
-      "published": "2026-08-24T17:35:00+00:00"
+      "published": "2026-08-24T17:35:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg"
     },
     {
       "title": "Webb Opens Treasure Chest",
       "url": "https://www.nasa.gov/image-detail/webb-opens-a-treasure-chest-filled-with-stars/",
       "source": "NASA Images",
       "summary": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 light-years away in the constellation Carina (the Keel).",
-      "published": "2026-08-21T17:41:00+00:00"
+      "published": "2026-08-21T17:41:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55457472091-12a8c7edb0-o.jpg"
     },
     {
       "title": "Artemis Mission Patches",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1304/",
       "source": "NASA Images",
       "summary": "A NASA jacket containing Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside Firing Room 1 of the Rocco A. Petrone Launch Control Center at NASA’s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission.",
-      "published": "2026-08-20T15:15:00+00:00"
+      "published": "2026-08-20T15:15:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260806-ph-rcr01-0010orig.jpg"
     },
     {
       "title": "Ancient Milky Way Merger",
       "url": "https://www.nasa.gov/image-detail/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764/",
       "source": "NASA Images",
       "summary": "About 12 billion years ago, a dwarf galaxy known as LKH collided with a young Milky Way and merged with it. This artist’s concept portrays that collision. NASA’s Hubble Space Telescope uncovered definitive evidence of this collision by studying globular star clusters.",
-      "published": "2026-08-19T16:20:00+00:00"
+      "published": "2026-08-19T16:20:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764.png"
     },
     {
       "title": "Fly around Schiaparelli Crater with Mars Express",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
       "source": "ESA Science",
       "summary": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been filled in over the last few billion years by sediment blown by the wind or deposited by water, by lava – or by a combina",
-      "published": "2026-08-19T09:00:00+00:00"
+      "published": "2026-08-19T09:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/fly_around_schiaparelli_crater_with_mars_express/27423004-1-eng-GB/Fly_around_Schiaparelli_Crater_with_Mars_Express_card_full.png"
     },
     {
       "title": "NASA's B777 Gets New Coat of Paint",
       "url": "https://www.nasa.gov/image-detail/jsc2026e407303/",
       "source": "NASA Images",
       "summary": "NASA's Boeing 777 returns to the agency's Langley Research Center after receiving a new paint scheme.",
-      "published": "2026-08-18T15:16:00+00:00"
+      "published": "2026-08-18T15:16:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg"
     },
     {
       "title": "Colorful Collage of Tarantula Nebula",
       "url": "https://www.nasa.gov/image-detail/30dor-crop/",
       "source": "NASA Images",
       "summary": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.",
-      "published": "2026-08-17T16:03:00+00:00"
+      "published": "2026-08-17T16:03:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg"
     },
     {
       "title": "Total solar eclipse 2026 (Official ESA broadcast)",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
       "source": "ESA Science",
       "summary": "Video: 01:10:42 We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeastern Portugal, while much of Europe experienced a partial eclipse. A total solar eclipse occurs when the Moon passes direc",
-      "published": "2026-08-17T14:00:00+00:00"
+      "published": "2026-08-17T14:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/total_solar_eclipse_2026_official_esa_broadcast/27417091-2-eng-GB/Total_solar_eclipse_2026_Official_ESA_broadcast_card_full.png"
     },
     {
       "title": "Total Solar Eclipse in Sunflower Field",
       "url": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/",
       "source": "NASA Images",
       "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026.",
-      "published": "2026-08-14T14:49:00+00:00"
+      "published": "2026-08-14T14:49:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55460226954-564d105934-o.jpg"
     },
     {
       "title": "Perseids Meteor Shower",
       "url": "https://www.nasa.gov/image-detail/perseidsorion-2/",
       "source": "NASA Images",
       "summary": "The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.",
-      "published": "2026-08-13T15:09:00+00:00"
+      "published": "2026-08-13T15:09:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp"
     },
     {
       "title": "2026 Total Solar Eclipse in Spain",
       "url": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/",
       "source": "NASA Images",
       "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.",
-      "published": "2026-08-12T20:17:00+00:00"
+      "published": "2026-08-12T20:17:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg"
     },
     {
       "title": "Lion Nebula Roars in Webb's Sights",
       "url": "https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/",
       "source": "NASA Images",
       "summary": "NASA’s James Webb Space Telescope imaged the planetary nebula NGC 2392, the Lion Nebula, using the observatory’s NIRCam and MIRI instruments. The central star’s remains are responsible for the nebula’s structure, including a lion face-shaped bubble of ionized gas and dust “mane.”",
-      "published": "2026-08-11T17:03:00+00:00"
+      "published": "2026-08-11T17:03:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png"
     },
     {
       "title": "NASA Astronaut Jessica Meir Uses VR Goggles",
       "url": "https://www.nasa.gov/image-detail/iss075e0000191/",
       "source": "NASA Images",
       "summary": "NASA astronaut and Expedition 75 commander Jessica Meir wears a set of virtual reality goggles, also called the Nevada Screening Vision System, for a test that measures visual function using a series of vision screening apps testing visual acuity, contrast sensitivity, and more.",
-      "published": "2026-08-10T15:50:00+00:00"
+      "published": "2026-08-10T15:50:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg"
     },
     {
       "title": "NASA's IXPE Studies Magnetar",
       "url": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/",
       "source": "NASA Images",
       "summary": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
-      "published": "2026-08-07T14:28:00+00:00"
+      "published": "2026-08-07T14:28:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png"
     },
     {
       "title": "Taking Flight to Prepare for Space",
       "url": "https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o/",
       "source": "NASA Images",
       "summary": "NASA astronaut candidate Adam Fuhrmann prepares for a training flight aboard NASA’s WB-57 aircraft.",
-      "published": "2026-08-06T15:20:00+00:00"
+      "published": "2026-08-06T15:20:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg"
     },
     {
       "title": "Artemis III Orion Crew and Service Modules Joined",
       "url": "https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/",
       "source": "NASA Images",
       "summary": "Engineers connect the Orion crew and service modules for the Artemis III mission inside the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida.",
-      "published": "2026-08-05T17:31:00+00:00"
+      "published": "2026-08-05T17:31:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260730-ph-as01-6583.webp"
     },
     {
       "title": "Roman Space Telescope Plaque Install",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1303/",
       "source": "NASA Images",
       "summary": "Technicians inside the Payload Hazardous Servicing Facility at NASA’s Kennedy Space Center complete installation of a commemorative plaque on the agency’s Nancy Grace Roman Space Telescope, as photographed on Tuesday, July 28, 2026.",
-      "published": "2026-08-04T15:54:00+00:00"
+      "published": "2026-08-04T15:54:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260728-ph-jmt01-0003orig.jpg"
     },
     {
       "title": "Guinea-Bissau Tidal Waters",
       "url": "https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/",
       "source": "NASA Images",
       "summary": "Relatively low tidal waters expose sandflats and mudflats in the Bijagós Archipelago of Guinea-Bissau in this image acquired on November 28, 2025, with the OLI (Operational Land Imager) on Landsat 8. These coastal landforms support an array of invertebrates, making the archipelago a popular stopover for migratory shorebirds.",
-      "published": "2026-08-03T17:16:00+00:00"
+      "published": "2026-08-03T17:16:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg"
     },
     {
       "title": "NASA's Newest Wind Tunnel Opens at NASA Langley",
       "url": "https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/",
       "source": "NASA Images",
       "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia, on Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles.",
-      "published": "2026-07-31T20:20:00+00:00"
+      "published": "2026-07-31T20:20:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg"
     },
     {
       "title": "Starburst Galaxy Centaurus A",
       "url": "https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/",
       "source": "NASA Images",
       "summary": "NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system.",
-      "published": "2026-07-30T14:24:00+00:00"
+      "published": "2026-07-30T14:24:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932.png"
     },
     {
       "title": "εpsilon",
       "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon",
       "source": "ESA",
       "summary": "εpsilon",
-      "published": "2026-01-21T12:54:00+00:00"
+      "published": "2026-01-21T12:54:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/epsilon_website/27067642-5-eng-GB/Epsilon_website_card_full.jpg"
     }
   ],
   "sources": [
