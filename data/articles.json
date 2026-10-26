@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-26T15:11:21.775384+00:00",
+  "updated_at": "2026-10-26T21:00:38.462612+00:00",
   "articles": [
+    {
+      "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
+      "source": "NASA",
+      "summary": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research",
+      "published": "2026-10-26T19:28:08+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "NASA SEES Interns s'attaque aux défis du monde réel dans l'exploration lunaire",
+      "summary_fr": "Le programme de stages STEM de la NASA (Science, Technologie, Ingénierie et Mathématiques) en sciences de la Terre (SEES) au Centre de recherche spatiale de l'Université du Texas place les élèves du secondaire dans de petites équipes de recherche axées sur la mission encadrées par des experts de la NASA, des universitaires et de l'industrie. Au cours de l'été 2026, le SEES Mission Architecture Tool for Research"
+    },
+    {
+      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
+      "source": "NASA",
+      "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
+      "published": "2026-10-26T17:13:44+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
+      "title_fr": "La NASA invite les médias à effectuer une simulation d'atterrissage en Californie",
+      "summary_fr": "Les médias sont invités à visiter un nouveau simulateur d'atterrissage lunaire au Centre de recherche Ames de la NASA dans la Silicon Valley de Californie le jeudi 29 octobre et le vendredi 30 octobre."
+    },
+    {
+      "title": "NASA's X-59 Aircraft and Test Pilot",
+      "url": "https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/",
+      "source": "NASA Images",
+      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.",
+      "published": "2026-10-26T15:29:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
+      "title_fr": "Le pilote d'avion et d'essai X-59 de la NASA",
+      "summary_fr": "Le pilote d'essai de la NASA, Mike Lippert, pose pour une photo avant sa première prise de vol de l'avion de recherche supersonique X-59 de l'agence le 21 octobre 2026."
+    },
+    {
+      "title": "NASA’s X-59 Aircraft and Test Pilot",
+      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
+      "source": "NASA",
+      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]",
+      "published": "2026-10-26T15:25:47+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
+      "title_fr": "NASA-59 Aéronef et pilote d'essai",
+      "summary_fr": "Le pilote d'essai de la NASA, Mike Lippert, pose pour une photo avant son premier vol de l'agence X-59, le 21 octobre 2026. Le X-59 a volé plusieurs fois depuis son vol inaugural en novembre 2025; son premier vol supersonique a eu lieu le 5 juin 2026. Lippert a décollé du vol NASA-Armstrong [...]"
+    },
     {
       "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
       "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
@@ -22,13 +62,14 @@
       "summary_fr": "Avec ses réseaux solaires intégrés et des examens de qualification clés en cours, le nouveau satellite de surveillance de la glace Europe, CRISTAL, passe de l'assemblage à la phase d'essai exigeante qui démontrera sa disponibilité pour les rigueurs de lancement et de vie en orbite."
     },
     {
-      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
       "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
       "source": "NASA",
-      "summary": "",
+      "summary": "NASA Astronomy Picture of the Day — M42: The Great Nebula in Orion. Read the original NASA page for the scientific explanation.",
       "published": "2026-10-26T04:05:00+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "2026 26 octobre – M42 : La Grande Nébuleuse d'Orion"
+      "title_fr": "APOD: 2026 Octobre 26 – M42: La Grande Nébuleuse à Orion",
+      "summary_fr": "Astronomie de la NASA Image du jour — M42: La Grande Nébuleuse d'Orion. Lisez la page originale de la NASA pour l'explication scientifique."
     },
     {
       "title": "Hunting Red Leaves with Satellites",
@@ -81,16 +122,6 @@
       "summary_fr": "Avant que les astronautes ne retournent à la surface lunaire, la NASA effectuera d'abord l'une des missions d'essais les plus ambitieuses et les plus complexes de l'histoire de l'agence. Lancement en 2027, Artemis III enverra les astronautes de la NASA Randy Bresnik, Frank Rubio, Andre Douglas, et l'astronaute de l'ESA (Agence spatiale européenne) Luca Parmitano à bord de l'engin spatial Orion en orbite [...]"
     },
     {
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-      "source": "NASA",
-      "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected",
-      "published": "2026-10-23T21:51:19+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "La mission Swift de la NASA se termine, laisse derrière bonanza scientifique",
-      "summary_fr": "Neil Gehrels Swift Observatoire a terminé sa mission scientifique maintenant que l'engin spatial est en orbite à moins de 171 miles (275 kilomètres) au-dessus de la surface de la Terre. La plus grande traînée atmosphérique à cette hauteur empêche les télescopes satellites de surveiller régulièrement leurs cibles astronomiques. Swift a effectué son observation finale le 20 octobre. Il est attendu"
-    },
-    {
       "title": "RS-25 Engine Tests at NASA Stennis",
       "url": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/",
       "source": "NASA Images",
@@ -99,26 +130,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
       "title_fr": "RS-25 Essais de moteur à la NASA Stennis",
       "summary_fr": "Les équipes du Centre spatial de Stennis près de Bay St. Louis, Mississippi, ont testé le moteur RS-25 no 10001 le 21 octobre 2026."
-    },
-    {
-      "title": "RS-25 Engine Tests at NASA Stennis",
-      "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/",
-      "source": "NASA",
-      "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]",
-      "published": "2026-10-23T18:57:04+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
-      "title_fr": "RS-25 Essais de moteur à la NASA Stennis",
-      "summary_fr": "Les équipes du Centre spatial de Stennis près de Bay St. Louis, Mississippi, ont testé le moteur RS-25 no 10001 le 21 octobre 2026. L'essai de tir à chaud a duré près de huit minutes et demie (500 secondes), le même temps d'incendie des moteurs RS-25 lors du lancement de la fusée NASAS (Space Launch System), avec un niveau de puissance de 111%. Pour chaque [...]"
-    },
-    {
-      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/",
-      "source": "NASA",
-      "summary": "NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning ",
-      "published": "2026-10-23T17:50:21+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg",
-      "title_fr": "NASA, Virginie Lancement du Partenariat pour la sécurité énergétique",
-      "summary_fr": "La NASA aide à promouvoir la sécurité énergétique à long terme en Virginie. Le Centre de recherche Langley de la NASA à Hampton, en Virginie, collabore avec le département de l'énergie de Virginie pour appuyer les décisions éclairées en matière de production, de livraison et d'utilisation d'énergie en fournissant des ensembles de données solaires, météorologiques et futures sur les risques météorologiques pour la modélisation et la planification des systèmes énergétiques."
     },
     {
       "title": "Week in images: 19-23 October 2026",
@@ -898,15 +909,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg",
       "title_fr": "Le nouveau tunnel éolien de la NASA ouvre à la NASA Langley",
       "summary_fr": "La NASA a ouvert vendredi son nouveau tunnel à vent, le Flight Dynamics Research Facility au Centre de recherche de la NASA de Langley à Hampton, en Virginie, fournissant une ressource essentielle à l'agence et à ses partenaires pour tester la sécurité et les performances des générations futures de véhicules d'aviation, de fusées et d'exploration spatiale."
-    },
-    {
-      "title": "Starburst Galaxy Centaurus A",
-      "url": "https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/",
-      "source": "NASA Images",
-      "summary": "NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system.",
-      "published": "2026-07-30T14:24:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932.png",
-      "summary_fr": "Le télescope spatial James Webb (Mid-Infrared Instrument) de la NASA révèle la galaxie voisine Centaurus A, exposant les structures poussiéreuses et l'activité cachée qui façonnent ce système inhabituel."
     },
     {
       "title": "εpsilon",
