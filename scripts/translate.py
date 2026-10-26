@@ -24,13 +24,16 @@ def main():
             cache = json.loads(cache_path.read_text(encoding="utf-8"))
         except (OSError, ValueError):
             cache = {}
+    reviewed_titles = {"APOD: 2026 October 25 – Dark Matter in a Simulated Universe": "Image astronomique du jour : la matière noire dans un univers simulé", "APOD: 2026 October 24 – Rosetta’s Selfie": "Image astronomique du jour : l’autoportrait de Rosetta", "NASA, Partners Accelerate Lander Development for 2028 Moon Missions": "La NASA et ses partenaires accélèrent le développement des atterrisseurs pour les missions lunaires de 2028"}
     updated = 0
     for a in data.get("articles", []):
         for key in ("title", "summary"):
             original = re.sub(r"\\s+", " ", a.get(key, "")).strip()
             if not original:
                 continue
-            translated = cache.get(original)
+            translated = reviewed_titles.get(original) if key == "title" else None
+            if translated is None:
+                translated = cache.get(original)
             if translated is None:
                 translated = re.sub(r"\\s+", " ", argostranslate.translate.translate(original, "en", "fr")).strip()
                 if translated:
