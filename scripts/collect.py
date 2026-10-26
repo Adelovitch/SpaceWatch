@@ -107,7 +107,7 @@ def enrich(article):
         parser.feed(page)
         if not article.get("image"):
             article["image"] = safe_image(urljoin(article["url"], parser.image)) if parser.image else ""
-        if parser.description and not ("APOD Science APOD" in parser.description or "Archive Submissions Index" in parser.description) and (
+        if parser.description and not ("APOD Science APOD" in parser.description or "Archive Submissions Index" in parser.description or "Today’s APOD Archive" in parser.description) and (
             article.get("summary", "").startswith("APOD Science APOD")
             or not article.get("summary")
         ):
@@ -135,7 +135,7 @@ def parse(payload, source):
             continue
         published = iso(childtext(node, "pubDate", ATOM + "published", ATOM + "updated", DC + "date"))
         summary = clean(childtext(node, "description", ATOM + "summary", ATOM + "content"))
-        if "APOD Science APOD" in summary or "Archive Submissions Index Search Calendar" in summary:
+        if "APOD Science APOD" in summary or "Archive Submissions Index" in summary or "Today’s APOD Archive" in summary:
             summary = ""
         articles.append(dict(title=title, url=url, source=source, summary=summary, published=published, image=image_from_entry(node)))
     return articles
