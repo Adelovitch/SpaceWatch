@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Optional offline English-to-French translation; original fields are preserved."""
 import json
-import os
+import re
 from pathlib import Path
 
 DATA = Path(__file__).resolve().parents[1] / "data" / "articles.json"
@@ -27,12 +27,12 @@ def main():
     updated = 0
     for a in data.get("articles", []):
         for key in ("title", "summary"):
-            original = a.get(key, "").strip()
+            original = re.sub(r"\\s+", " ", a.get(key, "")).strip()
             if not original:
                 continue
             translated = cache.get(original)
             if translated is None:
-                translated = argostranslate.translate.translate(original, "en", "fr").strip()
+                translated = re.sub(r"\\s+", " ", argostranslate.translate.translate(original, "en", "fr")).strip()
                 if translated:
                     cache[original] = translated
             if translated and translated != original:
