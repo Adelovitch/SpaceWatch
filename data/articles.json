@@ -1,6 +1,45 @@
 {
-  "updated_at": "2026-10-26T04:45:29.248170+00:00",
+  "updated_at": "2026-10-26T15:11:21.775384+00:00",
   "articles": [
+    {
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
+      "source": "NASA",
+      "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the ",
+      "published": "2026-10-26T13:54:25+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg",
+      "title_fr": "NASA, USDA signe un accord pour faire progresser les sciences de la Terre, l'agriculture",
+      "summary_fr": "La NASA et le Département de l'agriculture des États-Unis (USDA) ont signé un protocole d'entente qui étend la coopération en matière d'observation de la Terre, d'analyse géospatiale et de technologies de pointe en matière de données, appuyant le plan de modernisation des données de l'USDA pour l'agriculture des États-Unis. La NASA développe certaines des capacités de détection, de calcul et d'analyse les plus avancées dans le"
+    },
+    {
+      "title": "Ice mission CRISTAL opens its wings",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
+      "source": "ESA",
+      "summary": "With its solar arrays integrated and key qualification reviews under way, Europe’s new ice-monitoring satellite, CRISTAL, is moving from assembly into the demanding testing phase that will demonstrate its readiness for the rigours of launch and life in orbit.",
+      "published": "2026-10-26T10:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
+      "title_fr": "Mission sur glace CRISTAL ouvre ses ailes",
+      "summary_fr": "Avec ses réseaux solaires intégrés et des examens de qualification clés en cours, le nouveau satellite de surveillance de la glace Europe, CRISTAL, passe de l'assemblage à la phase d'essai exigeante qui démontrera sa disponibilité pour les rigueurs de lancement et de vie en orbite."
+    },
+    {
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
+      "source": "NASA",
+      "summary": "",
+      "published": "2026-10-26T04:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "2026 26 octobre – M42 : La Grande Nébuleuse d'Orion"
+    },
+    {
+      "title": "Hunting Red Leaves with Satellites",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
+      "source": "NASA",
+      "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
+      "published": "2026-10-26T04:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/red-leaf-hunting-/vermontfallcolor_oli2_20261003_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Chasse Feuilles rouges avec satellites",
+      "summary_fr": "Un satellite moderne permet de poursuivre l'ancienne tradition du peeping des feuilles d'une toute nouvelle manière."
+    },
     {
       "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
@@ -100,36 +139,6 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_the_pink_city/27589033-1-eng-GB/Earth_from_Space_The_pink_city_card_full.jpg",
       "title_fr": "La Terre de l'espace : la ville rose",
       "summary_fr": "Image: Cette image montre une vue détaillée de la ville de Toulouse dans le sud-ouest de la France, avec ses toits en tuiles en terre cuite lui prêtant le surnom de la ville rose, ou la ville rose."
-    },
-    {
-      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-      "source": "NASA",
-      "summary": "APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern Spring Explanation:",
-      "published": "2026-10-23T04:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/APOD_Lucy.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 23 octobre – Andromède au printemps sud",
-      "summary_fr": "APODScienceAPODAPODODOD : 2026 23 octobre –...Aujourd'hui APODarchiveSoumissionsIndexRechercheCalendrierRSSÉducationÀ proposDiscussion APOD Astronomie Photo du jour Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Andromeda à Southern Spring Explication :"
-    },
-    {
-      "title": "El Niño Then and Now",
-      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/",
-      "source": "NASA",
-      "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-      "published": "2026-10-23T04:00:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-niño-then-and-now/elninocomp_sen6_20261012_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "El Niño Alors et maintenant",
-      "summary_fr": "Un record d'altimétrie satellite de 35 ans permet aux scientifiques de tenir cette année."
-    },
-    {
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "source": "NASA",
-      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]",
-      "published": "2026-10-22T21:39:58+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2019/11/nasa_meatball.jpg",
-      "title_fr": "La NASA invite les médias au Symposium d'exploration spatiale de von Braun en 2026",
-      "summary_fr": "Les membres des médias sont invités à se joindre à la NASA lors du 2026 von Braun Space Exploration Symposium du lundi 26 octobre au mercredi 28 octobre à l'Université d'Alabama à Huntsville. Cette année, le symposium est axé sur le retour de l'humanité sur la Lune, l'infrastructure lunaire durable, la propulsion spatiale avancée et l'évolution de la main-d'œuvre spatiale. Panneaux [...]"
     },
     {
       "title": "Spiral's Edge",
@@ -289,16 +298,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg",
       "title_fr": "Transporteur-18 SmallSats Encapsulation",
       "summary_fr": "Trois petits vaisseaux spatiaux soutenus par la NASA, montrés avec de nombreuses charges utiles commerciales, avant d'être encapsulés dans un Faucon SpaceX 9. La fusée a lancé les charges utiles sur orbite terrestre basse à 11 h 32 HAP jeudi 1er octobre 2026, dans le cadre de la mission Transporter-18 de la compagnie du complexe de lancement spatial 4 Est à la base de Vandenberg en Californie."
-    },
-    {
-      "title": "Week in images: 12-16 October 2026",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_12-16_October_2026",
-      "source": "ESA",
-      "summary": "Week in images: 12-16 October 2026 Discover our week through the lens",
-      "published": "2026-10-13T13:10:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/drilling_down_for_the_moon/27577973-1-eng-GB/Drilling_down_for_the_Moon_card_full.jpg",
-      "title_fr": "Semaine en images: 12-16 Octobre 2026",
-      "summary_fr": "Semaine en images: 12-16 Octobre 2026 Découvrez notre semaine à travers l'objectif"
     },
     {
       "title": "Mars moon lander set to launch on 19 October",
