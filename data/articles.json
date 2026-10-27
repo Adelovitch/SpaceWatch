@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-10-26T21:00:38.462612+00:00",
+  "updated_at": "2026-10-27T05:02:57.482090+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
+      "source": "NASA",
+      "summary": "NASA Astronomy Picture of the Day — Noctilucent Clouds over Sweden. Read the original NASA page for the scientific explanation.",
+      "published": "2026-10-27T04:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 27 octobre – Nuages noctilucents sur la Suède",
+      "summary_fr": "L'astronomie de la NASA Image du jour — Nuages noctilucents sur la Suède. Lisez la page originale de la NASA pour l'explication scientifique."
+    },
+    {
+      "title": "A-81 Reaches South Georgia",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
+      "source": "NASA",
+      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
+      "published": "2026-10-27T04:00:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "A-81 Atteint la Géorgie du Sud",
+      "summary_fr": "L'iceberg antarctique a fait une sortie relativement rapide de la mer de Weddell, seulement pour ralentir au bord d'une île lointaine."
+    },
+    {
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+      "source": "NASA",
+      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
+      "published": "2026-10-26T22:48:12+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "NASAS Perseverance Views Poussière à Neretva Vallis",
+      "summary_fr": "Désignation des marchandises Ce regard à 360 degrés sur Neretva Vallis dans Mars... ..Jezero Crater a été cousu ensemble à l'aide de 217 images acquises par le rover... ..Mastcam-Z le 20 mai 2024, le 1.155ème jour martien, ou sol, de la mission. Alors qu'il s'agit d'une vue poussiéreuse du vent aujourd'hui, il y a des milliards d'années il y avait un canal de rivière qui a alimenté l'eau [...]"
+    },
+    {
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+      "source": "NASA",
+      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]",
+      "published": "2026-10-26T21:07:28+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg",
+      "title_fr": "La persévérance de la NASA offre des indices pour protéger les équipages de la poussière de Mars",
+      "summary_fr": "Pendant 1 645 jours martiens, le rover de la NASA Perseverance Mars a mesuré les particules fines et ultrafines de poussières martiennes trouvées accrochées à des échantillons de matériaux de combinaison d'espace qui sont transportés à bord du rover, y compris certains qui sont assez petits pour pénétrer les poumons et entrer dans le flux sanguin. Les conclusions seront publiées mardi 27 octobre dans les Actes de [...]"
+    },
+    {
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "url": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/",
+      "source": "NASA",
+      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]",
+      "published": "2026-10-26T20:53:13+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "L'arpenteur NEO S'inspecte",
+      "summary_fr": "Désignation des marchandises Le grand pare-soleil de l'arpenteur d'objets géocroiseurs de la NASA (NEO) est monté sur un anneau lors d'inspections dans une salle propre de BAE Systems Space & Mission Systems à Boulder, Colorado, en juillet 2026. La structure d'ombre de soleil mesure 20 pieds (6 mètres) de haut et mesure 8 pieds (2,4 mètres) de large à sa base. Ses deux [...]"
+    },
+    {
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "url": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor/",
+      "source": "NASA",
+      "summary": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. ",
+      "published": "2026-10-26T20:52:24+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Cellules solaires inspectées par la NASA",
+      "summary_fr": "Désignation des marchandises Le grand parasol de la mission d'arpenteur d'objets géocroiseurs (NEO) de la NASA est inspecté par un technicien de BAE Systems Space & Mission Systems à Boulder, Colorado, fin juillet. Construit par Applied Aerospace à Stockton, en Californie, la structure de l'ombre solaire a été équipée de ses cellules solaires par SolAero Technologies à Albuquerque, au Nouveau-Mexique, en janvier."
+    },
     {
       "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
       "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/",
@@ -60,66 +120,6 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/testing_cristal_s_solar_panel_deployment/27590593-1-eng-GB/Testing_CRISTAL_s_solar_panel_deployment_card_full.jpg",
       "title_fr": "Mission sur glace CRISTAL ouvre ses ailes",
       "summary_fr": "Avec ses réseaux solaires intégrés et des examens de qualification clés en cours, le nouveau satellite de surveillance de la glace Europe, CRISTAL, passe de l'assemblage à la phase d'essai exigeante qui démontrera sa disponibilité pour les rigueurs de lancement et de vie en orbite."
-    },
-    {
-      "title": "APOD: 2026 October 26 – M42: The Great Nebula in Orion",
-      "url": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/",
-      "source": "NASA",
-      "summary": "NASA Astronomy Picture of the Day — M42: The Great Nebula in Orion. Read the original NASA page for the scientific explanation.",
-      "published": "2026-10-26T04:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/OrionSword_Palaia_2000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 Octobre 26 – M42: La Grande Nébuleuse à Orion",
-      "summary_fr": "Astronomie de la NASA Image du jour — M42: La Grande Nébuleuse d'Orion. Lisez la page originale de la NASA pour l'explication scientifique."
-    },
-    {
-      "title": "Hunting Red Leaves with Satellites",
-      "url": "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/",
-      "source": "NASA",
-      "summary": "A modern satellite makes it possible to pursue the ancient tradition of leaf-peeping in a whole new way.",
-      "published": "2026-10-26T04:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/red-leaf-hunting-/vermontfallcolor_oli2_20261003_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Chasse Feuilles rouges avec satellites",
-      "summary_fr": "Un satellite moderne permet de poursuivre l'ancienne tradition du peeping des feuilles d'une toute nouvelle manière."
-    },
-    {
-      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/",
-      "source": "NASA",
-      "summary": "NASA Astronomy Picture of the Day — Dark Matter in a Simulated Universe. Read the original NASA page for the scientific explanation.",
-      "published": "2026-10-25T08:19:48+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Image astronomique du jour : la matière noire dans un univers simulé",
-      "summary_fr": "L'astronomie de la NASA Image du jour — La matière noire dans un univers simulé. Lisez la page originale de la NASA pour l'explication scientifique."
-    },
-    {
-      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/",
-      "source": "NASA",
-      "summary": "NASA Astronomy Picture of the Day — Rosetta’s Selfie. Read the original NASA page for the scientific explanation.",
-      "published": "2026-10-24T04:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-      "title_fr": "Image astronomique du jour : l’autoportrait de Rosetta",
-      "summary_fr": "L'astronomie de la NASA Image du jour — Rosettas Selfie. Lisez la page originale de la NASA pour l'explication scientifique."
-    },
-    {
-      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "source": "NASA",
-      "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and Sp",
-      "published": "2026-10-23T22:39:39+00:00",
-      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-      "title_fr": "La NASA et ses partenaires accélèrent le développement des atterrisseurs pour les missions lunaires de 2028",
-      "summary_fr": "Alors que la NASA retourne les humains à la surface lunaire et établit une présence à long terme sur notre voisin céleste le plus proche, l'agence et les fournisseurs de systèmes d'atterrissage humains commerciaux Blue Origin et SpaceX ont simplifié les conceptions et modifié les deux concepts d'opérations pour ses futurs atterisseurs en équipage. Depuis que la NASA a établi des contrats initiaux avec Blue Origin et Sp"
-    },
-    {
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "source": "NASA",
-      "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
-      "published": "2026-10-23T22:37:53+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg",
-      "title_fr": "La mission Artemis III de la NASA pour tester les opérations futures d'atterrissage de lune",
-      "summary_fr": "Avant que les astronautes ne retournent à la surface lunaire, la NASA effectuera d'abord l'une des missions d'essais les plus ambitieuses et les plus complexes de l'histoire de l'agence. Lancement en 2027, Artemis III enverra les astronautes de la NASA Randy Bresnik, Frank Rubio, Andre Douglas, et l'astronaute de l'ESA (Agence spatiale européenne) Luca Parmitano à bord de l'engin spatial Orion en orbite [...]"
     },
     {
       "title": "RS-25 Engine Tests at NASA Stennis",
