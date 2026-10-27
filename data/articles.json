@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-27T05:02:57.482090+00:00",
+  "updated_at": "2026-10-27T14:30:43.025118+00:00",
   "articles": [
+    {
+      "title": "First light: Hera resolves two asteroids instead of one",
+      "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
+      "source": "ESA",
+      "summary": "The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing the binary nature of the Didymos system, currently some 197 million km away from Earth.",
+      "published": "2026-10-27T14:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_s_first_view_of_the_separate_didymos_and_dimorphos_asteroids/27592324-1-eng-GB/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_card_full.png",
+      "title_fr": "Première lumière: Hera résout deux astéroïdes au lieu d'un",
+      "summary_fr": "L'Agence Spatiale Européenne Hera pour la défense planétaire a résolu ses deux astéroïdes cibles séparément pour la toute première fois, révélant la nature binaire du système Didymos, actuellement à environ 197 millions de km de la Terre."
+    },
+    {
+      "title": "ESA procures four new Galileo Second Generation satellites",
+      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
+      "source": "ESA",
+      "summary": "The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new services. With this procurement, the Galileo Second Generation fleet grows to 16 satellites.",
+      "published": "2026-10-27T10:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
+      "title_fr": "L'ESA achète quatre nouveaux satellites Galileo de deuxième génération",
+      "summary_fr": "L'Agence spatiale européenne (ESA) a prolongé les contrats en cours pour la construction de quatre nouveaux satellites Galileo de deuxième génération (G2), assurant la continuité à long terme de la constellation et soutenant le déploiement de nouveaux services. Avec cette acquisition, la flotte Galileo de deuxième génération atteint 16 satellites."
+    },
+    {
+      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
+      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
+      "source": "NASA",
+      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s […]",
+      "published": "2026-10-27T07:07:51+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg",
+      "title_fr": "Comment un mentor Johnson façonne la prochaine génération de talents de la NASA",
+      "summary_fr": "Lorsque Malvika Bhardwaj, étudiante à l'université de Rice, a demandé à son mentor Daniel Cohen, ingénieur en guidage, navigation et contrôle (GN&C) à la NASA, s'il avait le temps de continuer à enseigner les stagiaires avec sa charge de travail chargée, il a répondu : « Vous décidez de ce qui est important. » En l'honneur de la Journée nationale de mentorat le 27 octobre, Bhardwaj réfléchit sur la façon dont Cohen..."
+    },
     {
       "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
@@ -102,16 +132,6 @@
       "summary_fr": "Le pilote d'essai de la NASA, Mike Lippert, pose pour une photo avant son premier vol de l'agence X-59, le 21 octobre 2026. Le X-59 a volé plusieurs fois depuis son vol inaugural en novembre 2025; son premier vol supersonique a eu lieu le 5 juin 2026. Lippert a décollé du vol NASA-Armstrong [...]"
     },
     {
-      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
-      "url": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/",
-      "source": "NASA",
-      "summary": "NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the ",
-      "published": "2026-10-26T13:54:25+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg",
-      "title_fr": "NASA, USDA signe un accord pour faire progresser les sciences de la Terre, l'agriculture",
-      "summary_fr": "La NASA et le Département de l'agriculture des États-Unis (USDA) ont signé un protocole d'entente qui étend la coopération en matière d'observation de la Terre, d'analyse géospatiale et de technologies de pointe en matière de données, appuyant le plan de modernisation des données de l'USDA pour l'agriculture des États-Unis. La NASA développe certaines des capacités de détection, de calcul et d'analyse les plus avancées dans le"
-    },
-    {
       "title": "Ice mission CRISTAL opens its wings",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Ice_mission_CRISTAL_opens_its_wings",
       "source": "ESA",
@@ -194,7 +214,7 @@
     {
       "title": "Stars brewing in a nebulous cauldron",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "source": "ESA",
+      "source": "ESA Science",
       "summary": "Image: Stars brewing in a nebulous cauldron",
       "published": "2026-10-22T08:00:00+00:00",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
@@ -253,7 +273,7 @@
     {
       "title": "Euclid discovers new comet",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-      "source": "ESA",
+      "source": "ESA Science",
       "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
       "published": "2026-10-19T12:00:00+00:00",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
