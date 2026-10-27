@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-27T14:30:43.025118+00:00",
+  "updated_at": "2026-10-27T20:41:20.527901+00:00",
   "articles": [
+    {
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+      "source": "NASA",
+      "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
+      "published": "2026-10-27T19:27:22+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
+      "title_fr": "La NASA invite les médias à terminer la simulation de Mars tout au long de l'année",
+      "summary_fr": "Les quatre volontaires qui ont vécu et travaillé dans une mission simulée de la NASA Mars pendant plus d'un an quitteront leur habitat le samedi 31 octobre, après 378 jours d'isolement dans une installation de l'agence Johnson Space Center à Houston. Les données sur la santé et les performances recueillies lors de la simulation peuvent aider la NASA [...]"
+    },
+    {
+      "title": "NASA's Neo Surveyor Sunshade",
+      "url": "https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/",
+      "source": "NASA Images",
+      "summary": "The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.",
+      "published": "2026-10-27T18:02:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
+      "title_fr": "Neo Surveyor Sunshade de la NASA",
+      "summary_fr": "Le grand pare-soleil de la mission d'arpenteur d'objets géocroiseurs de la NASA est inspecté par un technicien de BAE Systems Space & Mission Systems à Boulder, Colorado, fin juillet."
+    },
+    {
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
+      "source": "NASA",
+      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]",
+      "published": "2026-10-27T17:58:57+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
+      "title_fr": "Neo Surveyor Sunshade de la NASA",
+      "summary_fr": "Un technicien inspecte le grand parasol de la mission d'arpenteur d'objets géocroiseurs (NEO) de la NASA dans cette image publiée le 26 octobre 2026. La structure de l'ombre de soleil, qui mesure 20 pieds (6 mètres) de haut et mesure 8 pieds (2,4 mètres) de large à sa base, gardera le télescope spatial infrarouge au frais car il recherche [...]"
+    },
     {
       "title": "First light: Hera resolves two asteroids instead of one",
       "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
@@ -102,16 +132,6 @@
       "summary_fr": "Le programme de stages STEM de la NASA (Science, Technologie, Ingénierie et Mathématiques) en sciences de la Terre (SEES) au Centre de recherche spatiale de l'Université du Texas place les élèves du secondaire dans de petites équipes de recherche axées sur la mission encadrées par des experts de la NASA, des universitaires et de l'industrie. Au cours de l'été 2026, le SEES Mission Architecture Tool for Research"
     },
     {
-      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california/",
-      "source": "NASA",
-      "summary": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-      "published": "2026-10-26T17:13:44+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2025/09/nasa-meatball-1.jpg",
-      "title_fr": "La NASA invite les médias à effectuer une simulation d'atterrissage en Californie",
-      "summary_fr": "Les médias sont invités à visiter un nouveau simulateur d'atterrissage lunaire au Centre de recherche Ames de la NASA dans la Silicon Valley de Californie le jeudi 29 octobre et le vendredi 30 octobre."
-    },
-    {
       "title": "NASA's X-59 Aircraft and Test Pilot",
       "url": "https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/",
       "source": "NASA Images",
@@ -120,16 +140,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
       "title_fr": "Le pilote d'avion et d'essai X-59 de la NASA",
       "summary_fr": "Le pilote d'essai de la NASA, Mike Lippert, pose pour une photo avant sa première prise de vol de l'avion de recherche supersonique X-59 de l'agence le 21 octobre 2026."
-    },
-    {
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "url": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/",
-      "source": "NASA",
-      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]",
-      "published": "2026-10-26T15:25:47+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
-      "title_fr": "NASA-59 Aéronef et pilote d'essai",
-      "summary_fr": "Le pilote d'essai de la NASA, Mike Lippert, pose pour une photo avant son premier vol de l'agence X-59, le 21 octobre 2026. Le X-59 a volé plusieurs fois depuis son vol inaugural en novembre 2025; son premier vol supersonique a eu lieu le 5 juin 2026. Lippert a décollé du vol NASA-Armstrong [...]"
     },
     {
       "title": "Ice mission CRISTAL opens its wings",
@@ -919,16 +929,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg",
       "title_fr": "Guinée-Bissau Eaux de marée",
       "summary_fr": "Les eaux de marée relativement basses exposent les sables et les vasières de l'archipel Bijagós de Guinée-Bissau dans cette image acquise le 28 novembre 2025, avec l'OLI (Operational Land Imager) sur Landsat 8. Ces formes de terres côtières abritent une multitude d'invertébrés, faisant de l'archipel une escale populaire pour les oiseaux de rivage migrateurs."
-    },
-    {
-      "title": "NASA's Newest Wind Tunnel Opens at NASA Langley",
-      "url": "https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/",
-      "source": "NASA Images",
-      "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia, on Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles.",
-      "published": "2026-07-31T20:20:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55433508350-2d4abff2f1-o.jpg",
-      "title_fr": "Le nouveau tunnel éolien de la NASA ouvre à la NASA Langley",
-      "summary_fr": "La NASA a ouvert vendredi son nouveau tunnel à vent, le Flight Dynamics Research Facility au Centre de recherche de la NASA de Langley à Hampton, en Virginie, fournissant une ressource essentielle à l'agence et à ses partenaires pour tester la sécurité et les performances des générations futures de véhicules d'aviation, de fusées et d'exploration spatiale."
     },
     {
       "title": "εpsilon",
