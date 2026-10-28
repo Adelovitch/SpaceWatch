@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-10-28T15:05:40.995713+00:00",
+  "updated_at": "2026-10-28T21:03:25.029043+00:00",
   "articles": [
+    {
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "source": "NASA",
+      "summary": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida. Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a one-of-a kind lifting beam designed […]",
+      "published": "2026-10-28T18:59:44+00:00",
+      "image": "https://images-assets.nasa.gov/image/KSC-20261026-PH-FMX01_0018/KSC-20261026-PH-FMX01_0018~large.jpg",
+      "title_fr": "Artemis III SLS Core Stage rejoint les boosters à Kennedy",
+      "summary_fr": "Le 28 octobre, l'étape centrale de la NASA Artemis III SLS (Space Launch System) est intégrée aux deux boosters de fusées solides, à l'intérieur du Véhicule Assembly Building. Les techniciens ont soulevé l'étape de la fusée de 212 pieds de l'installation de High Bay 2 en utilisant un faisceau de levage unique conçu [...]"
+    },
+    {
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "url": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur/",
+      "source": "NASA",
+      "summary": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challenge. Although Gardner was used to leading fellow students […]",
+      "published": "2026-10-28T18:00:28+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/usrc-gardner-ag3-team.jpg",
+      "title_fr": "Défi universitaire de la NASA Ignites Trajectoire de Drone Entrepreneur",
+      "summary_fr": "Il y a cinq ans, Gavin Gardner était étudiant en génie de l'Université d'État du Michigan à la recherche de la technologie des drones de nouvelle génération dans le cadre d'une bourse de la NASA. Garder s'attendait à ce que la recherche soit exigeante – mais il a été surpris que la navigation du côté financier du travail présente un défi encore plus grand. Bien que Gardner ait été habitué à diriger [...]"
+    },
+    {
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
+      "source": "NASA",
+      "summary": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of the known brown dwarfs, celestial objects that are similar t",
+      "published": "2026-10-28T16:25:29+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/NASA_citizen_science_projects_2026.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "La NASA choisit 19 nouvelles propositions scientifiques citoyennes en 2026",
+      "summary_fr": "Jusqu'à présent, 2026 a connu un flot de succès pour les volontaires qui font la science de la NASA, ce qui illustre l'engagement de la NASA en faveur de la science aurifère – transparente, reproductible et intrinsèquement collaborative. Le projet Backyard Worlds: Planet 9 a annoncé que les volontaires de leur projet ont découvert la plupart des naines brunes connues, des objets célestes qui sont similaires t"
+    },
+    {
+      "title": "Webb Sees Turbulent Star Nursery",
+      "url": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/",
+      "source": "NASA Images",
+      "summary": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas.",
+      "published": "2026-10-28T15:35:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
+      "title_fr": "Webb voit la pépinière Star Turbulent",
+      "summary_fr": "Dans cette photo du mois du télescope spatial NASA/ESA James Webb, nous visitons un chaudron turbulent de formation d'étoiles pour voir ce qui brasse à l'intérieur de touffes denses de gaz."
+    },
+    {
+      "title": "Webb Sees Turbulent Star Nursery",
+      "url": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/",
+      "source": "NASA",
+      "summary": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]",
+      "published": "2026-10-28T15:33:10+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
+      "title_fr": "Webb voit la pépinière Star Turbulent",
+      "summary_fr": "Dans cette image Webb publiée le 22 octobre 2026, nous voyons un chaudron turbulent de formation d'étoiles rempli d'entailles denses de gaz. Cette région, nommée N159, est située à 161 000 années-lumière dans le Grand Nuage Magellanique, l'une des galaxies satellites orbitant la galaxie de la Voie lactée. Cette région a une métallicité [...]"
+    },
     {
       "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
@@ -15,11 +65,11 @@
       "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/",
       "source": "NASA",
-      "summary": "NASA Astronomy Picture of the Day — The Mutual Occultation of Ganymede and Io. Read the original NASA page for the scientific explanation.",
+      "summary": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable Java",
       "published": "2026-10-28T04:05:00+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/occultation.jpeg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "APOD: 2026 Octobre 28 – L'Occultation mutuelle de Ganymède et Io",
-      "summary_fr": "Astronomie de la NASA Image du jour — L'Occultation mutuelle de Ganymède et Io. Lisez la page originale de la NASA pour l'explication scientifique."
+      "summary_fr": "APODScienceAPODAPODODOD: 2026 October 28 – The...Aujourd'hui APODarchiveSoumissionsIndexRechercheCalendrierRSSÉducationÀ proposDiscussion APOD Astronomie Photo du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Pour visualiser cette vidéo, veuillez activer Java"
     },
     {
       "title": "The Land of the Standing-Up Rocks",
@@ -37,7 +87,7 @@
       "source": "NASA",
       "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
       "published": "2026-10-27T19:27:22+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2cropped.jpg",
       "title_fr": "La NASA invite les médias à terminer la simulation de Mars tout au long de l'année",
       "summary_fr": "Les quatre volontaires qui ont vécu et travaillé dans une mission simulée de la NASA Mars pendant plus d'un an quitteront leur habitat le samedi 31 octobre, après 378 jours d'isolement dans une installation de l'agence Johnson Space Center à Houston. Les données sur la santé et les performances recueillies lors de la simulation peuvent aider la NASA [...]"
     },
@@ -90,46 +140,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg",
       "title_fr": "Comment un mentor Johnson façonne la prochaine génération de talents de la NASA",
       "summary_fr": "Lorsque Malvika Bhardwaj, étudiante à l'université de Rice, a demandé à son mentor Daniel Cohen, ingénieur en guidage, navigation et contrôle (GN&C) à la NASA, s'il avait le temps de continuer à enseigner les stagiaires avec sa charge de travail chargée, il a répondu : « Vous décidez de ce qui est important. » En l'honneur de la Journée nationale de mentorat le 27 octobre, Bhardwaj réfléchit sur la façon dont Cohen..."
-    },
-    {
-      "title": "APOD: 2026 October 27 – Noctilucent Clouds over Sweden",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/",
-      "source": "NASA",
-      "summary": "NASA Astronomy Picture of the Day — Noctilucent Clouds over Sweden. Read the original NASA page for the scientific explanation.",
-      "published": "2026-10-27T04:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/NocClouds_Hofer_6048.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 27 octobre – Nuages noctilucents sur la Suède",
-      "summary_fr": "L'astronomie de la NASA Image du jour — Nuages noctilucents sur la Suède. Lisez la page originale de la NASA pour l'explication scientifique."
-    },
-    {
-      "title": "A-81 Reaches South Georgia",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/",
-      "source": "NASA",
-      "summary": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "published": "2026-10-27T04:00:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-81-reaches-south-georgia/iceberga81_tmo_20261020_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "A-81 Atteint la Géorgie du Sud",
-      "summary_fr": "L'iceberg antarctique a fait une sortie relativement rapide de la mer de Weddell, seulement pour ralentir au bord d'une île lointaine."
-    },
-    {
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
-      "source": "NASA",
-      "summary": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]",
-      "published": "2026-10-26T22:48:12+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "NASAS Perseverance Views Poussière à Neretva Vallis",
-      "summary_fr": "Désignation des marchandises Ce regard à 360 degrés sur Neretva Vallis dans Mars... ..Jezero Crater a été cousu ensemble à l'aide de 217 images acquises par le rover... ..Mastcam-Z le 20 mai 2024, le 1.155ème jour martien, ou sol, de la mission. Alors qu'il s'agit d'une vue poussiéreuse du vent aujourd'hui, il y a des milliards d'années il y avait un canal de rivière qui a alimenté l'eau [...]"
-    },
-    {
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
-      "source": "NASA",
-      "summary": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]",
-      "published": "2026-10-26T21:07:28+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg",
-      "title_fr": "La persévérance de la NASA offre des indices pour protéger les équipages de la poussière de Mars",
-      "summary_fr": "Pendant 1 645 jours martiens, le rover de la NASA Perseverance Mars a mesuré les particules fines et ultrafines de poussières martiennes trouvées accrochées à des échantillons de matériaux de combinaison d'espace qui sont transportés à bord du rover, y compris certains qui sont assez petits pour pénétrer les poumons et entrer dans le flux sanguin. Les conclusions seront publiées mardi 27 octobre dans les Actes de [...]"
     },
     {
       "title": "NASA's X-59 Aircraft and Test Pilot",
@@ -919,16 +929,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ksc-20260728-ph-jmt01-0003orig.jpg",
       "title_fr": "Installation de la plaque du télescope spatial romain",
       "summary_fr": "Des techniciens à l'intérieur de l'installation de service dangereux de charge utile de la NASA ont terminé l'installation d'une plaque commémorative sur l'agence Nancy Grace Roman Space Telescope, photographiée le mardi 28 juillet 2026."
-    },
-    {
-      "title": "Guinea-Bissau Tidal Waters",
-      "url": "https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/",
-      "source": "NASA Images",
-      "summary": "Relatively low tidal waters expose sandflats and mudflats in the Bijagós Archipelago of Guinea-Bissau in this image acquired on November 28, 2025, with the OLI (Operational Land Imager) on Landsat 8. These coastal landforms support an array of invertebrates, making the archipelago a popular stopover for migratory shorebirds.",
-      "published": "2026-08-03T17:16:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/bijagosarchipelago-oli-20251128-lrg.jpg",
-      "title_fr": "Guinée-Bissau Eaux de marée",
-      "summary_fr": "Les eaux de marée relativement basses exposent les sables et les vasières de l'archipel Bijagós de Guinée-Bissau dans cette image acquise le 28 novembre 2025, avec l'OLI (Operational Land Imager) sur Landsat 8. Ces formes de terres côtières abritent une multitude d'invertébrés, faisant de l'archipel une escale populaire pour les oiseaux de rivage migrateurs."
     },
     {
       "title": "εpsilon",
