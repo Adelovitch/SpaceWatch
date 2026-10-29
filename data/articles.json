@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-10-28T21:03:25.029043+00:00",
+  "updated_at": "2026-10-29T05:46:49.321988+00:00",
   "articles": [
+    {
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+      "source": "NASA",
+      "summary": "NASA Astronomy Picture of the Day — The Horns of Venus. Read the original NASA page for the scientific explanation.",
+      "published": "2026-10-29T04:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/october/venus_20261024a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 29 octobre 2026 – Les cornes de Vénus",
+      "summary_fr": "Astronomie de la NASA Image du jour — Les cornes de Vénus. Lisez la page originale de la NASA pour l'explication scientifique."
+    },
+    {
+      "title": "Arnab Strikes India",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/",
+      "source": "NASA",
+      "summary": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
+      "published": "2026-10-29T04:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Arnab frappe l'Inde",
+      "summary_fr": "La première tempête nommée de la saison des cyclones de l'océan Indien Nord a fait des ravages le long de la côte d'Andhra Pradesh."
+    },
+    {
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "source": "NASA",
+      "summary": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on […]",
+      "published": "2026-10-29T02:49:59+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg",
+      "title_fr": "Caltech nomme le commandant Reid Wiseman comme adjoint de la NASA JPL",
+      "summary_fr": "Artemis II Le commandant Reid Wiseman a été nommé vice-président associé de Caltech et directeur adjoint du Laboratoire de propulsion de Jet NASA en Californie du Sud. L'astronaute émérite et capitaine retraité de la marine américaine commence son nouveau rôle au centre d'excellence de la NASA pour la robotique et l'exploration spatiale profonde et à Caltech, qui gère la JPL pour la NASA, [...]"
+    },
+    {
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/",
+      "source": "NASA",
+      "summary": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded ",
+      "published": "2026-10-28T21:50:01+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg",
+      "title_fr": "La NASA accueille le Vietnam comme nouveau signataire des accords Artemis",
+      "summary_fr": "La République Socialiste du Vietnam est devenue la 78ème nation à signer les Accords Artémis, en rejoignant une coalition croissante de nations aux vues similaires engagées dans l'exploration pacifique, transparente et responsable de l'espace. \"Vietnam se joint à un moment important dans le développement de son propre programme spatial,\" a déclaré l'administrateur adjoint de la NASA Matt Anderson dans enregistré"
+    },
     {
       "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
       "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
@@ -72,26 +112,6 @@
       "summary_fr": "APODScienceAPODAPODODOD: 2026 October 28 – The...Aujourd'hui APODarchiveSoumissionsIndexRechercheCalendrierRSSÉducationÀ proposDiscussion APOD Astronomie Photo du jour Découvrez le cosmos! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Pour visualiser cette vidéo, veuillez activer Java"
     },
     {
-      "title": "The Land of the Standing-Up Rocks",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/",
-      "source": "NASA",
-      "summary": "A national monument since the 1920s, Chiricahua is America’s newest national park.",
-      "published": "2026-10-28T04:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "La terre des rochers debout",
-      "summary_fr": "Monument national depuis les années 1920, Chiricahua est le plus récent parc national américain."
-    },
-    {
-      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
-      "source": "NASA",
-      "summary": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]",
-      "published": "2026-10-27T19:27:22+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2cropped.jpg",
-      "title_fr": "La NASA invite les médias à terminer la simulation de Mars tout au long de l'année",
-      "summary_fr": "Les quatre volontaires qui ont vécu et travaillé dans une mission simulée de la NASA Mars pendant plus d'un an quitteront leur habitat le samedi 31 octobre, après 378 jours d'isolement dans une installation de l'agence Johnson Space Center à Houston. Les données sur la santé et les performances recueillies lors de la simulation peuvent aider la NASA [...]"
-    },
-    {
       "title": "NASA's Neo Surveyor Sunshade",
       "url": "https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/",
       "source": "NASA Images",
@@ -100,16 +120,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
       "title_fr": "Neo Surveyor Sunshade de la NASA",
       "summary_fr": "Le grand pare-soleil de la mission d'arpenteur d'objets géocroiseurs de la NASA est inspecté par un technicien de BAE Systems Space & Mission Systems à Boulder, Colorado, fin juillet."
-    },
-    {
-      "title": "NASA’s Neo Surveyor Sunshade",
-      "url": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/",
-      "source": "NASA",
-      "summary": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]",
-      "published": "2026-10-27T17:58:57+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
-      "title_fr": "Neo Surveyor Sunshade de la NASA",
-      "summary_fr": "Un technicien inspecte le grand parasol de la mission d'arpenteur d'objets géocroiseurs (NEO) de la NASA dans cette image publiée le 26 octobre 2026. La structure de l'ombre de soleil, qui mesure 20 pieds (6 mètres) de haut et mesure 8 pieds (2,4 mètres) de large à sa base, gardera le télescope spatial infrarouge au frais car il recherche [...]"
     },
     {
       "title": "First light: Hera resolves two asteroids instead of one",
@@ -130,16 +140,6 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
       "title_fr": "L'ESA achète quatre nouveaux satellites Galileo de deuxième génération",
       "summary_fr": "L'Agence spatiale européenne (ESA) a prolongé les contrats en cours pour la construction de quatre nouveaux satellites Galileo de deuxième génération (G2), assurant la continuité à long terme de la constellation et soutenant le déploiement de nouveaux services. Avec cette acquisition, la flotte Galileo de deuxième génération atteint 16 satellites."
-    },
-    {
-      "title": "How a Johnson Mentor Shapes the Next Generation of NASA Talent",
-      "url": "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/",
-      "source": "NASA",
-      "summary": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.” In honor of National Mentoring Day on Oct. 27, Bhardwaj reflects on how Cohen’s […]",
-      "published": "2026-10-27T07:07:51+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/image.jpg",
-      "title_fr": "Comment un mentor Johnson façonne la prochaine génération de talents de la NASA",
-      "summary_fr": "Lorsque Malvika Bhardwaj, étudiante à l'université de Rice, a demandé à son mentor Daniel Cohen, ingénieur en guidage, navigation et contrôle (GN&C) à la NASA, s'il avait le temps de continuer à enseigner les stagiaires avec sa charge de travail chargée, il a répondu : « Vous décidez de ce qui est important. » En l'honneur de la Journée nationale de mentorat le 27 octobre, Bhardwaj réfléchit sur la façon dont Cohen..."
     },
     {
       "title": "NASA's X-59 Aircraft and Test Pilot",
