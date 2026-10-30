@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-10-30T05:47:15.616724+00:00",
+  "updated_at": "2026-10-30T15:02:30.689380+00:00",
   "articles": [
+    {
+      "title": "Week in images: 26-30 October 2026",
+      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026",
+      "source": "ESA",
+      "summary": "Week in images: 26-30 October 2026 Discover our week through the lens",
+      "published": "2026-10-30T14:15:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
+      "title_fr": "Semaine en images: 26-30 Octobre 2026",
+      "summary_fr": "Semaine en images: 26-30 Octobre 2026 Découvrez notre semaine à travers l'objectif"
+    },
+    {
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "source": "NASA",
+      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
+      "published": "2026-10-30T10:00:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26353/PIA26353.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "NovemberS Night Sky Notes: Jours-lumière",
+      "summary_fr": "Voyageurs jumeaux En 1977, la NASA a lancé un vaisseau spatial jumeau Voyager 1 et 2, en profitant d'un alignement planétaire unique tous les 175 ans des quatre plus grandes planètes de notre système solaire : Jupiter, Saturne, Uranus et Neptune. En utilisant six aides gravitationnelles entre eux, ce Grand Tour nous a donné une vue imprenable sur les géants du gaz et de la glace, dont plusieurs lunes. [...]"
+    },
+    {
+      "title": "Earth from Space: Champi’s eerie eye",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
+      "source": "ESA",
+      "summary": "Image: This image of Super Typhoon Champi from Copernicus Sentinel-3 was captured on 21 October 2026 off the coasts of Taiwan and the Philippines.",
+      "published": "2026-10-30T09:00:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
+      "title_fr": "La Terre de l'espace : l'œil de Champi ,",
+      "summary_fr": "Image: Cette image de Super Typhoon Champi de Copernic Sentinel-3 a été capturée le 21 octobre 2026 au large des côtes de Taiwan et des Philippines."
+    },
     {
       "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
@@ -89,16 +119,6 @@
       "published": "2026-10-29T15:21:23+00:00",
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg",
       "summary_fr": "Lisez cette version en anglais ici. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invite al público a enviar su nombre a bordo de la aeronave de ala girataria Dragonfly de la agencia [...]"
-    },
-    {
-      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-      "source": "NASA",
-      "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world. To have your […]",
-      "published": "2026-10-29T15:10:18+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg",
-      "title_fr": "Envoyer votre nom à Titan à bord de la mission Dragonfly NASA",
-      "summary_fr": "Vous ne pouvez jamais monter sous les nuages ou sur les sables organiques de la lune de Saturne Titan, mais votre nom peut. La NASA invite le public à envoyer leurs noms à bord de l'agence Dragonfly rotorcraft et faire partie de la première mission scientifique à voler et explorer la surface d'un autre monde. Avoir votre [...]"
     },
     {
       "title": "NASA's Hubble Marks Way for Roman Space Telescope",
@@ -219,26 +239,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg",
       "title_fr": "Bord de la spirale",
       "summary_fr": "Cette image du télescope spatial Hubble de la NASA présente la galaxie en spirale intermédiaire NGC 1827, située à environ 37 millions d'années-lumière dans la constellation Columba, la colombe."
-    },
-    {
-      "title": "350th ESA Council: Media information session",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/350th_ESA_Council_Media_information_session",
-      "source": "ESA",
-      "summary": "Video: 01:45:34 Watch the replay of the media information session where ESA Director General Josef Aschbacher and ESA Council Chair at delegate level Juan Carlos Cortés outline the key decisions and main outcomes of the 350th Council meeting held at ESA Headquarters in Paris on 21—22 October 2026.",
-      "published": "2026-10-22T14:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/350th_esa_council_media_information_session/27588859-3-eng-GB/350th_ESA_Council_Media_information_session_card_full.jpg",
-      "title_fr": "350ème Conseil de l'ESA: Session d'information des médias",
-      "summary_fr": "Vidéo: 01:45:34 Regardez le replay de la séance d'information sur les médias où le directeur général de l'ESA, Josef Aschbacher, et le président du Conseil de l'ESA au niveau des délégués, Juan Carlos Cortés, exposent les principales décisions et les principaux résultats de la 350e réunion du Conseil tenue au siège de l'ESA à Paris les 21 et 22 octobre 2026."
-    },
-    {
-      "title": "ESA Open Days 2026",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/ESA_Open_Days_2026",
-      "source": "ESA",
-      "summary": "Video: 00:00:49 ESA Open Days 2026 welcomed over 23 000 visitors across its six establishments, giving the public the opportunity to discover more about Europe’s space activities, meet the people behind the missions and explore how ESA is shaping the future of space.",
-      "published": "2026-10-22T09:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/esa_open_days_2026/27587076-1-eng-GB/ESA_Open_Days_2026_card_full.png",
-      "title_fr": "Journées portes ouvertes de l'ESA 2026",
-      "summary_fr": "Vidéo: 00:00:49 ESA Open Days 2026 a accueilli plus de 23 000 visiteurs dans ses six établissements, donnant au public l'occasion de découvrir les activités spatiales de l'Europe, de rencontrer les personnes derrière les missions et d'explorer comment l'ESA façonne l'avenir de l'espace."
     },
     {
       "title": "Stars brewing in a nebulous cauldron",
