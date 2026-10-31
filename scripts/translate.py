@@ -24,14 +24,33 @@ def main():
             cache = json.loads(cache_path.read_text(encoding="utf-8"))
         except (OSError, ValueError):
             cache = {}
-    reviewed_titles = {"APOD: 2026 October 25 – Dark Matter in a Simulated Universe": "Image astronomique du jour : la matière noire dans un univers simulé", "APOD: 2026 October 24 – Rosetta’s Selfie": "Image astronomique du jour : l’autoportrait de Rosetta", "NASA, Partners Accelerate Lander Development for 2028 Moon Missions": "La NASA et ses partenaires accélèrent le développement des atterrisseurs pour les missions lunaires de 2028"}
+    # Editorial corrections take precedence over the persisted machine-translation cache.
+    reviewed_titles = {
+        "APOD: 2026 October 25 – Dark Matter in a Simulated Universe":
+            "Image astronomique du jour : la matière noire dans un univers simulé",
+        "APOD: 2026 October 24 – Rosetta’s Selfie":
+            "Image astronomique du jour : l’autoportrait de Rosetta",
+        "NASA, Partners Accelerate Lander Development for 2028 Moon Missions":
+            "La NASA et ses partenaires accélèrent le développement des atterrisseurs lunaires pour 2028",
+        "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head":
+            "Le télescope James-Webb révèle une mystérieuse nébuleuse en forme de tête de chat",
+        "APOD: 2026 October 31 – Night on a Spooky Planet":
+            "Image astronomique du jour : nuit sur une planète inquiétante",
+        "NASA Releases MAX POWER Key Events for Media, Participants":
+            "La NASA dévoile les temps forts de MAX POWER pour les médias et les participants",
+    }
+    reviewed_summaries = {
+        "NASA Astronomy Picture of the Day — Night on a Spooky Planet. Read the original NASA page for the scientific explanation.":
+            "Image astronomique du jour de la NASA : nuit sur une planète inquiétante. Consultez la page originale pour l’explication scientifique.",
+    }
+
     updated = 0
     for a in data.get("articles", []):
         for key in ("title", "summary"):
             original = re.sub(r"\\s+", " ", a.get(key, "")).strip()
             if not original:
                 continue
-            translated = reviewed_titles.get(original) if key == "title" else None
+            translated = (reviewed_titles if key == "title" else reviewed_summaries).get(original)
             if translated is None:
                 translated = cache.get(original)
             if translated is None:
