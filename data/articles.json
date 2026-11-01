@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-10-31T23:23:38.579586+00:00",
+  "updated_at": "2026-11-01T06:01:53.356519+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
+      "source": "NASA",
+      "summary": "NASA Astronomy Picture of the Day — Colors of the Moon. Read the original NASA page for the scientific explanation.",
+      "published": "2026-11-01T04:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 Novembre 1 – Couleurs de la Lune",
+      "summary_fr": "L'astronomie de la NASA Image du jour — Couleurs de la Lune. Lisez la page originale de la NASA pour l'explication scientifique."
+    },
     {
       "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
@@ -130,16 +140,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "Tranche de Martian Meteorite Teghaza 001",
       "summary_fr": "Désignation des marchandises Cette tranche de Teghaza 001, l'une des météorites martiennes les plus anciennes jamais trouvées sur Terre, a été utilisée pour déterminer l'âge de la roche. Des images lumineuses réfléchies comme celles-ci servent de feuille de route scientifique, les aidant à trouver des minéraux d'intérêt à analyser par différents instruments. La figure A est la même image que [...]"
-    },
-    {
-      "title": "Halloween Aboard the International Space Station",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-      "source": "NASA",
-      "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials avai",
-      "published": "2026-10-29T21:44:23+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2025/11/iss057e057509.jpg",
-      "title_fr": "Halloween à bord de la Station spatiale internationale",
-      "summary_fr": "Bien qu'il n'y ait pas de goules, de gobelins ou de trick-or-treaters qui frappent à l'écoutille avant de la Station Spatiale Internationale, les membres de l'équipage à bord du laboratoire en orbite aiment encore se mettre dans l'esprit d'Halloween. Que ce soit individuellement ou en équipe, ils s'habillent en costumes parfois effrayants, parfois effrayants, mais toujours créatifs, souvent conçus à partir de matériaux disponibles"
     },
     {
       "title": "NASA's Hubble Marks Way for Roman Space Telescope",
