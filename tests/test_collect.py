@@ -1,5 +1,5 @@
 import unittest
-from scripts.collect import parse, iso
+from scripts.collect import parse, iso, richer_description
 
 class CollectTests(unittest.TestCase):
     def test_rss(self):
@@ -22,6 +22,20 @@ class CollectTests(unittest.TestCase):
         raw = ('<rss><channel><item><title>' + 'Long titre ' * 30 +
                '</title><link>https://example.com/mars</link></item></channel></rss>').encode('utf-8')
         self.assertLessEqual(len(parse(raw, 'NASA')[0]['title']), 180)
+
+    def test_extract_intro_paragraphs(self):
+        page = '<html><nav><p>Menu de navigation avec un long texte qui ne doit pas être retenu.</p></nav>' \
+            '<article><p>La mission a réalisé une série de mesures dans la haute atmosphère de Mars, ' \
+            'avec des capteurs embarqués pour étudier les changements saisonniers observés.</p>' \
+            '<p>Les chercheurs analysent désormais les données pour comprendre la circulation ' \
+            'des poussières et les interactions avec le climat martien.</p></article></html>'
+        result = richer_description(page, 'Mars')
+        self.assertIn('haute atmosphère', result)
+        self.assertIn('climat martien', result)
+        self.assertNotIn('Menu de navigation', result)
+
+    def test_short_page_preserves_rss(self):
+        self.assertEqual(richer_description('<html><p>Texte trop court.</p></html>', 'Résumé RSS'), 'Résumé RSS')
 
     def test_bad_date(self):
         self.assertEqual(iso('not a date'),'')
