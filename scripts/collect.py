@@ -95,10 +95,57 @@ class MetadataParser(HTMLParser):
         if key in ("og:description", "description") and not self.description:
             self.description = clean(data.get("content", ""))
 
+class ArticleTextParser(HTMLParser):
+    """Extract readable introductory paragraphs, excluding navigation and scripts."""
+    def __init__(self):
+        super().__init__()
+        self.stack = []
+        self.parts = []
+        self.current = []
+        self.in_paragraph = False
+        self.blocked = 0
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        self.stack.append(tag)
+        if tag in ("script", "style", "nav", "footer", "header", "aside"):
+            self.blocked += 1
+        if tag == "p" and not self.blocked:
+            self.in_paragraph = True
+            self.current = []
+
+    def handle_data(self, text):
+        if self.in_paragraph and not self.blocked:
+            self.current.append(text)
+
+    def handle_endtag(self, tag):
+        if tag == "p" and self.in_paragraph:
+            paragraph = re.sub(r"\\s+", " ", unescape(" ".join(self.current))).strip()
+            if 70 <= len(paragraph) <= 1200:
+                self.parts.append(paragraph)
+            self.in_paragraph = False
+            self.current = []
+        if tag in ("script", "style", "nav", "footer", "header", "aside"):
+            self.blocked = max(0, self.blocked - 1)
+        if self.stack:
+            self.stack.pop()
+
+def richer_description(page, fallback):
+    parser = ArticleTextParser()
+    parser.feed(page)
+    # Prefer informative opening paragraphs; do not replicate the whole article.
+    chunks = []
+    for paragraph in parser.parts:
+        if paragraph in fallback or paragraph.lower().startswith(("subscribe", "sign up", "cookies", "share this")):
+            continue
+        chunks.append(paragraph)
+        if len(" ".join(chunks)) >= 530 or len(chunks) >= 2:
+            break
+    enriched = clean(" ".join(chunks), limit=700)
+    return enriched if len(enriched) >= 160 and len(enriched) > len(fallback) else fallback
+
 def enrich(article):
     # Metadata from the original publisher only, with a short timeout.
-    if article.get("image") and not article.get("summary", "").startswith("APOD Science APOD"):
-        return article
     try:
         req = Request(article["url"], headers={"User-Agent": "Mozilla/5.0 (compatible; SpaceWatch/0.2)"})
         with urlopen(req, timeout=7) as response:
@@ -112,6 +159,7 @@ def enrich(article):
             or not article.get("summary")
         ):
             article["summary"] = parser.description
+        article["summary"] = richer_description(page, article.get("summary", ""))
     except Exception:
         pass
     if not article.get("summary") and "APOD:" in article.get("title", ""):
