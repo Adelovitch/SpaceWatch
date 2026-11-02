@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-01T20:30:03.231946+00:00",
+  "updated_at": "2026-11-02T05:59:51.449766+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+      "source": "NASA",
+      "summary": "NASA Astronomy Picture of the Day — A Long Cloud on Mars. Read the original NASA page for the scientific explanation.",
+      "published": "2026-11-02T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 2 novembre – Un long nuage sur Mars",
+      "summary_fr": "L'astronomie de la NASA Image du jour — Un long nuage sur Mars. Lisez la page originale de la NASA pour l'explication scientifique."
+    },
+    {
+      "title": "Pennsylvania’s Grand Canyon",
+      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+      "source": "NASA",
+      "summary": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
+      "published": "2026-11-02T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Le Grand Canyon de Pennsylvanie",
+      "summary_fr": "Au milieu des teintes chaudes du feuillage d'automne, la gorge du ruisseau Pine forme une cicatrice profonde dans le plateau de l'Allegheny."
+    },
     {
       "title": "APOD: 2026 November 1 – Colors of the Moon",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
@@ -120,26 +140,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "L'île Vega gelée en peur",
       "summary_fr": "La vue d'un visage glacé comme un crâne sur l'île de l'Antarctique pourrait rendre le sang froid."
-    },
-    {
-      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "source": "NASA",
-      "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
-      "published": "2026-10-30T00:07:39+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Carte montrant les origines potentielles de la météorite martienne Teghaza 001",
-      "summary_fr": "Désignation des marchandises Cette carte globale de Mars montre 13 emplacements qui correspondent à la minéralogie et la chimie de Teghaza 001, l'une des météorites martiennes les plus anciennes jamais trouvées sur Terre. Alors que les scientifiques ne peuvent jamais savoir avec certitude où une météorite martienne est née, Teghaza 001 contient des indices qui le lient aux hautes terres dans l'hémisphère sud de [...]"
-    },
-    {
-      "title": "Slice of Martian Meteorite Teghaza 001",
-      "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/",
-      "source": "NASA",
-      "summary": "Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]",
-      "published": "2026-10-29T23:32:35+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Tranche de Martian Meteorite Teghaza 001",
-      "summary_fr": "Désignation des marchandises Cette tranche de Teghaza 001, l'une des météorites martiennes les plus anciennes jamais trouvées sur Terre, a été utilisée pour déterminer l'âge de la roche. Des images lumineuses réfléchies comme celles-ci servent de feuille de route scientifique, les aidant à trouver des minéraux d'intérêt à analyser par différents instruments. La figure A est la même image que [...]"
     },
     {
       "title": "NASA's Hubble Marks Way for Roman Space Telescope",
