@@ -30,10 +30,10 @@ class Stripper(HTMLParser):
     def handle_data(self, data):
         self.parts.append(data)
 
-def clean(text):
+def clean(text, limit=900):
     parser = Stripper()
     parser.feed(text or "")
-    return re.sub(r"\s+", " ", unescape(" ".join(parser.parts))).strip()[:360]
+    return re.sub(r"\s+", " ", unescape(" ".join(parser.parts))).strip()[:limit]
 
 def childtext(node, *tags):
     for tag in tags:
@@ -111,7 +111,7 @@ def enrich(article):
             article.get("summary", "").startswith("APOD Science APOD")
             or not article.get("summary")
         ):
-            article["summary"] = parser.description[:360]
+            article["summary"] = parser.description
     except Exception:
         pass
     if not article.get("summary") and "APOD:" in article.get("title", ""):
@@ -124,7 +124,7 @@ def parse(payload, source):
     entries = root.findall(ATOM + "entry") if atom else root.findall("./channel/item")
     articles = []
     for node in entries:
-        title = clean(childtext(node, "title", ATOM + "title"))
+        title = clean(childtext(node, "title", ATOM + "title"), limit=180)
         url = childtext(node, "link")
         if atom:
             for link in node.findall(ATOM + "link"):
