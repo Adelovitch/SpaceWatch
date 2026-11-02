@@ -120,7 +120,7 @@ class ArticleTextParser(HTMLParser):
 
     def handle_endtag(self, tag):
         if tag == "p" and self.in_paragraph:
-            paragraph = re.sub(r"\\s+", " ", unescape(" ".join(self.current))).strip()
+            paragraph = re.sub(r"\s+", " ", unescape(" ".join(self.current))).strip()
             if 70 <= len(paragraph) <= 1200:
                 self.parts.append(paragraph)
             self.in_paragraph = False
