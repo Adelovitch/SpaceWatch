@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-02T18:21:30.832076+00:00",
+  "updated_at": "2026-11-03T02:17:57.430707+00:00",
   "articles": [
+    {
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "source": "NASA",
+      "summary": "Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping to usher in a Golden Age of innovation and discovery. Johnson is home to America’s astronaut corps, the Mission Control Center, and the teams behind some of humanity’s greatest achievements in space. As NASA’s human spaceflight programs evolve, Johnson remains at the forefront of these efforts. Houston is home to NASA’s Low Earth Orbit Program, comprising International Space Station operations and commercial partnerships and destinations in low Earth orbit. For missions beyond low Earth orbit, Johnson houses the Moon Base Program⁠ and Orion Program⁠ , while NASA’s Human Health and Perform",
+      "published": "2026-11-02T21:35:59+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg",
+      "title_fr": "Happy 65 Years: Le Centre spatial Johnson de la NASA",
+      "summary_fr": "Aujourd'hui, Johnson est le centre d'excellence de la NASA pour le vol spatial humain, et son effectif aide à inaugurer un âge d'or de l'innovation et de la découverte. Johnson abrite le corps des astronautes américains, le Centre de contrôle de mission et les équipes derrière certaines des plus grandes réalisations de l'humanité dans l'espace. À mesure que les programmes de vol spatial humain de la NASA évoluent, Johnson reste à l'avant-garde de ces efforts. Houston abrite le programme en orbite terrestre basse de la NASA, comprenant les opérations de la Station spatiale internationale et les partenariats commerciaux et les destinations en orbite terrestre basse. Pour les missions au-delà de l'orbite terrestre basse, Johnson héberge le programme de base de la Lune et le programme d'Orion, tandis que NASA est la santé humaine et Perform"
+    },
+    {
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "source": "NASA",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov . An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. Adequacy depends on measurement accuracy, bandwidth, signal-to-noise ratio, and coverage of the test objective.",
+      "published": "2026-11-02T20:47:41+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png",
+      "title_fr": "TB 26-09 Entrées mesurées de marteau-tap",
+      "summary_fr": "Pour plus d'informations, contactez Joel W. Sills, Centre de recherche Langley, joel.w.sills@nasa.gov . Un essai de marteau instrumenté ne nécessite pas une forme d'onde à demi-sinus idéale. Lorsque la force et la réponse complètes sont mesurées avec précision, les ondulations de crête et les contacts séparés restent des entrées connues. La forme de la force change d'excitation, mais n'invalide pas nécessairement l'enregistrement. L'adéquation dépend de la précision des mesures, de la bande passante, du rapport signal-bruit et de la couverture de l'objectif d'essai."
+    },
+    {
+      "title": "NASA's CHAPEA Crew \"Returns\" to Earth",
+      "url": "https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat/",
+      "source": "NASA Images",
+      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026.",
+      "published": "2026-11-02T18:51:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
+      "title_fr": "L'équipage de CHAPEA de la NASA « retourne sur Terre »",
+      "summary_fr": "L'équipage de quatre membres de l'équipe d'Exploration analogique de la santé et de la performance (CHAPEA) se pose à l'extérieur pour la première fois depuis plus d'un an après la fin de leur voyage simulé sur Mars le 31 octobre 2026."
+    },
+    {
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "source": "NASA",
+      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year testing systems, maintaining crops, managing limited resources and communication delays, conducting extravehicular activities and more in efforts to help NASA better understand how crews adapt to long-duration stays. Insights from their experiences will help NASA design its future Moon Base and plan for missions on Mars.",
+      "published": "2026-11-02T18:50:42+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
+      "title_fr": "L'équipage de la NASA CHAPEA revient sur Terre",
+      "summary_fr": "L'équipage de quatre membres de l'équipe d'Exploration analogique de la santé et de la performance (CHAPEA) se pose à l'extérieur pour la première fois depuis plus d'un an après la fin de leur voyage simulé sur Mars le 31 octobre 2026. Les membres d'équipage Matthew Montgomery (à gauche), James Spicer (au milieu de la gauche), Ross Elder (au milieu de la droite) et Ellen Ellis (à droite) ont passé plus d'un an à tester les systèmes, à entretenir les cultures, à gérer les ressources limitées et les retards de communication, à mener des activités extravéhiculaires et à faire davantage pour aider la NASA à mieux comprendre comment les équipages s'adaptent aux séjours de longue durée. Leurs expériences aideront la NASA à concevoir sa future base lune et à planifier des missions sur Mars."
+    },
+    {
+      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+      "source": "NASA",
+      "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
+      "published": "2026-11-02T18:19:58+00:00",
+      "image": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
+      "title_fr": "Quoi de neuf: Novembre 2026 Conseils d'observation de ciel de la NASA",
+      "summary_fr": "Météor Douches, un Spacecraft Milestone, et un Supermoon Catch Taurid et Leonid météores, repérer Mars près de Jupiter, célébrer le Voyager 1s phare du jour, et regarder Novembre Supermoon. Skywatching Highlights Transcription Un mois d'averses de météorites ... un jumelage étroit de Mars et Jupiter ... et une super lune! C'est ce qui se passe en novembre. Novembre offre un buffet [...]"
+    },
     {
       "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
@@ -35,11 +85,11 @@
       "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
       "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: What’s causing this unusually long cloud on Mars ? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA ’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness",
+      "summary": "Explanation: What’s causing this unusually long cloud on Mars ? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA ’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere . Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons , wind blows the c",
       "published": "2026-11-02T05:05:00+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "APOD: 2026 2 novembre – Un long nuage sur Mars",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Qu'est-ce qui cause ce nuage exceptionnellement long sur Mars ? Connu sous le nom de Nuage allongé d'Arsia Mons (AMEC) et enregistré pour la première fois par la NASA de Viking Orbiter 2 en 1977, l'étrange nuage a été photographié plus en détail plus récemment par la sonde robotisée Mars Express de l'ESA. L'image en vedette date de 2018. Le nuage ne se forme que pendant les saisons de printemps et d'été, puis seulement pendant les heures du matin. Fait d'eau-glace, le processus le plus familier qui provoque la formation de cristaux de nuages autour de morceaux de poussières échouerait en raison de la minceur"
+      "summary_fr": "Explication : Qu'est-ce qui cause ce nuage exceptionnellement long sur Mars ? Connu sous le nom de Nuage allongé d'Arsia Mons (AMEC) et enregistré pour la première fois par la NASA de Viking Orbiter 2 en 1977, l'étrange nuage a été photographié plus en détail plus récemment par la sonde robotisée Mars Express de l'ESA. L'image en vedette date de 2018. Le nuage ne se forme que pendant les saisons de printemps et d'été, puis seulement pendant les heures du matin. Fait d'eau-glace, le processus le plus familier qui fait former des cristaux de nuages autour de morceaux de poussières échouerait en raison de la minceur et du manque de poussière élevée dans l'atmosphère martienne. La spéculation dominante soutient que la poussière n'est pas impliquée. Après la formation du nuage près du volcan Arsia Mons, le vent souffle le c"
     },
     {
       "title": "Pennsylvania’s Grand Canyon",
@@ -55,31 +105,21 @@
       "title": "APOD: 2026 November 1 – Colors of the Moon",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
       "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere , the dark Moon , which shines by reflected sunlight, appears a magnificent ly brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy . A red - or yellow -colored moon usually indicates a moon seen near the horizon . There, some of the blue light has been scattered away by a",
+      "summary": "Explanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere , the dark Moon , which shines by reflected sunlight, appears a magnificent ly brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy . A red - or yellow -colored moon usually indicates a moon seen near the horizon . There, some of the blue light has been scattered away by a long path through the Earth's atmosphere , sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles .",
       "published": "2026-11-01T04:05:00+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "APOD: 2026 Novembre 1 – Couleurs de la Lune",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : De quelle couleur est la Lune ? Ça dépend de la nuit -- et du temps. En dehors de l'atmosphère terrestre , la lune sombre , qui brille par le soleil réfléchi , apparaît un magnifique gris ly brun-denté . L'image présente une collection de couleurs apparentes de la pleine lune sur Terre, documentée par un astrophotographe sur 10 ans de différents endroits en Italie. Une lune rouge ou jaune indique habituellement une lune vue près de l'horizon. Là, une partie de la lumière bleue a été dispersée par un"
+      "summary_fr": "Explication : De quelle couleur est la Lune ? Ça dépend de la nuit -- et du temps. En dehors de l'atmosphère terrestre , la lune sombre , qui brille par le soleil réfléchi , apparaît un magnifique gris ly brun-denté . L'image présente une collection de couleurs apparentes de la pleine lune sur Terre, documentée par un astrophotographe sur 10 ans de différents endroits en Italie. Une lune rouge ou jaune indique généralement une lune vue près de l'horizon. Là, une partie de la lumière bleue a été éparpillée par un long chemin à travers l'atmosphère terrestre, parfois chargée de poussière fine. Une lune de couleur bleue est plus rare et peut indiquer une atmosphère transportant de plus grandes particules de poussière."
     },
     {
       "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
       "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
       "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir , a geothermally active area found along northeastern Iceland's volcanic landscape . Triggered by solar activity , geomagnetic storms have unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles create auroral displays in the starry night sky. Ghostly towers of steam and gas are venting from local fumarol",
+      "summary": "Explanation: What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir , a geothermally active area found along northeastern Iceland's volcanic landscape . Triggered by solar activity , geomagnetic storms have unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles create auroral displays in the starry night sky. Ghostly towers of steam and gas are venting from local fumaroles to dance against the eerie, greenish northern lights. For now, auroral activity on planet Earth remains in a high state as the Sun is only in early phases of decline fro",
       "published": "2026-10-31T04:05:00+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/Hverir_Vetter_1300.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "Image astronomique du jour : nuit sur une planète inquiétante",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Quelle planète effrayante est-ce ? La planète Terre sur une nuit sombre et orageuse, bien sûr. La scène fantôme a été photographiée à Hverir , une zone géothermalement active trouvée le long du paysage volcanique du nord-est de l'Islande . Les tempêtes géomagnétiques ont déclenché des particules énergétiques piégées dans le champ magnétique terrestre. Pénétrer la haute atmosphère de la planète aux hautes latitudes, les particules créent des affichages aurores dans le ciel étoilé de nuit. Des tours fantômes de vapeur et de gaz s'éventent à partir de fumarol local"
-    },
-    {
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-      "source": "NASA",
-      "summary": "Through multiple park experiences at MAX POWER , NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recent Inspiration Tour , which included numerous flyovers to highlight NASA’s fleet of aircraft. MAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a.m. EST on Nov. 7 and Nov. 8.",
-      "published": "2026-10-30T19:31:02+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg",
-      "title_fr": "La NASA dévoile les temps forts de MAX POWER pour les médias et les participants",
-      "summary_fr": "Grâce à de multiples expériences de parc à MAX POWER , la NASA et une variété de collaborateurs externes présenteront les nouveaux avions, les véhicules autonomes, les technologies, et définira davantage l'avenir de l'air et de l'espace. La NASA affichera son avion supersonique X-59 tranquille, et les partenaires de l'agence présenteront les rovers de lune, les vaisseaux spatiaux, et plus encore. L'expo est également l'aboutissement du récent Inspiration Tour de l'agence, qui comprenait de nombreux survols pour mettre en valeur la flotte d'avions de la NASA. MAX POWER offre des occasions de rencontrer des dirigeants, des astronautes, des ingénieurs, des scientifiques et d'autres experts en la matière lors d'événements publics pour la famille avec ouverture des portes à 9 h HNE les 7 et 8 novembre."
+      "summary_fr": "Explication : Quelle planète effrayante est-ce ? La planète Terre sur une nuit sombre et orageuse, bien sûr. La scène fantôme a été photographiée à Hverir , une zone géothermalement active trouvée le long du paysage volcanique du nord-est de l'Islande . Les tempêtes géomagnétiques ont déclenché des particules énergétiques piégées dans le champ magnétique terrestre. Pénétrer la haute atmosphère de la planète aux hautes latitudes, les particules créent des affichages aurores dans le ciel étoilé de nuit. Des tours fantômes de vapeur et de gaz s'éventent des fumaroles locales pour danser contre l'eerie, lumières nordiques verdâtres. Pour l'instant, l'activité aurorale sur la planète Terre reste dans un état élevé puisque le Soleil n'est que dans les premières phases de déclin"
     },
     {
       "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
@@ -92,16 +132,6 @@
       "summary_fr": "Le télescope spatial James Webb de la NASA révèle des structures complexes à l'intérieur de la nébuleuse principale de Cat, tracées par l'émission de poussières chaudes et de molécules à base de carbone excitées par la lumière des étoiles."
     },
     {
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "source": "NASA",
-      "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback erodes the surrounding gas and dust, denser material within the feline-shaped pillar resists erosion, at least for now. Image credit: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI)",
-      "published": "2026-10-30T15:56:26+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
-      "title_fr": "Le télescope James-Webb révèle une mystérieuse nébuleuse en forme de tête de chat",
-      "summary_fr": "Les structures intricées au sein de la nébuleuse de tête Cats sont éclairées dans cette vue du milieu infrarouge de la NASA James Webb Space Telescope sorti le 29 octobre 2026. La forme distinctive de la tête de la nébuleuse a probablement été sculptée avec le temps par le rayonnement ultraviolet intense et les vents des étoiles massives dans la nébuleuse de Carina. Comme cette rétroaction stellaire érode le gaz et la poussière environnants, un matériau plus dense à l'intérieur du pilier en forme de félin résiste à l'érosion, du moins pour l'instant. Crédit d'image: NASA, ESA, CSA, STScI; Traitement d'image: Joseph DePasquale (STScI)"
-    },
-    {
       "title": "What happened this month at the European Space Agency? (October 2026)",
       "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026",
       "source": "ESA",
@@ -112,16 +142,6 @@
       "summary_fr": "Vidéo: 00:04:30 Octobre a été un mois de découvertes et de jalons. L'équipe de rover de l'ESA Rosalind Franklin s'est entraînée en Espagne dans le désert, se préparant pour Mars. Notre mission de Smile a capturé l'anneau complet de lumières du nord autour de la Terre, tandis que Mars Express a découvert de nouveaux indices sur un nuage martien géant. L'astronaute de l'ESA Sophie Adenot est revenue sur Terre après 237 jours dans l'espace, et Hera a capturé ses premières images des astéroïdes qu'elle étudiera pour aider à protéger notre planète. Pendant ce temps, l'ESA a accueilli des milliers de visiteurs pour les journées portes ouvertes et s'est associée à Pokémon pour apporter les sciences spatiales à de nouveaux publics. Voici un aperçu de l'espace réservé à l'Europe en octobre prochain."
     },
     {
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "source": "NASA",
-      "summary": "Media Contacts: Alise Fisher Headquarters, Washington 202-358-2546 alise.m.fisher@nasa.gov Claire Andreoli Goddard Space Flight Center, Greenbelt, Md. 202-286-1940 claire.andreoli@nasa.gov Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.",
-      "published": "2026-10-30T14:51:21+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "La NASA explore le service commercial potentiel pour Hubble Telescope",
-      "summary_fr": "Contacts avec les médias : Quartier général Alise Fisher, Washington 202-358-2546 alise.m.fisher@nasa.gov Claire Andreoli Goddard Space Flight Center, Greenbelt, Md. 202-286-1940 claire.andreoli@nasa.gov Depuis son lancement en 1990, le télescope spatial Hubble a changé notre compréhension fondamentale de l'univers."
-    },
-    {
       "title": "Week in images: 26-30 October 2026",
       "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026",
       "source": "ESA",
@@ -130,16 +150,6 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
       "title_fr": "Semaine en images: 26-30 Octobre 2026",
       "summary_fr": "Semaine en images: 26-30 Octobre 2026 Découvrez notre semaine à travers l'objectif"
-    },
-    {
-      "title": "November’s Night Sky Notes: Light-Day Away",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "source": "NASA",
-      "summary": "In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. By the 1980s, the two probes went their separate ways at Saturn. As Voyager 2 continued toward Uranus and Neptune, Voyager 1 grabbed one more portrait of the solar system (excluding Mercury and Mars), including a final image of the pale blue dot we call home.",
-      "published": "2026-10-30T10:00:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26353/PIA26353.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "NovemberS Night Sky Notes: Jours-lumière",
-      "summary_fr": "En 1977, la NASA a lancé un vaisseau spatial jumeau Voyager 1 et 2, en profitant d'un alignement planétaire unique tous les 175 ans des quatre plus grandes planètes de notre système solaire : Jupiter, Saturne, Uranus et Neptune. En utilisant six aides gravitationnelles entre eux, ce Grand Tour nous a donné une vue imprenable sur les géants du gaz et de la glace, y compris plusieurs lunes. Dans les années 1980, les deux sondes se sont séparées à Saturne. Alors que Voyager 2 continuait vers Uranus et Neptune, Voyager 1 a saisi un portrait de plus du système solaire (à l'exclusion de Mercure et Mars), y compris une image finale du point bleu pâle que nous appelons chez nous."
     },
     {
       "title": "Earth from Space: Champi’s eerie eye",
@@ -909,16 +919,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png",
       "title_fr": "Magnétar des études IXPE de la NASA",
       "summary_fr": "Une première de son genre mesure d'un magnétaire peut avoir capturé l'espace vide se comporter d'une manière que les physiciens ont prédit pendant 90 ans, mais jamais observé directement. Les résultats publiés mercredi dans Nature."
-    },
-    {
-      "title": "Taking Flight to Prepare for Space",
-      "url": "https://www.nasa.gov/image-detail/55412014375-711b8f02f7-o/",
-      "source": "NASA Images",
-      "summary": "NASA astronaut candidate Adam Fuhrmann prepares for a training flight aboard NASA’s WB-57 aircraft.",
-      "published": "2026-08-06T15:20:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55412014375-711b8f02f7-o.jpg",
-      "title_fr": "Prendre le vol pour se préparer à l'espace",
-      "summary_fr": "Adam Fuhrmann, astronaute de la NASA, se prépare à un vol d'entraînement à bord des avions de la NASA."
     },
     {
       "title": "εpsilon",
