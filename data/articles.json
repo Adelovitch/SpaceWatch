@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-03T11:55:17.104115+00:00",
+  "updated_at": "2026-11-03T19:29:06.458044+00:00",
   "articles": [
+    {
+      "title": "Astronaut and Earth",
+      "url": "https://www.nasa.gov/image-detail/iss075e0253663/",
+      "source": "NASA Images",
+      "summary": "CSA (Canadian Space Agency) astronaut and Expedition 75 flight engineer Joshua Kutryk is pictured during a spacewalk with his spacesuit's helmet visor down to install a new roll-out solar array on the International Space Station's port side truss structure.",
+      "published": "2026-11-03T16:38:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg",
+      "title_fr": "Astronaute et Terre",
+      "summary_fr": "L'astronaute de l'ASC (Agence spatiale canadienne) et l'ingénieur en vol de l'Expédition 75 Joshua Kutryk est photographié lors d'une sortie dans l'espace avec la visière de casque de sa combinaison pour installer un nouveau réseau solaire de déploiement sur la structure de la structure de la structure de la structure côté bâbord de la Station spatiale internationale."
+    },
+    {
+      "title": "Astronaut and Earth",
+      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
+      "source": "NASA",
+      "summary": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work for their next spacewalk , which will take place on Nov. 5, 2026. The pair will install the eighth and final roll-out solar array; together, the eight arrays will increase the station’s available power by up to 30%.",
+      "published": "2026-11-03T16:37:42+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg",
+      "title_fr": "Astronaute et Terre",
+      "summary_fr": "L'astronaute de l'ASC (Agence spatiale canadienne) Joshua Kutryk est photographié lors de la sortie spatiale du 29 octobre 2026. Au moment de cette photographie, la Station spatiale internationale montait à 267 milles au-dessus de l'océan Atlantique Sud. L'astronaute de Kutryk et de la NASA, Anil Menon, a installé un nouveau réseau solaire de déploiement sur la station spatiale et a effectué des travaux de préparation pour leur prochaine sortie spatiale, qui aura lieu le 5 novembre 2026. La paire installera le huitième et dernier réseau solaire de déploiement; ensemble, les huit réseaux augmenteront la puissance disponible de la station jusqu'à 30%."
+    },
+    {
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
+      "source": "NASA",
+      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov . Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due to bending. Failure analyses ruled out defective lots and fatigue, identifying board flexure, component orientation, excessive solder, and mounting stresses as contributing factors. The bulletin recommends careful component placement, finite element analysis, controlled solder fillet height, thorough inspection, and func",
+      "published": "2026-11-03T15:35:14+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-2sem-.png",
+      "title_fr": "TB 26-10 Craquage du corps de la puce de carte de circuit imprimée",
+      "summary_fr": "Pour plus d'informations, contactez Joel W. Sills, Centre de recherche Langley, joel.w.sills@nasa.gov . Les résistances à la puce sont largement utilisées dans les projets de la NASA, mais les cas de fissuration du substrat d'alumine durant les essais environnementaux sont rares. Deux cas de fissuration de la résistance à la puce à film épais ont été observés pendant le cycle thermique après les vibrations, les fractures se produisant à travers l'axe court en raison de la flexion. Les analyses de défaillance ont exclu les lots défectueux et la fatigue, identifiant la flexion de la planche, l'orientation des composants, la soudure excessive et les contraintes de montage comme facteurs contributifs. Le bulletin recommande un placement soigneux des composants, une analyse des éléments finis, une hauteur de filet de soudure contrôlée, une inspection approfondie et un func"
+    },
+    {
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
+      "source": "NASA",
+      "summary": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, engineering, and exploration into classrooms nationwide. The Earth-to-space call will begin at 11 a.m. EST on Wednesday, Nov. 4, and will be available to watch on the agency’s flagship YouTube with additional engagement across Learn With NASA channels.",
+      "published": "2026-11-03T15:15:50+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg",
+      "title_fr": "NASA Astronaut, Créateur STEM Connectez-vous avec les étudiants pour la journée STEM",
+      "summary_fr": "Les étudiants de tout le pays auront l'occasion de se connecter directement à la Station spatiale internationale lors d'un appel en vol interactif en direct avec l'astronaute de la NASA, Anil Menon, et Mark Rober, créateur de contenu STEM et fondateur de la Fondation ClassCrunchLabs. L'événement, organisé par le Bureau de l'engagement STEM de la NASA, célèbre le STEM national Journée en apportant la science, l'ingénierie et l'exploration du monde réel dans les salles de classe du pays. L'appel Terre-espace débutera à 11 h HNE le mercredi 4 novembre et sera disponible pour regarder sur l'agence YouTube phare avec un engagement supplémentaire sur les canaux Learn With NASA."
+    },
+    {
+      "title": "10 asteroid mysteries that Hera will explore",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore",
+      "source": "ESA",
+      "summary": "Video: 00:07:25 Hera, the European Space Agency’s first mission for planetary defence, arrives at its target body during November, with the goal of gathering precious data on the kinetic impact method of asteroid deflection – while also solving various scientific enigmas. The small-car-sized spacecraft is headed to the 151-m-diameter Dimorphos asteroid, which orbits in turn around its 780-m Didymos parent. Dimorphos is already historic as the first object in the Solar System to have had its orbit changed by human action – when NASA’s DART spacecraft impacted it on 26 September 2022. DART’s impact caused a brightening visible from distant Earth telescopes, but nobody knows what it did to Dimorphos itself. Hera is going there to perform a close-up crash site survey, to help turn DART’s kinetic impact experiment into a well understood planetary defence deflection technique. Scientists are h",
+      "published": "2026-11-03T09:30:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/10_asteroid_mysteries_that_hera_will_explore/27597783-2-eng-GB/10_asteroid_mysteries_that_Hera_will_explore_card_full.png",
+      "title_fr": "10 mystères d'astéroïde que Hera explorera",
+      "summary_fr": "Vidéo: 00:07:25 Hera, la première mission de l'Agence Spatiale Européenne pour la Défense planétaire, arrive à son corps cible en Novembre, dans le but de recueillir des données précieuses sur la méthode d'impact cinétique de la déflexion des astéroïdes – tout en résolvant diverses énigmes scientifiques. L'engin spatial de petite taille se dirige vers l'astéroïde Dimorphos de 151 mètres de diamètre, qui tourne autour de son parent Didymos de 780 mètres. Le dimorphos est déjà le premier objet historique du système solaire à avoir changé son orbite par action humaine – lorsque le vaisseau spatial DART de la NASA l'a touché le 26 septembre 2022. L'impact du DART a provoqué un éclairement visible à partir de télescopes terrestres éloignés, mais personne ne sait ce qu'il a fait à Dimorphos lui-même. Hera s'y rend pour effectuer une enquête rapprochée sur le site d'écrasement, pour aider à transformer l'expérience d'impact cinétique de DART en une technique de déflexion de défense planétaire bien comprise. Les scientifiques sont h"
+    },
     {
       "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
@@ -82,16 +132,6 @@
       "summary_fr": "La mission est connue sous le nom de NASAS Northrop Grumman Commercial ReSupply Services 25, ou NASAS Northrop Grumman CRS-25. Le décollage n'a lieu qu'à 10 h 49 (HNE), dimanche 29 novembre, à partir du complexe de lancement de l'espace 40, à la station spatiale Cap Canaveral, en Floride. Après le lancement, les astronautes à bord de la station spatiale utiliseront le bras robotisé Canadarm2 pour capturer Cygnus et installer l'engin spatial dans le port de l'unité face à la Terre pour le déchargement des marchandises. Le vaisseau spatial restera à la station spatiale jusqu'en mai 2027. Il s'agit du 25e vaisseau spatial de l'entreprise construit pour livrer des fournitures à la Station spatiale internationale sous contrat avec la NASA."
     },
     {
-      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-      "source": "NASA",
-      "summary": "NASA’s Hubble Space Telescope just revealed a mystery in our cosmic neighborhood. In a paper published Monday in The Astrophysical Journal, researchers using Hubble studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — and found that much of the oxygen they expected to see is missing. Simulations predict that significantly more oxygen, a tracer of a wider set of heavy elements, should reside in these galaxies. So where did it go?",
-      "published": "2026-11-02T15:00:39+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Cas de perte d'oxygène dans les galaxies de nains à proximité",
-      "summary_fr": "Le télescope spatial Hubble de la NASA vient de révéler un mystère dans notre quartier cosmique. Dans un article publié lundi dans The Astrophysical Journal, des chercheurs utilisant Hubble ont étudié 37 galaxies naines voisines, petites galaxies contenant de quelques milliers à des centaines de millions d'étoiles, et ont découvert qu'une grande partie de l'oxygène qu'ils attendaient de voir manquait. Les simulations prédisent que beaucoup plus d'oxygène, un traceur d'un ensemble plus large d'éléments lourds, devrait résider dans ces galaxies. Alors où est-il passé ?"
-    },
-    {
       "title": "CubeSat achieves challenging laser link to ground",
       "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
       "source": "ESA",
@@ -100,26 +140,6 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg",
       "title_fr": "CubeSat réalise une liaison laser difficile au sol",
       "summary_fr": "Cette étape représente le premier lien optique de la Grèce avec un satellite à orbite terrestre basse (LEO). Contrairement aux communications radiofréquences classiques, les liaisons optiques utilisent des faisceaux laser étroits pour transmettre des données. Cela permet des taux de données élevés, mais il rend aussi l'établissement et le maintien d'une connexion techniquement exigeante. Le faisceau doit être dirigé précisément vers un récepteur tandis que le satellite passe par orbite à plusieurs kilomètres par seconde. Les deux terminaux doivent acquérir le signal et se suivre en continu pendant une fenêtre de communication limitée. Non seulement cela; les conditions atmosphériques ajoutent plus de complexité que les nuages peuvent bloquer entièrement le lien et la turbulence peut dégrader la qualité du signal."
-    },
-    {
-      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "source": "NASA",
-      "summary": "Explanation: What’s causing this unusually long cloud on Mars ? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA ’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere . Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons , wind blows the c",
-      "published": "2026-11-02T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 2 novembre – Un long nuage sur Mars",
-      "summary_fr": "Explication : Qu'est-ce qui cause ce nuage exceptionnellement long sur Mars ? Connu sous le nom de Nuage allongé d'Arsia Mons (AMEC) et enregistré pour la première fois par la NASA de Viking Orbiter 2 en 1977, l'étrange nuage a été photographié plus en détail plus récemment par la sonde robotisée Mars Express de l'ESA. L'image en vedette date de 2018. Le nuage ne se forme que pendant les saisons de printemps et d'été, puis seulement pendant les heures du matin. Fait d'eau-glace, le processus le plus familier qui fait former des cristaux de nuages autour de morceaux de poussières échouerait en raison de la minceur et du manque de poussière élevée dans l'atmosphère martienne. La spéculation dominante soutient que la poussière n'est pas impliquée. Après la formation du nuage près du volcan Arsia Mons, le vent souffle le c"
-    },
-    {
-      "title": "Pennsylvania’s Grand Canyon",
-      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "source": "NASA",
-      "summary": "North-central Pennsylvania is canyon country with an Appalachian flair. Pine Creek Gorge reaches depths of about 1,500 feet (460 meters) along its gently curving path through the forests of the Allegheny Plateau . Instead of the steep rock walls characteristic of canyons in the desert Southwest, lushly vegetated slopes outline the dramatic topography. In autumn, greens give way to a palette of reds and golds sought out by leaf peepers. Nicknamed the “Grand Canyon of Pennsylvania,” the gorge runs for some 45 miles (72 kilometers) from Ansonia south to Pine Creek’s confluence with the West Branch Susquehanna River, reaching its greatest depths around Waterville. The OLI (Operational Land Image",
-      "published": "2026-11-02T05:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Le Grand Canyon de Pennsylvanie",
-      "summary_fr": "Le centre-nord de la Pennsylvanie est un pays canyon avec un style appalachien. Pine Creek Gorge atteint des profondeurs d'environ 1 500 pieds (460 mètres) le long de son chemin de courbure en douceur à travers les forêts du Plateau Allegheny. Au lieu des parois rocheuses abruptes caractéristiques des canyons dans le désert du sud-ouest, les pentes luxuriantes végétatives dessinent la topographie dramatique. En automne, les verts cèdent la place à une palette de rouges et d'or recherchés par les picoleurs de feuilles. Surnommée le Grand Canyon de Pennsylvanie, la gorge s'étend sur environ 72 kilomètres de Ansonia au sud jusqu'au confluent de Pine Creek avec la rivière Susquehanna de la Branche Ouest, atteignant ses plus grandes profondeurs autour de Waterville. L'OLI (Image de terrain opérationnelle)"
     },
     {
       "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
@@ -175,11 +195,11 @@
       "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
       "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
       "source": "ESA",
-      "summary": "Like a spectral form rising out of a cold mist, the Hubble and James Webb Space Telescopes have come across a hauntingly dynamic star-forming scene within the vast Carina Nebula, a diffuse star-forming region. The small, select area that was observed by both telescopes is nicknamed the Cat’s Head Nebula because of its resemblance to a cat sitting with its back toward the viewer. The 'head' of the cat is turned to the right, revealing a glowing eye. The distinctive shape of the Cat’s Head Nebula has likely been sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback erodes the surrounding gas and dust, denser material",
+      "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.",
       "published": "2026-10-29T14:00:00+00:00",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
       "title_fr": "Cats fantômes Nebula tête rôde en vue de Hubble et Webb",
-      "summary_fr": "Comme une forme spectrale s'élevant d'une brume froide, les télescopes spatiaux Hubble et James Webb ont découvert une scène stellaire hantantement dynamique au sein de la vaste Carina Nebula, une région stellaire diffuse. La petite zone sélectionnée qui a été observée par les deux télescopes est surnommée la nébuleuse de tête de cats en raison de sa ressemblance avec un chat assis avec son dos vers le spectateur. La 'tête' du chat est tournée vers la droite, révélant un œil brillant. La forme distinctive de la nébuleuse à tête de chat a probablement été sculptée au fil du temps par le rayonnement ultraviolet intense et les vents des étoiles massives dans la nébuleuse de Carina. Comme ce retour stellaire érode le gaz et la poussière environnant, matériau plus dense"
+      "summary_fr": "La NASA/ESA Hubble et les télescopes spatiaux James Webb de la NASA/ESA/CSA ont récemment regardé une scène de formation d'étoiles dans la nébuleuse Carina, un nuage de gaz et de poussière massif situé à environ 7500 années-lumière de la Terre. Les deux télescopes offrent des vues complémentaires de la forme ombreuse, surnommée la nébuleuse de tête de cats, qui reflète le processus « magique » de formation des étoiles. La vue de la lumière visible de Hubble montre le chat comme un pilier de poussière sombre et allongé et des indices de jeunes étoiles formant, tandis que l'imagerie de la lumière infrarouge de Webbe dévoile de nombreuses étoiles et d'autres détails cachés."
     },
     {
       "title": "Webb Sees Turbulent Star Nursery",
@@ -240,16 +260,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
       "title_fr": "RS-25 Essais de moteur à la NASA Stennis",
       "summary_fr": "Les équipes du Centre spatial de Stennis près de Bay St. Louis, Mississippi, ont testé le moteur RS-25 no 10001 le 21 octobre 2026."
-    },
-    {
-      "title": "Week in images: 19-23 October 2026",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_19-23_October_2026",
-      "source": "ESA",
-      "summary": "Week in images: 19-23 October 2026 Discover our week through the lens",
-      "published": "2026-10-23T13:15:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-      "title_fr": "Semaine en images: 19-23 Octobre 2026",
-      "summary_fr": "Semaine en images: 19-23 Octobre 2026 Découvrez notre semaine à travers l'objectif"
     },
     {
       "title": "Spiral's Edge",
@@ -909,16 +919,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg",
       "title_fr": "L'astronaute de la NASA Jessica Meir utilise des lunettes de VR",
       "summary_fr": "L'astronaute de la NASA et le commandant de l'Expédition 75 Jessica Meir portent un ensemble de lunettes de réalité virtuelle, également appelé le Nevada Screening Vision System, pour un test qui mesure la fonction visuelle à l'aide d'une série d'applications de dépistage de vision testant l'acuité visuelle, la sensibilité au contraste, et plus encore."
-    },
-    {
-      "title": "NASA's IXPE Studies Magnetar",
-      "url": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/",
-      "source": "NASA Images",
-      "summary": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
-      "published": "2026-08-07T14:28:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/ixpemagnetarartistsconcept-web.png",
-      "title_fr": "Magnétar des études IXPE de la NASA",
-      "summary_fr": "Une première de son genre mesure d'un magnétaire peut avoir capturé l'espace vide se comporter d'une manière que les physiciens ont prédit pendant 90 ans, mais jamais observé directement. Les résultats publiés mercredi dans Nature."
     },
     {
       "title": "εpsilon",
