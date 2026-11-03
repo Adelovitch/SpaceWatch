@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-03T02:17:57.430707+00:00",
+  "updated_at": "2026-11-03T11:55:17.104115+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor . Comet C/2025 R3 (PanSTARRS) was captured from Hautacam , France in April when the giant space iceberg sported impressive ion (blue) and dust tails . Sand-sized rocky debris that enters Earth’s atmosphere typically app",
+      "published": "2026-11-03T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 3 novembre – Comet PanSTARs et Rainbow Meteor",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Est-ce que ce météore vient de cette comète ? Probablement pas. Bien que beaucoup de météores proviennent de comètes, il y a des milliers de comètes qui ont visité le système solaire intérieur récemment, et les météores correspondants à eux peuvent être difficiles. Et pour être clair, la comète photographiée est loin derrière le météore. La comète C/2025 R3 (PanSTARRS) a été capturée à Hautacam, en France, en avril, lorsque l'iceberg spatial géant arborait des ions impressionnants (bleu) et des queues de poussière. Débris rocheux de taille sable qui pénètrent dans l'atmosphère de la Terre"
+    },
+    {
+      "title": "The Pacific’s Busy Storm Season",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "source": "NASA",
+      "summary": "Tropical cyclone activity in the Northwest Pacific Basin has been elevated since April 2026, when Sinlaku surged to super typhoon strength and battered Micronesia, Guam, and the Northern Mariana Islands. Twenty-five named storms later, the basin still hummed with activity in late October. When the EPIC (Earth Polychromatic Imaging Camera) on the DSCOVR (Deep Space Climate Observatory) satellite captured this image (above) on October 29, 2026, Super Typhoon In-fa churned near the Mariana Islands. At the same time, the remnants of Typhoon Champi approached Alaska amid a parade of storms moving across the Bering Sea. In-fa is the fifth typhoon to affect the Mariana Islands this year.",
+      "published": "2026-11-03T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-pacific's-busy-storm-season/storminfa_epic_20261029_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "La saison des tempêtes du Pacifique",
+      "summary_fr": "L'activité des cyclones tropicaux dans le bassin du Pacifique Nord-Ouest a été élevée depuis avril 2026, lorsque Sinlaku est passé à une force de super typhon et a frappé la Micronésie, Guam et les îles Mariannes du Nord. Vingt-cinq tempêtes nommées plus tard, le bassin est encore en pleine activité à la fin d'octobre. Lorsque le satellite EPIC (Earth Polychromatic Imaging Camera) du DSCOVR (Deep Space Climate Observatory) a capturé cette image (ci-dessus) le 29 octobre 2026, le Super Typhoon In-fa a lancé près des îles Mariana. En même temps, les restes du typhon Champi s'approchent de l'Alaska au milieu d'un défilé de tempêtes qui traversent la mer de Béring. In-fa est le cinquième typhon à toucher les îles Mariana cette année."
+    },
     {
       "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
       "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
@@ -100,26 +120,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "Le Grand Canyon de Pennsylvanie",
       "summary_fr": "Le centre-nord de la Pennsylvanie est un pays canyon avec un style appalachien. Pine Creek Gorge atteint des profondeurs d'environ 1 500 pieds (460 mètres) le long de son chemin de courbure en douceur à travers les forêts du Plateau Allegheny. Au lieu des parois rocheuses abruptes caractéristiques des canyons dans le désert du sud-ouest, les pentes luxuriantes végétatives dessinent la topographie dramatique. En automne, les verts cèdent la place à une palette de rouges et d'or recherchés par les picoleurs de feuilles. Surnommée le Grand Canyon de Pennsylvanie, la gorge s'étend sur environ 72 kilomètres de Ansonia au sud jusqu'au confluent de Pine Creek avec la rivière Susquehanna de la Branche Ouest, atteignant ses plus grandes profondeurs autour de Waterville. L'OLI (Image de terrain opérationnelle)"
-    },
-    {
-      "title": "APOD: 2026 November 1 – Colors of the Moon",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "source": "NASA",
-      "summary": "Explanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere , the dark Moon , which shines by reflected sunlight, appears a magnificent ly brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy . A red - or yellow -colored moon usually indicates a moon seen near the horizon . There, some of the blue light has been scattered away by a long path through the Earth's atmosphere , sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles .",
-      "published": "2026-11-01T04:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 Novembre 1 – Couleurs de la Lune",
-      "summary_fr": "Explication : De quelle couleur est la Lune ? Ça dépend de la nuit -- et du temps. En dehors de l'atmosphère terrestre , la lune sombre , qui brille par le soleil réfléchi , apparaît un magnifique gris ly brun-denté . L'image présente une collection de couleurs apparentes de la pleine lune sur Terre, documentée par un astrophotographe sur 10 ans de différents endroits en Italie. Une lune rouge ou jaune indique généralement une lune vue près de l'horizon. Là, une partie de la lumière bleue a été éparpillée par un long chemin à travers l'atmosphère terrestre, parfois chargée de poussière fine. Une lune de couleur bleue est plus rare et peut indiquer une atmosphère transportant de plus grandes particules de poussière."
-    },
-    {
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "source": "NASA",
-      "summary": "Explanation: What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir , a geothermally active area found along northeastern Iceland's volcanic landscape . Triggered by solar activity , geomagnetic storms have unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles create auroral displays in the starry night sky. Ghostly towers of steam and gas are venting from local fumaroles to dance against the eerie, greenish northern lights. For now, auroral activity on planet Earth remains in a high state as the Sun is only in early phases of decline fro",
-      "published": "2026-10-31T04:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/Hverir_Vetter_1300.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Image astronomique du jour : nuit sur une planète inquiétante",
-      "summary_fr": "Explication : Quelle planète effrayante est-ce ? La planète Terre sur une nuit sombre et orageuse, bien sûr. La scène fantôme a été photographiée à Hverir , une zone géothermalement active trouvée le long du paysage volcanique du nord-est de l'Islande . Les tempêtes géomagnétiques ont déclenché des particules énergétiques piégées dans le champ magnétique terrestre. Pénétrer la haute atmosphère de la planète aux hautes latitudes, les particules créent des affichages aurores dans le ciel étoilé de nuit. Des tours fantômes de vapeur et de gaz s'éventent des fumaroles locales pour danser contre l'eerie, lumières nordiques verdâtres. Pour l'instant, l'activité aurorale sur la planète Terre reste dans un état élevé puisque le Soleil n'est que dans les premières phases de déclin"
     },
     {
       "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
