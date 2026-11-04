@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-04T12:06:58.438219+00:00",
+  "updated_at": "2026-11-04T19:44:28.201789+00:00",
   "articles": [
+    {
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "source": "NASA",
+      "summary": "Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration elements, as one of many customers in the commercial marketplace. The awards, under the Next Space Technologies for Exploration Partnerships-3 Broad Agency Announcement Appendix E, are firm-fixed-price contracts that give NASA the option to provide additional funding up to the award limit to advance from initial concept development and risk reduction to an in-orbit flight demonstration. The initial period of performance runs from Nov. 4 through May 3, 2027, with additional priced options to continue work through 2029.",
+      "published": "2026-11-04T18:00:02+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+      "title_fr": "La NASA annonce les prix Ka-Band pour le relais satellite pour les communications spatiales",
+      "summary_fr": "Grâce à ces travaux, la NASA s'efforcera d'acquérir des solutions de bout en bout qui incluent l'espace, le sol, le lancement, les opérations et les éléments d'intégration, comme l'un des nombreux clients sur le marché commercial. Les prix, dans le cadre de l'annonce de l'Agence générale Next Space Technologies for Exploration Partnerships-3, Annexe E, sont des contrats à prix fixe qui donnent à la NASA la possibilité de fournir des fonds supplémentaires jusqu'à concurrence de la limite d'attribution pour passer de l'élaboration initiale du concept et de la réduction des risques à une démonstration en orbite. La période initiale d'exécution s'étend du 4 novembre au 3 mai 2027, avec des options de prix supplémentaires pour poursuivre les travaux jusqu'en 2029."
+    },
+    {
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "source": "NASA",
+      "summary": "An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution ( SPLICE ) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place at Rogers Dry Lake near NASA’s Armstrong Flight Research Center in Edwards, California. During the tests, the SPLICE payload used an advanced guidance system to map the terrain and assess potential landing areas. If the system determines the targeted landing area is unsafe, the system diverts the drone to a safer location. The system generates high-resolution digital elevation maps from light-detection and sensor data.",
+      "published": "2026-11-04T16:52:43+00:00",
+      "image": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg",
+      "title_fr": "L'expérience de navigation de la NASA montre la promesse d'atterrissages planétaires",
+      "summary_fr": "Un drone Alta-X équipé de l'agence de guidage, de navigation et de commande Safe and Precise Landing – Integrated Capabilities Evolution ( SPLICE ) a effectué des manœuvres de descente et d'atterrissage lunaires simulées le 27 août. Le vol a eu lieu à Rogers Dry Lake près du Centre de recherche sur les vols d'Armstrong de la NASA à Edwards, en Californie. Au cours des essais, la charge utile de SPLICE a utilisé un système de guidage avancé pour cartographier le terrain et évaluer les zones d'atterrissage possibles. Si le système détermine que la zone d'atterrissage visée est dangereuse, il détourne le drone vers un endroit plus sûr. Le système génère des cartes numériques d'élévation à haute résolution à partir de données de détection de lumière et de capteur."
+    },
+    {
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "source": "NASA",
+      "summary": "In Iowa, NASA Administrator Jared Isaacman toured the Make to Innovate program lab at Iowa State University. Students from the Iowa Space Grant Consortium’s Mission Moon program, along with consortium-funded student organizations including Cardinal Space Mining, CySat, and CyLaunch, shared research findings and demonstrated the institution’s strong connection to NASA via agency-funded projects. During a well-attended town hall event NASA experts briefed students on the agency’s Moon Base efforts and how their work can contribute to future exploration.",
+      "published": "2026-11-04T16:16:41+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55572302164-8599ccaff1-k.jpg",
+      "title_fr": "Les étudiants de la NASA Space Grant Carburant Agency",
+      "summary_fr": "En Iowa, l'administrateur de la NASA, Jared Isaacman, a visité le laboratoire du programme Make to Innovate à l'Université d'État de l'Iowa. Des étudiants du programme Mission Moon de l'Iowa Space Grant Consortium, ainsi que des organisations étudiantes financées par le consortium, dont Cardinal Space Mining, CySat et CyLaunch, ont partagé des résultats de recherche et démontré la forte connexion de l'institution avec la NASA par le biais de projets financés par l'agence. Au cours d'un événement de mairie très fréquenté, les experts de la NASA ont informé les étudiants des efforts de l'agence Moon Base et de la façon dont leur travail peut contribuer à l'exploration future."
+    },
+    {
+      "title": "Hubble Reveals Cosmic Mystery",
+      "url": "https://www.nasa.gov/image-detail/full-res-for-display-1-3/",
+      "source": "NASA Images",
+      "summary": "This is an image from NASA’s Hubble Space Telescope of NGC 4449, one of the dwarf galaxies in the Galaxies Losing Oxygen via Winds (GLOW) study. Researchers found that dwarf galaxies can hold onto only a small fraction of the oxygen made by their stars.",
+      "published": "2026-11-04T16:07:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
+      "title_fr": "Hubble dévoile le mystère cosmique",
+      "summary_fr": "C'est une image du télescope spatial Hubble de la NASA de NGC 4449, l'une des galaxies naines de l'étude Galaxies Perdre de l'oxygène par le vent (GLOW). Les chercheurs ont découvert que les galaxies naines ne peuvent contenir qu'une petite fraction de l'oxygène produit par leurs étoiles."
+    },
+    {
+      "title": "Hubble Reveals Cosmic Mystery",
+      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
+      "source": "NASA",
+      "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
+      "published": "2026-11-04T15:59:36+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
+      "title_fr": "Hubble dévoile le mystère cosmique",
+      "summary_fr": "Cette photo sortie le 2 novembre 2026, met en valeur le NGC 4449, un nain irrégulier. Des chercheurs utilisant le télescope spatial Hubble de la NASA ont étudié 37 galaxies naines voisines — petites galaxies contenant de quelques milliers à des centaines de millions d'étoiles — dont le NGC 4449 et ont constaté qu'une grande partie de l'oxygène qu'ils attendaient de voir manquait. Lire [...]"
+    },
     {
       "title": "Time to wake up MetOp-SG-B1 weather satellite",
       "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
@@ -92,36 +142,6 @@
       "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Est-ce que ce météore vient de cette comète ? Probablement pas. Bien que beaucoup de météores proviennent de comètes, il y a des milliers de comètes qui ont visité le système solaire intérieur récemment, et les météores correspondants à eux peuvent être difficiles. Et pour être clair, la comète photographiée est loin derrière le météore. La comète C/2025 R3 (PanSTARRS) a été capturée à Hautacam, en France, en avril, lorsque l'iceberg spatial géant arborait des ions impressionnants (bleu) et des queues de poussière. Débris rocheux de taille sable qui pénètrent dans l'atmosphère de la Terre"
     },
     {
-      "title": "The Pacific’s Busy Storm Season",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "source": "NASA",
-      "summary": "Tropical cyclone activity in the Northwest Pacific Basin has been elevated since April 2026, when Sinlaku surged to super typhoon strength and battered Micronesia, Guam, and the Northern Mariana Islands. Twenty-five named storms later, the basin still hummed with activity in late October. When the EPIC (Earth Polychromatic Imaging Camera) on the DSCOVR (Deep Space Climate Observatory) satellite captured this image (above) on October 29, 2026, Super Typhoon In-fa churned near the Mariana Islands. At the same time, the remnants of Typhoon Champi approached Alaska amid a parade of storms moving across the Bering Sea. In-fa is the fifth typhoon to affect the Mariana Islands this year.",
-      "published": "2026-11-03T05:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/the-pacific's-busy-storm-season/storminfa_epic_20261029_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "La saison des tempêtes du Pacifique",
-      "summary_fr": "L'activité des cyclones tropicaux dans le bassin du Pacifique Nord-Ouest a été élevée depuis avril 2026, lorsque Sinlaku est passé à une force de super typhon et a frappé la Micronésie, Guam et les îles Mariannes du Nord. Vingt-cinq tempêtes nommées plus tard, le bassin est encore en pleine activité à la fin d'octobre. Lorsque le satellite EPIC (Earth Polychromatic Imaging Camera) du DSCOVR (Deep Space Climate Observatory) a capturé cette image (ci-dessus) le 29 octobre 2026, le Super Typhoon In-fa a lancé près des îles Mariana. En même temps, les restes du typhon Champi s'approchent de l'Alaska au milieu d'un défilé de tempêtes qui traversent la mer de Béring. In-fa est le cinquième typhon à toucher les îles Mariana cette année."
-    },
-    {
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "source": "NASA",
-      "summary": "Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping to usher in a Golden Age of innovation and discovery. Johnson is home to America’s astronaut corps, the Mission Control Center, and the teams behind some of humanity’s greatest achievements in space. As NASA’s human spaceflight programs evolve, Johnson remains at the forefront of these efforts. Houston is home to NASA’s Low Earth Orbit Program, comprising International Space Station operations and commercial partnerships and destinations in low Earth orbit. For missions beyond low Earth orbit, Johnson houses the Moon Base Program⁠ and Orion Program⁠ , while NASA’s Human Health and Perform",
-      "published": "2026-11-02T21:35:59+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg",
-      "title_fr": "Happy 65 Years: Le Centre spatial Johnson de la NASA",
-      "summary_fr": "Aujourd'hui, Johnson est le centre d'excellence de la NASA pour le vol spatial humain, et son effectif aide à inaugurer un âge d'or de l'innovation et de la découverte. Johnson abrite le corps des astronautes américains, le Centre de contrôle de mission et les équipes derrière certaines des plus grandes réalisations de l'humanité dans l'espace. À mesure que les programmes de vol spatial humain de la NASA évoluent, Johnson reste à l'avant-garde de ces efforts. Houston abrite le programme en orbite terrestre basse de la NASA, comprenant les opérations de la Station spatiale internationale et les partenariats commerciaux et les destinations en orbite terrestre basse. Pour les missions au-delà de l'orbite terrestre basse, Johnson héberge le programme de base de la Lune et le programme d'Orion, tandis que NASA est la santé humaine et Perform"
-    },
-    {
-      "title": "TB 26-09 Measured Hammer-Tap Inputs",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
-      "source": "NASA",
-      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov . An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. Adequacy depends on measurement accuracy, bandwidth, signal-to-noise ratio, and coverage of the test objective.",
-      "published": "2026-11-02T20:47:41+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png",
-      "title_fr": "TB 26-09 Entrées mesurées de marteau-tap",
-      "summary_fr": "Pour plus d'informations, contactez Joel W. Sills, Centre de recherche Langley, joel.w.sills@nasa.gov . Un essai de marteau instrumenté ne nécessite pas une forme d'onde à demi-sinus idéale. Lorsque la force et la réponse complètes sont mesurées avec précision, les ondulations de crête et les contacts séparés restent des entrées connues. La forme de la force change d'excitation, mais n'invalide pas nécessairement l'enregistrement. L'adéquation dépend de la précision des mesures, de la bande passante, du rapport signal-bruit et de la couverture de l'objectif d'essai."
-    },
-    {
       "title": "NASA's CHAPEA Crew \"Returns\" to Earth",
       "url": "https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat/",
       "source": "NASA Images",
@@ -130,16 +150,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
       "title_fr": "L'équipage de CHAPEA de la NASA « retourne sur Terre »",
       "summary_fr": "L'équipage de quatre membres de l'équipe d'Exploration analogique de la santé et de la performance (CHAPEA) se pose à l'extérieur pour la première fois depuis plus d'un an après la fin de leur voyage simulé sur Mars le 31 octobre 2026."
-    },
-    {
-      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
-      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
-      "source": "NASA",
-      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year testing systems, maintaining crops, managing limited resources and communication delays, conducting extravehicular activities and more in efforts to help NASA better understand how crews adapt to long-duration stays. Insights from their experiences will help NASA design its future Moon Base and plan for missions on Mars.",
-      "published": "2026-11-02T18:50:42+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
-      "title_fr": "L'équipage de la NASA CHAPEA revient sur Terre",
-      "summary_fr": "L'équipage de quatre membres de l'équipe d'Exploration analogique de la santé et de la performance (CHAPEA) se pose à l'extérieur pour la première fois depuis plus d'un an après la fin de leur voyage simulé sur Mars le 31 octobre 2026. Les membres d'équipage Matthew Montgomery (à gauche), James Spicer (au milieu de la gauche), Ross Elder (au milieu de la droite) et Ellen Ellis (à droite) ont passé plus d'un an à tester les systèmes, à entretenir les cultures, à gérer les ressources limitées et les retards de communication, à mener des activités extravéhiculaires et à faire davantage pour aider la NASA à mieux comprendre comment les équipages s'adaptent aux séjours de longue durée. Leurs expériences aideront la NASA à concevoir sa future base lune et à planifier des missions sur Mars."
     },
     {
       "title": "CubeSat achieves challenging laser link to ground",
@@ -909,16 +919,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png",
       "title_fr": "Lion Nebula Roars dans les vues de Webb",
       "summary_fr": "Le télescope spatial James Webb de la NASA image la nébuleuse planétaire NGC 2392, la nébuleuse lion, en utilisant l'observatoire NIRCam et les instruments MIRI. Les restes de l'étoile centrale sont responsables de la structure de la nébuleuse, y compris une bulle en forme de face de lion de gaz ionisé et de poussières."
-    },
-    {
-      "title": "NASA Astronaut Jessica Meir Uses VR Goggles",
-      "url": "https://www.nasa.gov/image-detail/iss075e0000191/",
-      "source": "NASA Images",
-      "summary": "NASA astronaut and Expedition 75 commander Jessica Meir wears a set of virtual reality goggles, also called the Nevada Screening Vision System, for a test that measures visual function using a series of vision screening apps testing visual acuity, contrast sensitivity, and more.",
-      "published": "2026-08-10T15:50:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/iss075e0000191orig.jpg",
-      "title_fr": "L'astronaute de la NASA Jessica Meir utilise des lunettes de VR",
-      "summary_fr": "L'astronaute de la NASA et le commandant de l'Expédition 75 Jessica Meir portent un ensemble de lunettes de réalité virtuelle, également appelé le Nevada Screening Vision System, pour un test qui mesure la fonction visuelle à l'aide d'une série d'applications de dépistage de vision testant l'acuité visuelle, la sensibilité au contraste, et plus encore."
     },
     {
       "title": "εpsilon",
