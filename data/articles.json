@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-04T00:36:45.230738+00:00",
+  "updated_at": "2026-11-04T12:06:58.438219+00:00",
   "articles": [
+    {
+      "title": "Time to wake up MetOp-SG-B1 weather satellite",
+      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
+      "source": "ESA",
+      "summary": "After more than 12 years of development, MetOp-SG-B1 departed Bordeaux, France, aboard the sail-assisted transport vessel Canopée on 6 October, arriving in Kourou on 16 October. The vessel’s innovative sail system helps reduce fuel consumption and associated carbon dioxide emissions during transport. Upon arrival at Europe’s Spaceport, MetOp-SG-B1 remained in its transport container and was placed in storage until it was time to start preparing it for liftoff on an Ariane 6 rocket. Its container maintained the perfect environment for a sleeping satellite – dry, plenty of nitrogen to keep all satellite’s components clean and a steady 22°C.",
+      "published": "2026-11-04T09:10:00+00:00",
+      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg",
+      "title_fr": "Il est temps de réveiller le satellite météo MetOp-SG-B1",
+      "summary_fr": "Après plus de 12 ans de développement, MetOp-SG-B1 quitte Bordeaux, France, à bord du bateau de transport à voile Canopée le 6 octobre, arrivant à Kourou le 16 octobre. Le système de voile innovant du navire contribue à réduire la consommation de carburant et les émissions de dioxyde de carbone associées au transport. À son arrivée au port spatial d'Europe, MetOp-SG-B1 est resté dans son conteneur de transport et a été stocké jusqu'à ce qu'il soit temps de commencer à le préparer au décollage sur une fusée Ariane 6. Son conteneur maintient l'environnement parfait pour un satellite endormi – sec, beaucoup d'azote pour garder tous les composants du satellite propre et un 22°C stable."
+    },
+    {
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: “I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way , through all its gas, dust and stars, to unveil this spiral galaxy . IC 342 (or Caldwell 5 ) is one of the brightest members of the IC 342/ Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our Milky Way. Inaccurate accounting of the crowded and dusty Milky Way foreground has led to misunderstandings in IC 342’s history, including the theory th",
+      "published": "2026-11-04T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/ic342.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "title_fr": "APOD: 2026 Le 4 novembre – La Galaxie pas si difficile, IC 342",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Je vois IC 342, la galaxie cachée ! Aujourd'hui, l'image se rapproche à travers le plan de la Voie Lactée, à travers tous ses gaz, poussières et étoiles, pour dévoiler cette galaxie spirale. IC 342 (ou Caldwell 5 ) est l'un des membres les plus brillants du groupe de galaxies IC 342/ Maffei. Situé à environ 10 millions d'années-lumière, ce groupe est assez proche du groupe local qui inclut notre Voie Lactée. Une comptabilisation inexacte de l'avant-plan de la Voie lactée bondée et poussiéreuse a conduit à des malentendus dans l'histoire du CI 342, y compris la théorie"
+    },
+    {
+      "title": "Before the Dawn in America’s Heartland",
+      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
+      "source": "NASA",
+      "summary": "The predawn hours brought clear skies over much of the eastern United States on October 18, 2026. An astronaut aboard the International Space Station seized the opportunity to capture this wide-angle photo at 4:54 a.m. Central Daylight Time (09:54 Universal Time), with illuminated cities large and small arrayed across the darkened landscape. The U.S. Midwest’s largest metropolitan areas , such as Chicago, Illinois, and Detroit, Michigan, stand out as some of the brightest features. Mid-sized cities—including Indianapolis, Indiana; Cincinnati, Ohio; and Louisville, Kentucky—and their interconnections along state and interstate highways also shine brightly.",
+      "published": "2026-11-04T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/before-the-dawn-in-america’s-heartland/ISS075-E-226709_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Avant l'aube en Amérique",
+      "summary_fr": "Le 18 octobre 2026, les heures d'avant l'aube apportèrent un ciel dégagé sur une grande partie de l'est des États-Unis. Un astronaute à bord de la Station Spatiale Internationale a saisi l'occasion de capturer cette photo grand-angle à 4 h 54, heure avancée du Centre (heure universelle 09 h 54), avec des villes éclairées, grandes et petites, réparties dans le paysage obscurci. Les plus grandes régions métropolitaines du Midwest américain, comme Chicago, l'Illinois et Detroit, le Michigan, se distinguent par leurs caractéristiques les plus brillantes. Les villes de taille moyenne, y compris Indianapolis, Indiana, Cincinnati, Ohio, et Louisville, Kentucky, et leurs interconnexions le long des autoroutes étatiques et interétatiques, brillent également avec éclat."
+    },
     {
       "title": "Astronaut and Earth",
       "url": "https://www.nasa.gov/image-detail/iss075e0253663/",
@@ -112,26 +142,6 @@
       "summary_fr": "L'équipage de quatre membres de l'équipe d'Exploration analogique de la santé et de la performance (CHAPEA) se pose à l'extérieur pour la première fois depuis plus d'un an après la fin de leur voyage simulé sur Mars le 31 octobre 2026. Les membres d'équipage Matthew Montgomery (à gauche), James Spicer (au milieu de la gauche), Ross Elder (au milieu de la droite) et Ellen Ellis (à droite) ont passé plus d'un an à tester les systèmes, à entretenir les cultures, à gérer les ressources limitées et les retards de communication, à mener des activités extravéhiculaires et à faire davantage pour aider la NASA à mieux comprendre comment les équipages s'adaptent aux séjours de longue durée. Leurs expériences aideront la NASA à concevoir sa future base lune et à planifier des missions sur Mars."
     },
     {
-      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
-      "source": "NASA",
-      "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]",
-      "published": "2026-11-02T18:19:58+00:00",
-      "image": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg",
-      "title_fr": "Quoi de neuf: Novembre 2026 Conseils d'observation de ciel de la NASA",
-      "summary_fr": "Météor Douches, un Spacecraft Milestone, et un Supermoon Catch Taurid et Leonid météores, repérer Mars près de Jupiter, célébrer le Voyager 1s phare du jour, et regarder Novembre Supermoon. Skywatching Highlights Transcription Un mois d'averses de météorites ... un jumelage étroit de Mars et Jupiter ... et une super lune! C'est ce qui se passe en novembre. Novembre offre un buffet [...]"
-    },
-    {
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
-      "source": "NASA",
-      "summary": "The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, or NASA’s Northrop Grumman CRS-25. Liftoff is targeted for no earlier than 10:49 a.m. EST, Sunday, Nov. 29, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. Following launch, astronauts aboard the space station will use the Canadarm2 robotic arm to capture Cygnus and install the spacecraft to the Unity module’s Earth-facing port for cargo unloading. The spacecraft will remain at the space station until May 2027. This is the company’s 25th spacecraft built to deliver supplies to the International Space Station under contract with NASA.",
-      "published": "2026-11-02T17:33:22+00:00",
-      "image": "https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg",
-      "title_fr": "La NASA invite les médias à Northrop Grumman CRS-25 Station de ravitaillement Lancement",
-      "summary_fr": "La mission est connue sous le nom de NASAS Northrop Grumman Commercial ReSupply Services 25, ou NASAS Northrop Grumman CRS-25. Le décollage n'a lieu qu'à 10 h 49 (HNE), dimanche 29 novembre, à partir du complexe de lancement de l'espace 40, à la station spatiale Cap Canaveral, en Floride. Après le lancement, les astronautes à bord de la station spatiale utiliseront le bras robotisé Canadarm2 pour capturer Cygnus et installer l'engin spatial dans le port de l'unité face à la Terre pour le déchargement des marchandises. Le vaisseau spatial restera à la station spatiale jusqu'en mai 2027. Il s'agit du 25e vaisseau spatial de l'entreprise construit pour livrer des fournitures à la Station spatiale internationale sous contrat avec la NASA."
-    },
-    {
       "title": "CubeSat achieves challenging laser link to ground",
       "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
       "source": "ESA",
@@ -175,11 +185,11 @@
       "title": "Earth from Space: Champi’s eerie eye",
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
       "source": "ESA",
-      "summary": "This week’s Earth from Space is an image of Super Typhoon Champi from Copernicus Sentinel-3 , captured on 21 October 2026, and taken off the coasts of Taiwan and the Philippines. This false-colour image paints a vivid portrait of the eye of this monster storm, which spans approximately 50 km across. The storm is shown in colours reminiscent of the ghouls, pumpkins and witches associated with Halloween.",
+      "summary": "Image: This image of Super Typhoon Champi from Copernicus Sentinel-3 was captured on 21 October 2026 off the coasts of Taiwan and the Philippines.",
       "published": "2026-10-30T09:00:00+00:00",
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
       "title_fr": "La Terre de l'espace : l'œil de Champi ,",
-      "summary_fr": "Cette semaine, la Terre de l'espace est une image du Super Typhoon Champi de Copernic Sentinel-3, capturé le 21 octobre 2026, et pris au large des côtes de Taiwan et des Philippines. Cette image de fausse couleur peint un portrait vivant de l'œil de cette tempête monstre, qui s'étend sur environ 50 km. La tempête est montrée dans des couleurs rappelant les goules, les citrouilles et les sorcières associées à Halloween."
+      "summary_fr": "Image: Cette image de Super Typhoon Champi de Copernic Sentinel-3 a été capturée le 21 octobre 2026 au large des côtes de Taiwan et des Philippines."
     },
     {
       "title": "NASA's Hubble Marks Way for Roman Space Telescope",
@@ -230,16 +240,6 @@
       "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_s_first_view_of_the_separate_didymos_and_dimorphos_asteroids/27592324-1-eng-GB/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_card_full.png",
       "title_fr": "Première lumière: Hera résout deux astéroïdes au lieu d'un",
       "summary_fr": "L'Agence Spatiale Européenne Hera pour la défense planétaire a résolu ses deux astéroïdes cibles séparément pour la toute première fois, révélant la nature binaire du système Didymos, actuellement à environ 197 millions de km de la Terre."
-    },
-    {
-      "title": "ESA procures four new Galileo Second Generation satellites",
-      "url": "https://www.esa.int/Applications/Satellite_navigation/Galileo/ESA_procures_four_new_Galileo_Second_Generation_satellites",
-      "source": "ESA",
-      "summary": "The European Space Agency (ESA) has extended ongoing contracts to build four additional Galileo Second Generation (G2) satellites, ensuring the long-term continuity of the constellation and supporting the rollout of new services. With this procurement, the Galileo Second Generation fleet grows to 16 satellites.",
-      "published": "2026-10-27T10:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galileo_satellite_navigation_constellation/27537524-1-eng-GB/Galileo_satellite_navigation_constellation_card_full.jpg",
-      "title_fr": "L'ESA achète quatre nouveaux satellites Galileo de deuxième génération",
-      "summary_fr": "L'Agence spatiale européenne (ESA) a prolongé les contrats en cours pour la construction de quatre nouveaux satellites Galileo de deuxième génération (G2), assurant la continuité à long terme de la constellation et soutenant le déploiement de nouveaux services. Avec cette acquisition, la flotte Galileo de deuxième génération atteint 16 satellites."
     },
     {
       "title": "NASA's X-59 Aircraft and Test Pilot",
