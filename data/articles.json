@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-04T19:44:28.201789+00:00",
+  "updated_at": "2026-11-05T00:53:05.414083+00:00",
   "articles": [
+    {
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "source": "NASA",
+      "summary": "Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon landing mission in 2028. Building on the priorities announced at Ignition earlier this year, NASA leadership shared the agency’s significant progress across its missions, working with industry partners to test critical capabilities, reduce risk, and build toward a sustained American presence on the Moon. “This is a very energized NASA, and these updates are only a small part of that story. We are bringing extreme focus to the mission to ensure delivery of world-changing outcomes as quickly, safely, afforda",
+      "published": "2026-11-04T21:04:10+00:00",
+      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
+      "title_fr": "La NASA partage des plans pour accélérer Artémis, Retour à la Lune",
+      "summary_fr": "La direction de l'Office a fourni des mises à jour sur les plans d'accélération annoncés antérieurement pour le programme Artemis, progressant vers le vol d'essai Artemis III en 2027 et la mission d'atterrissage Artemis IV Moon en 2028. S'appuyant sur les priorités annoncées au début de l'année, la direction de la NASA a partagé des progrès importants dans l'ensemble de ses missions, travaillant avec des partenaires de l'industrie pour tester les capacités critiques, réduire les risques et bâtir vers une présence américaine soutenue sur la Lune. C'est une NASA très excitée, et ces mises à jour ne sont qu'une petite partie de cette histoire. Nous mettons l'accent sur la mission afin d'assurer l'obtention de résultats qui changent le monde aussi rapidement et en toute sécurité que possible."
+    },
     {
       "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
       "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
@@ -50,16 +60,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
       "title_fr": "Hubble dévoile le mystère cosmique",
       "summary_fr": "Cette photo sortie le 2 novembre 2026, met en valeur le NGC 4449, un nain irrégulier. Des chercheurs utilisant le télescope spatial Hubble de la NASA ont étudié 37 galaxies naines voisines — petites galaxies contenant de quelques milliers à des centaines de millions d'étoiles — dont le NGC 4449 et ont constaté qu'une grande partie de l'oxygène qu'ils attendaient de voir manquait. Lire [...]"
-    },
-    {
-      "title": "Time to wake up MetOp-SG-B1 weather satellite",
-      "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/MetOp_Second_Generation/Time_to_wake_up_MetOp-SG-B1_weather_satellite",
-      "source": "ESA",
-      "summary": "After more than 12 years of development, MetOp-SG-B1 departed Bordeaux, France, aboard the sail-assisted transport vessel Canopée on 6 October, arriving in Kourou on 16 October. The vessel’s innovative sail system helps reduce fuel consumption and associated carbon dioxide emissions during transport. Upon arrival at Europe’s Spaceport, MetOp-SG-B1 remained in its transport container and was placed in storage until it was time to start preparing it for liftoff on an Ariane 6 rocket. Its container maintained the perfect environment for a sleeping satellite – dry, plenty of nitrogen to keep all satellite’s components clean and a steady 22°C.",
-      "published": "2026-11-04T09:10:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/removing_metop-sg-b1_from_its_transport_container/27598342-1-eng-GB/Removing_MetOp-SG-B1_from_its_transport_container_card_full.jpg",
-      "title_fr": "Il est temps de réveiller le satellite météo MetOp-SG-B1",
-      "summary_fr": "Après plus de 12 ans de développement, MetOp-SG-B1 quitte Bordeaux, France, à bord du bateau de transport à voile Canopée le 6 octobre, arrivant à Kourou le 16 octobre. Le système de voile innovant du navire contribue à réduire la consommation de carburant et les émissions de dioxyde de carbone associées au transport. À son arrivée au port spatial d'Europe, MetOp-SG-B1 est resté dans son conteneur de transport et a été stocké jusqu'à ce qu'il soit temps de commencer à le préparer au décollage sur une fusée Ariane 6. Son conteneur maintient l'environnement parfait pour un satellite endormi – sec, beaucoup d'azote pour garder tous les composants du satellite propre et un 22°C stable."
     },
     {
       "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
@@ -122,26 +122,6 @@
       "summary_fr": "Les étudiants de tout le pays auront l'occasion de se connecter directement à la Station spatiale internationale lors d'un appel en vol interactif en direct avec l'astronaute de la NASA, Anil Menon, et Mark Rober, créateur de contenu STEM et fondateur de la Fondation ClassCrunchLabs. L'événement, organisé par le Bureau de l'engagement STEM de la NASA, célèbre le STEM national Journée en apportant la science, l'ingénierie et l'exploration du monde réel dans les salles de classe du pays. L'appel Terre-espace débutera à 11 h HNE le mercredi 4 novembre et sera disponible pour regarder sur l'agence YouTube phare avec un engagement supplémentaire sur les canaux Learn With NASA."
     },
     {
-      "title": "10 asteroid mysteries that Hera will explore",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/10_asteroid_mysteries_that_Hera_will_explore",
-      "source": "ESA",
-      "summary": "Video: 00:07:25 Hera, the European Space Agency’s first mission for planetary defence, arrives at its target body during November, with the goal of gathering precious data on the kinetic impact method of asteroid deflection – while also solving various scientific enigmas. The small-car-sized spacecraft is headed to the 151-m-diameter Dimorphos asteroid, which orbits in turn around its 780-m Didymos parent. Dimorphos is already historic as the first object in the Solar System to have had its orbit changed by human action – when NASA’s DART spacecraft impacted it on 26 September 2022. DART’s impact caused a brightening visible from distant Earth telescopes, but nobody knows what it did to Dimorphos itself. Hera is going there to perform a close-up crash site survey, to help turn DART’s kinetic impact experiment into a well understood planetary defence deflection technique. Scientists are h",
-      "published": "2026-11-03T09:30:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/10_asteroid_mysteries_that_hera_will_explore/27597783-2-eng-GB/10_asteroid_mysteries_that_Hera_will_explore_card_full.png",
-      "title_fr": "10 mystères d'astéroïde que Hera explorera",
-      "summary_fr": "Vidéo: 00:07:25 Hera, la première mission de l'Agence Spatiale Européenne pour la Défense planétaire, arrive à son corps cible en Novembre, dans le but de recueillir des données précieuses sur la méthode d'impact cinétique de la déflexion des astéroïdes – tout en résolvant diverses énigmes scientifiques. L'engin spatial de petite taille se dirige vers l'astéroïde Dimorphos de 151 mètres de diamètre, qui tourne autour de son parent Didymos de 780 mètres. Le dimorphos est déjà le premier objet historique du système solaire à avoir changé son orbite par action humaine – lorsque le vaisseau spatial DART de la NASA l'a touché le 26 septembre 2022. L'impact du DART a provoqué un éclairement visible à partir de télescopes terrestres éloignés, mais personne ne sait ce qu'il a fait à Dimorphos lui-même. Hera s'y rend pour effectuer une enquête rapprochée sur le site d'écrasement, pour aider à transformer l'expérience d'impact cinétique de DART en une technique de déflexion de défense planétaire bien comprise. Les scientifiques sont h"
-    },
-    {
-      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-      "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor . Comet C/2025 R3 (PanSTARRS) was captured from Hautacam , France in April when the giant space iceberg sported impressive ion (blue) and dust tails . Sand-sized rocky debris that enters Earth’s atmosphere typically app",
-      "published": "2026-11-03T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 3 novembre – Comet PanSTARs et Rainbow Meteor",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Est-ce que ce météore vient de cette comète ? Probablement pas. Bien que beaucoup de météores proviennent de comètes, il y a des milliers de comètes qui ont visité le système solaire intérieur récemment, et les météores correspondants à eux peuvent être difficiles. Et pour être clair, la comète photographiée est loin derrière le météore. La comète C/2025 R3 (PanSTARRS) a été capturée à Hautacam, en France, en avril, lorsque l'iceberg spatial géant arborait des ions impressionnants (bleu) et des queues de poussière. Débris rocheux de taille sable qui pénètrent dans l'atmosphère de la Terre"
-    },
-    {
       "title": "NASA's CHAPEA Crew \"Returns\" to Earth",
       "url": "https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat/",
       "source": "NASA Images",
@@ -150,16 +130,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
       "title_fr": "L'équipage de CHAPEA de la NASA « retourne sur Terre »",
       "summary_fr": "L'équipage de quatre membres de l'équipe d'Exploration analogique de la santé et de la performance (CHAPEA) se pose à l'extérieur pour la première fois depuis plus d'un an après la fin de leur voyage simulé sur Mars le 31 octobre 2026."
-    },
-    {
-      "title": "CubeSat achieves challenging laser link to ground",
-      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
-      "source": "ESA",
-      "summary": "This milestone represents Greece's first optical link with a low Earth orbit (LEO) satellite. Unlike conventional radio-frequency communications, optical links use narrow laser beams to transmit data. This enables high data rates, but it also makes establishing and maintaining a connection technically demanding. The beam must be directed precisely towards a receiver while the satellite moves through orbit at several kilometres per second. Both terminals must acquire the signal and continuously track one another during a limited communication window. Not only that; atmospheric conditions add more complexity as clouds can block the link entirely and turbulence can degrade signal quality.",
-      "published": "2026-11-02T08:55:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/11/illustration_of_three_ermis_technology_demonstration_cubesats_in_orbit/27596682-1-eng-GB/Illustration_of_three_ERMIS_technology_demonstration_CubeSats_in_orbit_card_full.jpg",
-      "title_fr": "CubeSat réalise une liaison laser difficile au sol",
-      "summary_fr": "Cette étape représente le premier lien optique de la Grèce avec un satellite à orbite terrestre basse (LEO). Contrairement aux communications radiofréquences classiques, les liaisons optiques utilisent des faisceaux laser étroits pour transmettre des données. Cela permet des taux de données élevés, mais il rend aussi l'établissement et le maintien d'une connexion techniquement exigeante. Le faisceau doit être dirigé précisément vers un récepteur tandis que le satellite passe par orbite à plusieurs kilomètres par seconde. Les deux terminaux doivent acquérir le signal et se suivre en continu pendant une fenêtre de communication limitée. Non seulement cela; les conditions atmosphériques ajoutent plus de complexité que les nuages peuvent bloquer entièrement le lien et la turbulence peut dégrader la qualité du signal."
     },
     {
       "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
@@ -172,36 +142,6 @@
       "summary_fr": "Le télescope spatial James Webb de la NASA révèle des structures complexes à l'intérieur de la nébuleuse principale de Cat, tracées par l'émission de poussières chaudes et de molécules à base de carbone excitées par la lumière des étoiles."
     },
     {
-      "title": "What happened this month at the European Space Agency? (October 2026)",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/What_happened_this_month_at_the_European_Space_Agency_October_2026",
-      "source": "ESA",
-      "summary": "Video: 00:04:30 October was a month of discoveries and milestones. ESA’s Rosalind Franklin rover team trained in Spain’s desert, preparing for Mars. Our Smile mission captured the full ring of northern lights around Earth, while Mars Express uncovered new clues about a giant Martian cloud. ESA astronaut Sophie Adenot returned to Earth after 237 days in space, and Hera captured its first images of the asteroids it will study to help protect our planet. Meanwhile, ESA welcomed thousands of visitors for Open Days and teamed up with Pokémon to bring space science to new audiences. Here’s a look at what space had in store for Europe this October.",
-      "published": "2026-10-30T15:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/what_happened_this_month_at_the_european_space_agency_october_2026/27595875-1-eng-GB/What_happened_this_month_at_the_European_Space_Agency_October_2026_card_full.png",
-      "title_fr": "Que s'est-il passé ce mois-ci à l'Agence spatiale européenne? (octobre 2026)",
-      "summary_fr": "Vidéo: 00:04:30 Octobre a été un mois de découvertes et de jalons. L'équipe de rover de l'ESA Rosalind Franklin s'est entraînée en Espagne dans le désert, se préparant pour Mars. Notre mission de Smile a capturé l'anneau complet de lumières du nord autour de la Terre, tandis que Mars Express a découvert de nouveaux indices sur un nuage martien géant. L'astronaute de l'ESA Sophie Adenot est revenue sur Terre après 237 jours dans l'espace, et Hera a capturé ses premières images des astéroïdes qu'elle étudiera pour aider à protéger notre planète. Pendant ce temps, l'ESA a accueilli des milliers de visiteurs pour les journées portes ouvertes et s'est associée à Pokémon pour apporter les sciences spatiales à de nouveaux publics. Voici un aperçu de l'espace réservé à l'Europe en octobre prochain."
-    },
-    {
-      "title": "Week in images: 26-30 October 2026",
-      "url": "https://www.esa.int/About_Us/Week_in_images/Week_in_images_26-30_October_2026",
-      "source": "ESA",
-      "summary": "Week in images: 26-30 October 2026 Discover our week through the lens",
-      "published": "2026-10-30T14:15:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
-      "title_fr": "Semaine en images: 26-30 Octobre 2026",
-      "summary_fr": "Semaine en images: 26-30 Octobre 2026 Découvrez notre semaine à travers l'objectif"
-    },
-    {
-      "title": "Earth from Space: Champi’s eerie eye",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Earth_from_Space_Champi_s_eerie_eye",
-      "source": "ESA",
-      "summary": "Image: This image of Super Typhoon Champi from Copernicus Sentinel-3 was captured on 21 October 2026 off the coasts of Taiwan and the Philippines.",
-      "published": "2026-10-30T09:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/earth_from_space_champi_s_eerie_eye/27595801-1-eng-GB/Earth_from_Space_Champi_s_eerie_eye_card_full.jpg",
-      "title_fr": "La Terre de l'espace : l'œil de Champi ,",
-      "summary_fr": "Image: Cette image de Super Typhoon Champi de Copernic Sentinel-3 a été capturée le 21 octobre 2026 au large des côtes de Taiwan et des Philippines."
-    },
-    {
       "title": "NASA's Hubble Marks Way for Roman Space Telescope",
       "url": "https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/",
       "source": "NASA Images",
@@ -210,16 +150,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg",
       "title_fr": "Hubble Marks Way de la NASA pour le télescope spatial romain",
       "summary_fr": "Une galaxie spirale sinueuse (centre) apparaît dans le même champ de vision qu'une lentille gravitationnelle vive (angle droit) dans cette image Hubble."
-    },
-    {
-      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-      "source": "ESA",
-      "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknamed the Cat’s Head Nebula, which reflects the 'magical'' process of star formation. Hubble’s visible-light view shows the cat as a dark, elongated dust pillar and hints of young forming stars, while Webb’s infrared-light imagery unveils many stars and other hidden details.",
-      "published": "2026-10-29T14:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
-      "title_fr": "Cats fantômes Nebula tête rôde en vue de Hubble et Webb",
-      "summary_fr": "La NASA/ESA Hubble et les télescopes spatiaux James Webb de la NASA/ESA/CSA ont récemment regardé une scène de formation d'étoiles dans la nébuleuse Carina, un nuage de gaz et de poussière massif situé à environ 7500 années-lumière de la Terre. Les deux télescopes offrent des vues complémentaires de la forme ombreuse, surnommée la nébuleuse de tête de cats, qui reflète le processus « magique » de formation des étoiles. La vue de la lumière visible de Hubble montre le chat comme un pilier de poussière sombre et allongé et des indices de jeunes étoiles formant, tandis que l'imagerie de la lumière infrarouge de Webbe dévoile de nombreuses étoiles et d'autres détails cachés."
     },
     {
       "title": "Webb Sees Turbulent Star Nursery",
@@ -240,16 +170,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
       "title_fr": "Neo Surveyor Sunshade de la NASA",
       "summary_fr": "Le grand pare-soleil de la mission d'arpenteur d'objets géocroiseurs de la NASA est inspecté par un technicien de BAE Systems Space & Mission Systems à Boulder, Colorado, fin juillet."
-    },
-    {
-      "title": "First light: Hera resolves two asteroids instead of one",
-      "url": "https://www.esa.int/Space_Safety/Hera/First_light_Hera_resolves_two_asteroids_instead_of_one",
-      "source": "ESA",
-      "summary": "The European Space Agency’s Hera spacecraft for planetary defence has resolved its two target asteroids separately for the very first time, revealing the binary nature of the Didymos system, currently some 197 million km away from Earth.",
-      "published": "2026-10-27T14:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/hera_s_first_view_of_the_separate_didymos_and_dimorphos_asteroids/27592324-1-eng-GB/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_card_full.png",
-      "title_fr": "Première lumière: Hera résout deux astéroïdes au lieu d'un",
-      "summary_fr": "L'Agence Spatiale Européenne Hera pour la défense planétaire a résolu ses deux astéroïdes cibles séparément pour la toute première fois, révélant la nature binaire du système Didymos, actuellement à environ 197 millions de km de la Terre."
     },
     {
       "title": "NASA's X-59 Aircraft and Test Pilot",
@@ -282,16 +202,6 @@
       "summary_fr": "Cette image du télescope spatial Hubble de la NASA présente la galaxie en spirale intermédiaire NGC 1827, située à environ 37 millions d'années-lumière dans la constellation Columba, la colombe."
     },
     {
-      "title": "Stars brewing in a nebulous cauldron",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "source": "ESA Science",
-      "summary": "Image: Stars brewing in a nebulous cauldron",
-      "published": "2026-10-22T08:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-      "title_fr": "Des étoiles brassant dans un chaudron nébuleux",
-      "summary_fr": "Image: Les étoiles brassent dans un chaudron nébuleux"
-    },
-    {
       "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
       "url": "https://www.nasa.gov/image-detail/iss075e0190239/",
       "source": "NASA Images",
@@ -311,16 +221,6 @@
       "summary_fr": "Le télescope spatial James Webb de la NASA a révélé de nombreux protostars et étoiles dans les gaz lumineux du NGC 7129. Le gaz d'hydrogène atomique chaud est montré ici dans la région d'or, tandis que le gaz d'hydrogène moléculaire plus frais, choqué par des protostars embarqués, est représenté en rouge."
     },
     {
-      "title": "MMX lifts off to Mars’s moon Phobos",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-      "source": "ESA Science",
-      "summary": "Image: MMX lifts off to Mars’s moon Phobos",
-      "published": "2026-10-20T07:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
-      "title_fr": "MMX s'envole vers MarsS lune Phobos",
-      "summary_fr": "Image: MMX s'élève vers Marss lune Phobos"
-    },
-    {
       "title": "Martian Dawn",
       "url": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/",
       "source": "NASA Images",
@@ -329,26 +229,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp",
       "title_fr": "Aube martienne",
       "summary_fr": "Les formes captivantes des rochers sculptés par le vent appelés yardangs sont révélées dans cette récolte zoomée d'un panorama plus large capturé par le rover de Curiosité Mars de la NASA. Les scientifiques sont impatients d'en savoir plus sur la formation de la couche de yardang."
-    },
-    {
-      "title": "Celebrating BepiColombo, three words at a time",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-      "source": "ESA Science",
-      "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December, 2026. To celebrate, mission team members were asked to describe BepiColombo in just three words. Their answers capture the character of the mission and the people behind it. Complex, collaborative and transformative are among the words chosen, reflecting both the demanding journey to Mercury and the international teamwork that has made it possible. Together, their words offer a personal snapshot of BepiColombo as it approaches its long-awaited destination .",
-      "published": "2026-10-19T15:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
-      "title_fr": "Célébration de BepiColombo, trois mots à la fois",
-      "summary_fr": "Vidéo: 00:03:32 BepiColombo lancé le 20 Octobre 2018. Cette année, l'anniversaire est spécial. Après huit années de voyage dans le système solaire intérieur, la mission ESA/JAXA arrivera à Mercure le 9 décembre 2026. Pour célébrer, les membres de l'équipe de mission ont été invités à décrire BepiColombo en seulement trois mots. Leurs réponses capturent le caractère de la mission et les gens qui la soutiennent. Complexe, collaboratif et transformateur sont parmi les mots choisis, reflétant à la fois le voyage exigeant à Mercure et le travail d'équipe international qui a rendu possible. Ensemble, leurs mots offrent un instantané personnel de BepiColombo à l'approche de sa destination tant attendue."
-    },
-    {
-      "title": "Euclid discovers new comet",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-      "source": "ESA Science",
-      "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-      "published": "2026-10-19T12:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
-      "title_fr": "Euclid découvre une nouvelle comète",
-      "summary_fr": "Le télescope spatial Euclid de l'Agence spatiale européenne a découvert sa première comète précédemment inconnue, en images prises entre le 16 et le 24 septembre 2026."
     },
     {
       "title": "Artemis II Heat Shield After Splashdown",
@@ -381,16 +261,6 @@
       "summary_fr": "Les panaches d'échappement d'une fusée SpaceX Falcon 9 transportant l'entreprise sont vus illuminés par la lumière du soleil contre le ciel prédateur lors du lancement de la mission SpaceX CRS-35 de NASA, mardi 13 octobre 2026, comme vu de Cocoa Beach, Floride. La lumière fait que les panaches ressemblent à une méduse dans le ciel."
     },
     {
-      "title": "Where winds blow and lava flows",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Where_winds_blow_and_lava_flows",
-      "source": "ESA Science",
-      "summary": "Image: Where winds blow and lava flows",
-      "published": "2026-10-14T09:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/where_winds_blow_and_lava_flows/27545666-1-eng-GB/Where_winds_blow_and_lava_flows_card_full.jpg",
-      "title_fr": "Où les vents soufflent et la lave coule",
-      "summary_fr": "Image: Où les vents soufflent et la lave coule"
-    },
-    {
       "title": "Transporter-18 SmallSats Encapsulation",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
       "source": "NASA Images",
@@ -399,16 +269,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg",
       "title_fr": "Transporteur-18 SmallSats Encapsulation",
       "summary_fr": "Trois petits vaisseaux spatiaux soutenus par la NASA, montrés avec de nombreuses charges utiles commerciales, avant d'être encapsulés dans un Faucon SpaceX 9. La fusée a lancé les charges utiles sur orbite terrestre basse à 11 h 32 HAP jeudi 1er octobre 2026, dans le cadre de la mission Transporter-18 de la compagnie du complexe de lancement spatial 4 Est à la base de Vandenberg en Californie."
-    },
-    {
-      "title": "Mars moon lander set to launch on 19 October",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-      "source": "ESA Science",
-      "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026). MMX will be the first mission to collect a sample from Mars’s moon Phobos and bring it back to Earth. MMX is led by the Japan Aerospace Exploration Agency (JAXA), in collaboration with the National Aeronautics and Space Administration (NASA), the French space agency (CNES), the German Aerospace Center (DLR) and the European Space Agency (ESA).",
-      "published": "2026-10-13T12:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
-      "title_fr": "Mars Lune Lander sera lancé le 19 octobre",
-      "summary_fr": "La mission Martien Moons eXploration ( MMX ) sera lancée dans l'espace sur une fusée H3 du Centre spatial Tanegashima à 04h41 JST le 20 octobre 2026 (20h41 BST / 21h41 CEST le 19 octobre 2026). MMX sera la première mission pour recueillir un échantillon de Phobos de la lune de Mars et le ramener sur Terre. MMX est dirigé par l'Agence japonaise d'exploration aérospatiale (JAXA), en collaboration avec la National Aeronautics and Space Administration (NASA), l'Agence spatiale française (CNES), le Centre aérospatiale allemand (DLR) et l'Agence spatiale européenne (ESA)."
     },
     {
       "title": "Cosmic House of Mirrors",
@@ -431,16 +291,6 @@
       "summary_fr": "Le vaisseau spatial SpaceX Crew Dragon Freedom est vu comme il atterrit avec les astronautes de la NASA Jessica Meir et Jack Hathaway, l'astronaute de l'ESA (Agence spatiale européenne) Sophie Adenot, et le cosmonaute Roscosmos Andrey Fedyaev à bord dans l'océan Pacifique au large de Los Angeles, Californie, jeudi 8 octobre 2026."
     },
     {
-      "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
-      "source": "ESA Science",
-      "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
-      "published": "2026-10-08T09:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_card_full.png",
-      "title_fr": "Solar Orbiter trace l'origine de mystérieux switchbacks magnétiques",
-      "summary_fr": "Le vaisseau spatial Solar Orbiter dirigé par l'Agence spatiale européenne a traversé un virage en forme de S connu sous le nom de « switchback » dans le champ magnétique du vent solaire. En dactylographiant les particules insaisissables dans le switchback, Solar Orbiter a tracé son origine à la surface du Soleil et a révélé plus sur le magnétisme solaire – l'instigateur indiscipliné de tempêtes solaires dangereuses."
-    },
-    {
       "title": "Artemis II Crew Moon Photo Annotations",
       "url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
       "source": "NASA Images",
@@ -451,16 +301,6 @@
       "summary_fr": "Une visualisation d'une lune sombre éclipsant le Soleil est marquée de notes manuscrites dans ce 6 avril 2026, screenshot d'une tablette d'équipage Artemis II."
     },
     {
-      "title": "Mars’s oddest cloud may be even odder than we thought",
-      "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Mars_s_oddest_cloud_may_be_even_odder_than_we_thought",
-      "source": "ESA Science",
-      "summary": "Scientists using the European Space Agency's Mars Express , in combination with a state-of-the-art meteorological model of the Red Planet, have found that there may be some very exotic physics behind Mars’s most curious cloud.",
-      "published": "2026-10-07T15:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/the_arsia_mons_elongated_cloud_as_seen_by_mars_express/27546706-1-eng-GB/The_Arsia_Mons_Elongated_Cloud_as_seen_by_Mars_Express_card_full.png",
-      "title_fr": "Mars est peut-être encore plus étrange que nous pensions",
-      "summary_fr": "Les scientifiques qui utilisent Mars Express de l'Agence spatiale européenne, en combinaison avec un modèle météorologique de pointe de la planète rouge, ont découvert qu'il peut y avoir une physique très exotique derrière Mars nuage le plus curieux."
-    },
-    {
       "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
       "url": "https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/",
       "source": "NASA Images",
@@ -469,16 +309,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg",
       "title_fr": "Les astronomes résolvent le cas du froid cosmique avec les données Hubble de la NASA",
       "summary_fr": "Ce concept d'artiste décrit une explication possible de l'abondance chimique inhabituelle NASA.Le télescope spatial Hubble détecté dans le système HS 0209+0832 : une planète de deuxième génération autour de l'étoile naine blanche."
-    },
-    {
-      "title": "Webb captures commotion from nebula’s stellar jets",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Webb_captures_commotion_from_nebula_s_stellar_jets",
-      "source": "ESA Science",
-      "summary": "Image: Webb captures commotion from nebula’s stellar jets",
-      "published": "2026-10-06T13:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/webb_captures_commotion_from_nebula_s_stellar_jets/27545931-4-eng-GB/Webb_captures_commotion_from_nebula_s_stellar_jets_card_full.jpg",
-      "title_fr": "Webb capture la commotion des jets stellaires nébuleux",
-      "summary_fr": "Image: Webb capture la commotion des jets stellaires nébuleux"
     },
     {
       "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
@@ -529,16 +359,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg",
       "title_fr": "Crew-13 Rocket et Spacecraft au lanceur Pad",
       "summary_fr": "Avant le lancement de la mission SpaceX Crew-13 de la NASA, une fusée SpaceX Falcon 9, avec le vaisseau spatial Dragon au sommet, est verticale au point de lancement du complexe de lancement spatial 40 à Cap Canaveral, en Floride, le dimanche 27 septembre 2026."
-    },
-    {
-      "title": "Galaxies in a cosmic house of mirrors",
-      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/09/Galaxies_in_a_cosmic_house_of_mirrors",
-      "source": "ESA Science",
-      "summary": "Image: This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in great detail that have been warped and multiplied like they’ve stepped into a house of mirrors. The brilliant golden galaxies splashed across this image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated on one side of the cluster are not actually part of the cluster and are much farther away from us. MACS J0454.1-0300 is itself immensely distant: the light from these galaxies has been travelling to us for so long that we’re seeing the cluster as it was when the Universe was about 8 billion years old. While this galaxy cluster is a valuable scientific target in its own right, the real stars of this image are the galaxies that appear warped and stretched, like a painting that has been smeared by a giant hand. The way these galaxies look is the result of gravitat",
-      "published": "2026-09-29T08:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galaxies_in_a_cosmic_house_of_mirrors/27538440-1-eng-GB/Galaxies_in_a_cosmic_house_of_mirrors_card_full.jpg",
-      "title_fr": "Galaxies dans une maison cosmique de miroirs",
-      "summary_fr": "Image: Cette image du télescope spatial James Webb NASA/ESA/CSA du mois présente des galaxies en détail qui ont été déformées et multipliées comme elles ont pénétré dans une maison de miroirs. Les galaxies dorées brillantes éclaboussées à travers cette image appartiennent à un amas de galaxies appelé MACS J0454.1-0300. Les galaxies oranges concentrées d'un côté de l'amas ne font pas partie de l'amas et sont beaucoup plus éloignées de nous. MACS J0454.1-0300 est elle-même immensément distante : la lumière de ces galaxies voyage à nous depuis si longtemps que nous voyons le cluster comme c'était quand l'Univers avait environ 8 milliards d'années. Bien que ce groupe de galaxies soit une cible scientifique précieuse à part entière, les vraies étoiles de cette image sont les galaxies qui semblent déformées et tendues, comme une peinture qui a été bafouée par une main géante. Le regard de ces galaxies est le résultat de gravitat"
     },
     {
       "title": "Space Station View of Earth at Night",
@@ -701,16 +521,6 @@
       "summary_fr": "Le mercredi 17 juin, des skywatchers à travers les États-Unis – et certaines régions du Canada – se réjouissent d'un événement rare : une occultation lunaire de jour de Vénus. Une occultation lunaire se produit lorsque la Lune se déplace directement devant un autre objet céleste de notre point de vue sur la Terre, le cachant brièvement de la vue."
     },
     {
-      "title": "BepiColombo’s Mercury arrival begins - full replay",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/09/BepiColombo_s_Mercury_arrival_begins_-_full_replay",
-      "source": "ESA Science",
-      "summary": "Video: 02:31:10 Watch the replay of the livestream originally broadcast on 3 September as ESA/JAXA's BepiColombo mission took the first critical step towards arriving at Mercury. After travelling through the inner Solar System together for eight years, BepiColombo's Mercury Transfer Module (MTM) will separate from the rest of the stacked spacecraft on 3 September 2026. This marks the beginning of one of the most complex planetary arrival sequences ever attempted by ESA. Broadcast live from ESA's European Space Operations Centre (ESOC) in Darmstadt, Germany, the programme includes live views from the iconic Main Control Room, expert analysis, behind-the-scenes insights, and the first signal from the spacecraft following separation. Livestream schedule (CEST): 13:45 – Livestream begins 14:00 – MTM separation 14:30 – Livestream pause 15:30 – Livestream resumes 15:53 – Earliest possible acqu",
-      "published": "2026-09-03T15:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/09/bepicolombo_s_mercury_arrival_begins_-_full_replay/27450090-5-eng-GB/BepiColombo_s_Mercury_arrival_begins_-_full_replay_card_full.jpg",
-      "title_fr": "BepiColombos L'arrivée de mercure commence - replay complet",
-      "summary_fr": "Vidéo: 02:31:10 Regardez le replay du flux en direct initialement diffusé le 3 septembre alors que la mission BepiColombo de l'ESA/JAXA a franchi la première étape critique vers l'arrivée de Mercure. Après avoir traversé le système solaire intérieur ensemble pendant huit ans, le module de transfert de mercure (MTM) de BepiColombo se séparera du reste de l'engin spatial empilé le 3 septembre 2026. Cela marque le début d'une des séquences d'arrivée planétaires les plus complexes jamais tentées par l'ESA. Diffusion en direct du Centre européen d'opérations spatiales de l'ESA (ESOC) à Darmstadt, en Allemagne, le programme comprend des vues en direct de l'emblématique salle de contrôle principal, des analyses d'experts, des aperçus des coulisses et le premier signal de l'engin spatial après la séparation. Horaire en direct (CEST): 13:45 – Livestream commence 14:00 – MTM séparation 14:30 – Livestream pause 15:30 – Livestream reprend 15:53 – plus tôt possible acqu"
-    },
-    {
       "title": "Igniting Roman's Journey",
       "url": "https://www.nasa.gov/image-detail/amf-nhq202608300037/",
       "source": "NASA Images",
@@ -749,16 +559,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
       "title_fr": "Lancement du télescope spatial romain Nancy Grace de la NASA",
       "summary_fr": "Un Faucon SpaceX Une fusée lourde avec le télescope romain Nancy Grace à bord est vue transitant par le soleil lors du lancement du complexe de lancement 39A, dimanche 30 août 2026, au centre spatial Kennedy de la NASA en Floride."
-    },
-    {
-      "title": "Media briefing: BepiColombo's next milestone towards Mercury",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury",
-      "source": "ESA Science",
-      "summary": "Video: 01:09:40 Rewatch the European Space Agency's 31 August 2026 online press briefing on the latest developments of the ESA/JAXA BepiColombo mission, Europe's and Japan's first mission to Mercury. This briefing focused on the complexities of the separation of the Mercury Transfer Module ( MTM ), scheduled for 3 September 2026, a critical milestone marking the start of BepiColombo’s Mercury arrival phase. It also provided an overview of the operational challenges and milestones ahead, including Mercury orbit insertion in November 2026 and the separation of the two science orbiters (ESA's MPO and JAXA's Mio ) in December 2026. The briefing also provided an update on the mission’s status and explored the scientific opportunities that await as BepiColombo prepares to begin operations around Mercury. Journalists had the opportunity to ask questions following the presentations from three sp",
-      "published": "2026-08-31T14:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/media_briefing_bepicolombo_s_next_milestone_towards_mercury/27443108-5-eng-GB/Media_briefing_BepiColombo_s_next_milestone_towards_Mercury_card_full.jpg",
-      "title_fr": "Réunion d'information : la prochaine étape de BepiColombo vers Mercure",
-      "summary_fr": "Vidéo: 01:09:40 Revoir la conférence de presse en ligne de l'Agence spatiale européenne du 31 août 2026 sur les derniers développements de la mission ESA/JAXA BepiColombo, première mission européenne et japonaise à Mercure. Cette séance d'information s'est concentrée sur la complexité de la séparation du module de transfert du mercure (MTM), prévue pour le 3 septembre 2026, un jalon critique marquant le début de la phase d'arrivée de BepiColombos Mercury. Il a également donné un aperçu des défis opérationnels et des jalons à venir, y compris l'insertion de l'orbite de Mercure en novembre 2026 et la séparation des deux orbites scientifiques (MPO de l'ESA et Mio de JAXA ) en décembre 2026. La réunion d'information a également fait le point sur l'état d'avancement de la mission et a exploré les possibilités scientifiques qui s'offrent à BepiColombo pour commencer ses opérations autour de Mercure. Les journalistes ont eu l'occasion de poser des questions après les présentations de trois"
     },
     {
       "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
@@ -841,16 +641,6 @@
       "summary_fr": "Il y a environ 12 milliards d'années, une galaxie naine connue sous le nom de LKH s'est heurtée à une jeune Voie lactée et y a fusionné. Ce concept d'artiste dépeint cette collision. Le télescope spatial Hubble de la NASA a découvert des preuves définitives de cette collision en étudiant les amas d'étoiles globulaires."
     },
     {
-      "title": "Fly around Schiaparelli Crater with Mars Express",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
-      "source": "ESA Science",
-      "summary": "Video: 00:04:10 ESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been filled in over the last few billion years by sediment blown by the wind or deposited by water, by lava – or by a combination of all three. Schiaparelli Crater is named after Italian astronomer Giovanni Schiaparelli (1835–1910). Although he studied Mercury and Venus, he is best known for his observations of the Red Planet. During the ‘Great Opposition’ of 1877, when Mars passed close to Earth, Schiaparelli mapped the planet, perceiving several straight dark lines across the red surface. He assumed that these were natural water-filled channels and used the equivalent Italian word, ‘canali’. However, other astronomers thought he meant canals, meaning arti",
-      "published": "2026-08-19T09:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/fly_around_schiaparelli_crater_with_mars_express/27423004-1-eng-GB/Fly_around_Schiaparelli_Crater_with_Mars_Express_card_full.png",
-      "title_fr": "Voler autour de Schiaparelli Crater avec Mars Express",
-      "summary_fr": "Vidéo: 00:04:10 L'ESAS Mars Express nous emmène sur un autre vol envoûtant, cette fois autour d'un des plus grands cratères de Mars. Malgré ses 460 kilomètres de long, Schiaparelli Crater semble relativement peu profond. Elle a peut-être été remplie au cours des dernières milliards d'années par des sédiments soufflés par le vent ou déposés par l'eau, par la lave – ou par une combinaison des trois. Schiaparelli Crater est nommé d'après l'astronome italien Giovanni Schiaparelli (1835-1910). Bien qu'il ait étudié Mercure et Vénus, il est surtout connu pour ses observations de la planète rouge. Pendant la « Grande Opposition » de 1877, quand Mars passa près de la Terre, Schiaparelli cartographia la planète, perçant plusieurs lignes sombres droites à travers la surface rouge. Il a supposé qu'il s'agissait de canaux naturels remplis d'eau et a utilisé le mot italien équivalent, «canali». Cependant, d'autres astronomes pensaient qu'il voulait dire canaux, ce qui signifie arti"
-    },
-    {
       "title": "NASA's B777 Gets New Coat of Paint",
       "url": "https://www.nasa.gov/image-detail/jsc2026e407303/",
       "source": "NASA Images",
@@ -869,16 +659,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg",
       "title_fr": "Collage coloré de la nébuleuse de Tarantula",
       "summary_fr": "Comme un collage fait de feuilles en couches de cellophane coloré, une nouvelle image vibrante couche les observations d'une célèbre nébuleuse stellaire des télescopes spatiaux de la NASA. L'engin cosmique résultant révèle de nouveaux détails sur la région de formation des étoiles connue sous le nom de 30 Dorade, ou la nébuleuse de Tarantula."
-    },
-    {
-      "title": "Total solar eclipse 2026 (Official ESA broadcast)",
-      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
-      "source": "ESA Science",
-      "summary": "Video: 01:10:42 We broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeastern Portugal, while much of Europe experienced a partial eclipse. A total solar eclipse occurs when the Moon passes directly between Earth and the Sun, completely blocking the face of the Sun. The Observatorio Astrofísico de Javalambre is a world-class astronomical observatory located within the path of totality. During the broadcast, scientists, astronomers and special guests explored the science behind eclipses, the Sun and their wider relevance for space science and Earth. The broadcast was hosted by Dame Dr Maggie Aderin, award-winning space scientist and science communicator, and featured ESA's Director of Science Carole Mundell alongside other gue",
-      "published": "2026-08-17T14:00:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/08/total_solar_eclipse_2026_official_esa_broadcast/27417091-2-eng-GB/Total_solar_eclipse_2026_Official_ESA_broadcast_card_full.png",
-      "title_fr": "Éclipse solaire totale 2026 (diffusion officielle de l'ESA)",
-      "summary_fr": "Vidéo: 01:10:42 Nous avons diffusé en direct l'Observatorio Astrofísico de Javalambre en Espagne comme une éclipse solaire totale a traversé l'Europe le 12 août 2026. Le chemin de la totalité a traversé le Groenland, l'Islande, l'Espagne et une petite région du nord-est du Portugal, tandis qu'une grande partie de l'Europe a connu une éclipse partielle. Une éclipse solaire totale se produit lorsque la Lune passe directement entre la Terre et le Soleil, bloquant complètement la face du Soleil. L'Observatoire Astrofísico de Javalambre est un observatoire astronomique de classe mondiale situé dans le sentier de la totalité. Pendant la diffusion, des scientifiques, des astronomes et des invités spéciaux ont exploré la science derrière les éclipses, le Soleil et leur plus grande pertinence pour les sciences spatiales et la Terre. L'émission a été animée par Dame Dr Maggie Aderin, scientifique et communicatrice scientifique primée, et a présenté la directrice des sciences de l'ESA Carole Mundell aux côtés d'autres gue"
     },
     {
       "title": "Total Solar Eclipse in Sunflower Field",
@@ -919,14 +699,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/stsci-01kx6d0xbhsyp7q1em5qtc43rp.png",
       "title_fr": "Lion Nebula Roars dans les vues de Webb",
       "summary_fr": "Le télescope spatial James Webb de la NASA image la nébuleuse planétaire NGC 2392, la nébuleuse lion, en utilisant l'observatoire NIRCam et les instruments MIRI. Les restes de l'étoile centrale sont responsables de la structure de la nébuleuse, y compris une bulle en forme de face de lion de gaz ionisé et de poussières."
-    },
-    {
-      "title": "εpsilon",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon",
-      "source": "ESA",
-      "summary": "εpsilon",
-      "published": "2026-01-21T12:54:00+00:00",
-      "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/01/epsilon_website/27067642-5-eng-GB/Epsilon_website_card_full.jpg"
     }
   ],
   "sources": [
@@ -942,13 +714,13 @@
     },
     {
       "source": "ESA",
-      "status": "ok",
-      "count": 9
+      "status": "error",
+      "detail": "HTTP Error 404: Not Found"
     },
     {
       "source": "ESA Science",
-      "status": "ok",
-      "count": 15
+      "status": "error",
+      "detail": "HTTP Error 404: Not Found"
     }
   ],
   "translation": {
