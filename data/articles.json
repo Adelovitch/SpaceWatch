@@ -1,15 +1,44 @@
 {
-  "updated_at": "2026-11-06T15:55:09.042263+00:00",
+  "updated_at": "2026-11-06T21:29:15.288040+00:00",
   "articles": [
+    {
+      "title": "M30's Sparkling Stars",
+      "url": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
+      "source": "NASA Images",
+      "summary": "This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.",
+      "published": "2026-11-06T16:28:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+      "summary_fr": "Cette image du télescope spatial Hubble de la NASA/ESA présente l'amas globulaire appelé Messier 30 (M30), également appelé NGC 7099."
+    },
+    {
+      "title": "M30’s Sparkling Stars",
+      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "source": "NASA",
+      "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier , who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus. Read more about this group of stars and what scientists can learn from it.",
+      "published": "2026-11-06T16:23:41+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+      "title_fr": "Etoiles pétillantes du M30",
+      "summary_fr": "Cette image du télescope spatial Hubble de la NASA/ESA publiée le 5 novembre 2026 fournit une leçon d'histoire galactique. La collection pétillante d'étoiles s'appelle Messier 30 (M30) d'après l'astronome français Charles Messier, qui a catalogué M30 et d'autres objets diffus qui pourraient être confondus avec des comètes dans les premiers télescopes de l'époque de Messier. M30 se trouve à environ 27 500 années-lumière de la constellation Capricorne. En savoir plus sur ce groupe d'étoiles et ce que les scientifiques peuvent en apprendre."
+    },
+    {
+      "title": "Supercomputing Tech Demo Schedule",
+      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "source": "NASA",
+      "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple […]",
+      "published": "2026-11-06T16:03:52+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/misc/NASA-Meatball-Feature5.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "title_fr": "Programme de démonstration de technologie de supercomputing",
+      "summary_fr": "Supercomputing 2026 Rejoignez la NASA dans la salle d'exposition (Booth #4038) pour des présentations par des experts de la NASA. Full Tech Démo programme ci-dessous. MARDI, NOVEMBRE 17 10:00Modèles de sécurité de type à Fortran 2028Tom Clune10:30Modèles de sécurité de type à Fortran 2028Tom Clune11:00Modèles de sécurité de type à Fortran 2028Tom Clune1:00Modèles de mélange et d'appariement et versions multiples, Oh My!Brad Richardson1:30Modèles de compatibilité et d'appariement et multiples [...]"
+    },
     {
       "title": "APOD: 2026 November 6 – A Farewell to Swift",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
       "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: It is time to say goodbye to NASA 's Neil Gehrels Swift Observatory . After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia . The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope . Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope , that worked together to enable humanity to study, in unpr",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: It is time to say goodbye to NASA 's Neil Gehrels Swift Observatory . After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia . The featured image is a mosaic created in 2018 using some of the first million images captured by the satellite's Ultraviolet/Optical Telescope . Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope , that worked together to enable humanity to study, in ",
       "published": "2026-11-06T05:05:00+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "APOD: 2026 6 novembre – Adieu à Swift",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Il est temps de dire au revoir à l'Observatoire Swift Neil Gehrels de la NASA. Après presque 22 ans de service, le satellite a réintégré l'atmosphère terrestre le 4 novembre à 7h39 HNE au-dessus de la région de Sumatra Nord en Indonésie. L'image en vedette est une mosaïque créée en 2018 à l'aide du premier million d'images capturées par le télescope ultraviolet/optique du satellite. Swift avait une combinaison d'instruments, y compris un télescope à rayons X et un télescope à rayons gamma, qui ont travaillé ensemble pour permettre à l'humanité d'étudier, en"
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Il est temps de dire au revoir à l'Observatoire Swift Neil Gehrels de la NASA. Après presque 22 ans de service, le satellite a réintégré l'atmosphère terrestre le 4 novembre à 7h39 HNE au-dessus de la région de Sumatra Nord en Indonésie. L'image en vedette est une mosaïque créée en 2018 en utilisant certaines des premières millions d'images capturées par le télescope ultraviolet/optique du satellite. Swift avait une combinaison d'instruments, y compris un télescope à rayons X et un télescope à rayons gamma, qui ont travaillé ensemble pour permettre à l'humanité d'étudier, en"
     },
     {
       "title": "Taking a Gander at Utah’s Goosenecks",
@@ -90,26 +119,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png",
       "title_fr": "La NASA annonce que les aéronefs expérimentaux X-70 feront progresser la recherche en vol",
       "summary_fr": "Le X-70 en équipage est doté d'une technologie de contrôle de vol rapidement reconfigurable qui permettra à la NASA d'explorer la maniabilité des aéronefs de façon jamais démontrée en vol en équipage. L'aéronef peut également accueillir jusqu'à 2 000 livres de charges utiles expérimentales dans des endroits internes et externes, ce qui permet une vaste gamme de possibilités de recherche et d'essais en vol. Le X-70 Fractal donne à la NASA une plate-forme de haute performance pour tester le contrôle de vol avancé, la maniabilité et d'autres technologies de pointe en vol réel, a déclaré l'administrateur de la NASA Jared Isaacman. Sa conception modulaire et sa capacité à échanger rapidement des charges utiles internes et externes permettront à nos équipes de voler, d'apprendre,"
-    },
-    {
-      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-      "source": "NASA",
-      "summary": "Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon landing mission in 2028. Building on the priorities announced at Ignition earlier this year, NASA leadership shared the agency’s significant progress across its missions, working with industry partners to test critical capabilities, reduce risk, and build toward a sustained American presence on the Moon. “This is a very energized NASA, and these updates are only a small part of that story. We are bringing extreme focus to the mission to ensure delivery of world-changing outcomes as quickly, safely, afforda",
-      "published": "2026-11-04T21:04:10+00:00",
-      "image": "https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg",
-      "title_fr": "La NASA partage des plans pour accélérer Artémis, Retour à la Lune",
-      "summary_fr": "La direction de l'Office a fourni des mises à jour sur les plans d'accélération annoncés antérieurement pour le programme Artemis, progressant vers le vol d'essai Artemis III en 2027 et la mission d'atterrissage Artemis IV Moon en 2028. S'appuyant sur les priorités annoncées au début de l'année, la direction de la NASA a partagé des progrès importants dans l'ensemble de ses missions, travaillant avec des partenaires de l'industrie pour tester les capacités critiques, réduire les risques et bâtir vers une présence américaine soutenue sur la Lune. C'est une NASA très excitée, et ces mises à jour ne sont qu'une petite partie de cette histoire. Nous mettons l'accent sur la mission afin d'assurer l'obtention de résultats qui changent le monde aussi rapidement et en toute sécurité que possible."
-    },
-    {
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "source": "NASA",
-      "summary": "Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration elements, as one of many customers in the commercial marketplace. The awards, under the Next Space Technologies for Exploration Partnerships-3 Broad Agency Announcement Appendix E, are firm-fixed-price contracts that give NASA the option to provide additional funding up to the award limit to advance from initial concept development and risk reduction to an in-orbit flight demonstration. The initial period of performance runs from Nov. 4 through May 3, 2027, with additional priced options to continue work through 2029.",
-      "published": "2026-11-04T18:00:02+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-      "title_fr": "La NASA annonce les prix Ka-Band pour le relais satellite pour les communications spatiales",
-      "summary_fr": "Grâce à ces travaux, la NASA s'efforcera d'acquérir des solutions de bout en bout qui incluent l'espace, le sol, le lancement, les opérations et les éléments d'intégration, comme l'un des nombreux clients sur le marché commercial. Les prix, dans le cadre de l'annonce de l'Agence générale Next Space Technologies for Exploration Partnerships-3, Annexe E, sont des contrats à prix fixe qui donnent à la NASA la possibilité de fournir des fonds supplémentaires jusqu'à concurrence de la limite d'attribution pour passer de l'élaboration initiale du concept et de la réduction des risques à une démonstration en orbite. La période initiale d'exécution s'étend du 4 novembre au 3 mai 2027, avec des options de prix supplémentaires pour poursuivre les travaux jusqu'en 2029."
     },
     {
       "title": "Hubble Reveals Cosmic Mystery",
@@ -689,16 +698,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/perseidsorion.webp",
       "title_fr": "Perséids Météor Douche",
       "summary_fr": "La constellation Orion est encadrée par deux météores Perséid le 12 août 2018, dans le monument national Cedar Breaks, Utah."
-    },
-    {
-      "title": "2026 Total Solar Eclipse in Spain",
-      "url": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/",
-      "source": "NASA Images",
-      "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026.",
-      "published": "2026-08-12T20:17:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55459753868-458217b2c9-o.jpg",
-      "title_fr": "2026 Eclipse solaire totale en Espagne",
-      "summary_fr": "Une éclipse solaire totale est vue de San Millán de los Caballeros, Espagne, mercredi 12 août 2026."
     }
   ],
   "sources": [
