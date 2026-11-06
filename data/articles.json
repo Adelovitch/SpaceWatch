@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-05T21:58:58.435505+00:00",
+  "updated_at": "2026-11-06T06:42:37.975421+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 6 – A Farewell to Swift",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: It is time to say goodbye to NASA 's Neil Gehrels Swift Observatory . After nearly 22 years of service, the satellite re-entered Earth's atmosphere on November 4 at 7:39 EST over the North Sumatra region of Indonesia . The featured image is a mosaic created in 2018 using the first one million images captured by the satellite's Ultraviolet/Optical Telescope . Swift had a combination of instruments, including an X-ray telescope and a gamma-ray telescope , that worked together to enable humanity to study, in unpr",
+      "published": "2026-11-06T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 6 novembre – Adieu à Swift",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Il est temps de dire au revoir à l'Observatoire Swift Neil Gehrels de la NASA. Après presque 22 ans de service, le satellite a réintégré l'atmosphère terrestre le 4 novembre à 7h39 HNE au-dessus de la région de Sumatra Nord en Indonésie. L'image en vedette est une mosaïque créée en 2018 à l'aide du premier million d'images capturées par le télescope ultraviolet/optique du satellite. Swift avait une combinaison d'instruments, y compris un télescope à rayons X et un télescope à rayons gamma, qui ont travaillé ensemble pour permettre à l'humanité d'étudier, en"
+    },
+    {
+      "title": "Taking a Gander at Utah’s Goosenecks",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "source": "NASA",
+      "summary": "Tens of millions of years ago, the San Juan River in what is now southern Utah shared some characteristics with today's Mississippi River. In a bygone geologic era, the San Juan flowed across a relatively flat plain that formed in an ancient marine environment. Unencumbered by rugged terrain, the river was free to take a long, meandering path on its gradual journey downslope. But this part of the San Juan changed when geologic forces pushed the Colorado Plateau upward. Some experts think that within the later stages of this “ still-enigmatic ” history, starting around 20 million years ago, the plateau’s rise elevated the San Juan’s headwaters , which increased the river’s gradient and sped i",
+      "published": "2026-11-06T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Prendre une Gander à l'Utah",
+      "summary_fr": "Il y a des dizaines de millions d'années, la rivière San Juan, dans le sud de l'Utah, partageait certaines caractéristiques avec le Mississippi d'aujourd'hui. À une époque géologique révolue, le San Juan traversa une plaine relativement plate qui se forma dans un environnement marin ancien. Sans être encombrée de terrains accidentés, la rivière était libre de prendre un long chemin, long et long, sur son parcours progressif en pente. Mais cette partie du San Juan a changé quand les forces géologiques ont poussé le plateau du Colorado vers le haut. Certains experts pensent que dans les derniers stades de cette histoire encore énigmatique, à partir d'il y a environ 20 millions d'années, le plateau s'élève a élevé les eaux de San Juan, qui a augmenté le gradient de la rivière et a accéléré i"
+    },
     {
       "title": "Midwestern City Lights",
       "url": "https://www.nasa.gov/image-detail/iss075e0227352/",
@@ -90,26 +110,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
       "title_fr": "La NASA annonce les prix Ka-Band pour le relais satellite pour les communications spatiales",
       "summary_fr": "Grâce à ces travaux, la NASA s'efforcera d'acquérir des solutions de bout en bout qui incluent l'espace, le sol, le lancement, les opérations et les éléments d'intégration, comme l'un des nombreux clients sur le marché commercial. Les prix, dans le cadre de l'annonce de l'Agence générale Next Space Technologies for Exploration Partnerships-3, Annexe E, sont des contrats à prix fixe qui donnent à la NASA la possibilité de fournir des fonds supplémentaires jusqu'à concurrence de la limite d'attribution pour passer de l'élaboration initiale du concept et de la réduction des risques à une démonstration en orbite. La période initiale d'exécution s'étend du 4 novembre au 3 mai 2027, avec des options de prix supplémentaires pour poursuivre les travaux jusqu'en 2029."
-    },
-    {
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "source": "NASA",
-      "summary": "An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution ( SPLICE ) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place at Rogers Dry Lake near NASA’s Armstrong Flight Research Center in Edwards, California. During the tests, the SPLICE payload used an advanced guidance system to map the terrain and assess potential landing areas. If the system determines the targeted landing area is unsafe, the system diverts the drone to a safer location. The system generates high-resolution digital elevation maps from light-detection and sensor data.",
-      "published": "2026-11-04T16:52:43+00:00",
-      "image": "https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg",
-      "title_fr": "L'expérience de navigation de la NASA montre la promesse d'atterrissages planétaires",
-      "summary_fr": "Un drone Alta-X équipé de l'agence de guidage, de navigation et de commande Safe and Precise Landing – Integrated Capabilities Evolution ( SPLICE ) a effectué des manœuvres de descente et d'atterrissage lunaires simulées le 27 août. Le vol a eu lieu à Rogers Dry Lake près du Centre de recherche sur les vols d'Armstrong de la NASA à Edwards, en Californie. Au cours des essais, la charge utile de SPLICE a utilisé un système de guidage avancé pour cartographier le terrain et évaluer les zones d'atterrissage possibles. Si le système détermine que la zone d'atterrissage visée est dangereuse, il détourne le drone vers un endroit plus sûr. Le système génère des cartes numériques d'élévation à haute résolution à partir de données de détection de lumière et de capteur."
-    },
-    {
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "source": "NASA",
-      "summary": "In Iowa, NASA Administrator Jared Isaacman toured the Make to Innovate program lab at Iowa State University. Students from the Iowa Space Grant Consortium’s Mission Moon program, along with consortium-funded student organizations including Cardinal Space Mining, CySat, and CyLaunch, shared research findings and demonstrated the institution’s strong connection to NASA via agency-funded projects. During a well-attended town hall event NASA experts briefed students on the agency’s Moon Base efforts and how their work can contribute to future exploration.",
-      "published": "2026-11-04T16:16:41+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55572302164-8599ccaff1-k.jpg",
-      "title_fr": "Les étudiants de la NASA Space Grant Carburant Agency",
-      "summary_fr": "En Iowa, l'administrateur de la NASA, Jared Isaacman, a visité le laboratoire du programme Make to Innovate à l'Université d'État de l'Iowa. Des étudiants du programme Mission Moon de l'Iowa Space Grant Consortium, ainsi que des organisations étudiantes financées par le consortium, dont Cardinal Space Mining, CySat et CyLaunch, ont partagé des résultats de recherche et démontré la forte connexion de l'institution avec la NASA par le biais de projets financés par l'agence. Au cours d'un événement de mairie très fréquenté, les experts de la NASA ont informé les étudiants des efforts de l'agence Moon Base et de la façon dont leur travail peut contribuer à l'exploration future."
     },
     {
       "title": "Hubble Reveals Cosmic Mystery",
