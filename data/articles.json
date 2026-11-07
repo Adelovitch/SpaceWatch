@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-07T20:13:54.256954+00:00",
+  "updated_at": "2026-11-07T23:38:33.787084+00:00",
   "articles": [
+    {
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "source": "NASA",
+      "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as the agency works with American industry to establish a sustained presence on the Moon’s South Pole. The agency shared the news at the MAX POWER aerospace expo and air show at NASA’s Kennedy Space Center in Florida.",
+      "published": "2026-11-07T22:47:03+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+      "title_fr": "Prix NASA Moon Base Transport, Technologie, Projets scientifiques",
+      "summary_fr": "La NASA a annoncé samedi une série de prix et de mises à jour de mission pour élargir les capacités d'exploration, de science et d'infrastructure de l'agence Moon Base. Les investissements permettront d'avancer les livraisons robotiques commerciales, un rover nucléaire nommé PROMISE, des services de lancement et de transfert orbital, et des infrastructures de surface alors que l'agence travaille avec l'industrie américaine pour établir une présence soutenue sur le pôle Sud de Moon. L'agence a partagé les nouvelles à l'exposition MAX POWER aérospatiale et spectacle aérien au Centre spatial Kennedy de la NASA en Floride."
+    },
     {
       "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
       "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
@@ -109,16 +119,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "Hubble apprend l'histoire galactique des étoiles",
       "summary_fr": "Cette image du télescope spatial Hubble NASA/ESA fournit une leçon d'histoire galactique. La collection pétillante d'étoiles s'appelle Messier 30 (M30) d'après l'astronome français Charles Messier, qui a catalogué M30 et d'autres objets diffus qui pourraient être confondus avec des comètes dans les premiers télescopes de l'époque de Messier. M30 se trouve à environ 27 500 années-lumière de la constellation Capricorne. Le M30 est un amas globulaire : un groupement à peu près sphérique d'étoiles contenant des dizaines de milliers à des millions d'étoiles. Ces amas résident généralement à la périphérie des galaxies, en orbite dans une vaste région diffuse appelée halo comme un essaim de papillons autour d'une ampoule. Notre galaxie de la Voie lactée"
-    },
-    {
-      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon . Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean beneath the ice shell of Enceladus. They supply material directly to Saturn's outer, tenuous E ring and make the surface of Enceladus as reflective as snow.",
-      "published": "2026-11-05T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-      "title_fr": "APOD: 2026 5 novembre – Encelade à Silhouette",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : L'un des mondes les plus séduisants de notre système solaire, Encelade est rétroéclairé par le Soleil dans cette image spatiale Cassini du 1er novembre 2009. L'illumination spectaculaire révèle les panaches qui se jettent continuellement dans l'espace depuis le pôle sud de la lune de 500 kilomètres de diamètre de Saturne. Découverts par Cassini en 2005, les panaches glacés sont probablement reliés à un océan sous la banquise d'Encelade. Ils fournissent du matériel directement à l'anneau E extérieur et ténu de Saturne et rendent la surface d'Encelade aussi réfléchissante que la neige."
     },
     {
       "title": "Hubble Reveals Cosmic Mystery",
