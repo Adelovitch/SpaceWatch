@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-07T14:53:47.717044+00:00",
+  "updated_at": "2026-11-07T20:13:54.256954+00:00",
   "articles": [
+    {
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "source": "NASA",
+      "summary": "The next generation of astronauts will train to operate on the lunar surface, live and work beyond Earth, and take on missions that will push the boundaries of human exploration farther than ever before. U.S. citizens interested in joining the astronaut corps have until 11:59 p.m. EST Thursday, Dec. 3, to submit their completed application materials at:",
+      "published": "2026-11-07T18:11:57+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+      "title_fr": "La NASA cherche la prochaine génération d'explorateurs pour rejoindre le Corps des astronautes",
+      "summary_fr": "La prochaine génération d'astronautes s'entraînera à opérer sur la surface lunaire, à vivre et à travailler au-delà de la Terre, et à entreprendre des missions qui repousseront les frontières de l'exploration humaine plus que jamais. Les citoyens américains désireux de rejoindre le corps des astronautes ont jusqu'à 23 h 59 HNE le jeudi 3 décembre pour soumettre leur dossier de candidature rempli à l'adresse suivante :"
+    },
     {
       "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
@@ -109,16 +119,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/PIA17144EnceladusPandora.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
       "title_fr": "APOD: 2026 5 novembre – Encelade à Silhouette",
       "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : L'un des mondes les plus séduisants de notre système solaire, Encelade est rétroéclairé par le Soleil dans cette image spatiale Cassini du 1er novembre 2009. L'illumination spectaculaire révèle les panaches qui se jettent continuellement dans l'espace depuis le pôle sud de la lune de 500 kilomètres de diamètre de Saturne. Découverts par Cassini en 2005, les panaches glacés sont probablement reliés à un océan sous la banquise d'Encelade. Ils fournissent du matériel directement à l'anneau E extérieur et ténu de Saturne et rendent la surface d'Encelade aussi réfléchissante que la neige."
-    },
-    {
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "source": "NASA",
-      "summary": "The island of Cyprus began to form some 90 million years ago during the Late Cretaceous , with molten rock pouring from the seafloor, solidifying, and building new oceanic crust . Over time, portions of this oceanic rock were wrenched upward by tectonic forces , eventually emerging as a rugged island made of ophiolite , a type of rock with a mottled green appearance said to look like the skin of a snake. Remnants of that ancient island are still visible in the dark rocks of the Troodos Mountains . During the Miocene , considerably younger layers of chalk, limestone, marl, and other marine sedimentary rocks accumulated around the island, providing material that developed into a second, smalle",
-      "published": "2026-11-05T05:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Chypre: île des serpents, des chats et des ophiolites",
-      "summary_fr": "L'île de Chypre a commencé à former il ya environ 90 millions d'années pendant le Crétacé tardif, avec des roches fondues déversant du fond de la mer, solidifiant, et la construction de nouvelles croûtes océaniques. Au fil du temps, des portions de cette roche océanique ont été arrachées vers le haut par des forces tectoniques, éventuellement émergeant comme une île accidentée en ophiolite, un type de roche avec une apparence verte tachetée dit ressembler à la peau d'un serpent. Les restes de cette île antique sont encore visibles dans les rochers sombres des montagnes de Troodos. Pendant le Miocène, des couches beaucoup plus jeunes de craie, de calcaire, de marne et d'autres roches sédimentaires marines se sont accumulées autour de l'île, fournissant des matériaux qui se sont développés en une seconde, petite"
     },
     {
       "title": "Hubble Reveals Cosmic Mystery",
