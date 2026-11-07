@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-06T21:29:15.288040+00:00",
+  "updated_at": "2026-11-07T05:56:48.200614+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely contain deposits of water ice and peaks that receive almost continuous sunlight for solar power generation, the south polar region is consider a prime location for the first human settlement on the Moon. In fact , De Gerlache-Kocher mass",
+      "published": "2026-11-07T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 7 novembre – Massif de Gerlache-Kocher",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication: Le massif de Gerlache-Kocher se profile à l'horizon visible dans ce gros plan du bord de la Lune. La formation montagneuse s'élève à environ 4 kilomètres au-dessus de ses environs et est située très près du pôle sud lunaire. Bénéficiant de planchers de cratères à ombre permanente qui contiennent probablement des dépôts de glace d'eau et des pics qui reçoivent un soleil presque continu pour la production d'énergie solaire, la région polaire sud est considérée comme un emplacement privilégié pour le premier établissement humain sur la Lune. En fait, De Gerlache-Kocher masse"
+    },
     {
       "title": "M30's Sparkling Stars",
       "url": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
@@ -109,16 +119,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "Chypre: île des serpents, des chats et des ophiolites",
       "summary_fr": "L'île de Chypre a commencé à former il ya environ 90 millions d'années pendant le Crétacé tardif, avec des roches fondues déversant du fond de la mer, solidifiant, et la construction de nouvelles croûtes océaniques. Au fil du temps, des portions de cette roche océanique ont été arrachées vers le haut par des forces tectoniques, éventuellement émergeant comme une île accidentée en ophiolite, un type de roche avec une apparence verte tachetée dit ressembler à la peau d'un serpent. Les restes de cette île antique sont encore visibles dans les rochers sombres des montagnes de Troodos. Pendant le Miocène, des couches beaucoup plus jeunes de craie, de calcaire, de marne et d'autres roches sédimentaires marines se sont accumulées autour de l'île, fournissant des matériaux qui se sont développés en une seconde, petite"
-    },
-    {
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "source": "NASA",
-      "summary": "The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities. “The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, ",
-      "published": "2026-11-05T01:43:21+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png",
-      "title_fr": "La NASA annonce que les aéronefs expérimentaux X-70 feront progresser la recherche en vol",
-      "summary_fr": "Le X-70 en équipage est doté d'une technologie de contrôle de vol rapidement reconfigurable qui permettra à la NASA d'explorer la maniabilité des aéronefs de façon jamais démontrée en vol en équipage. L'aéronef peut également accueillir jusqu'à 2 000 livres de charges utiles expérimentales dans des endroits internes et externes, ce qui permet une vaste gamme de possibilités de recherche et d'essais en vol. Le X-70 Fractal donne à la NASA une plate-forme de haute performance pour tester le contrôle de vol avancé, la maniabilité et d'autres technologies de pointe en vol réel, a déclaré l'administrateur de la NASA Jared Isaacman. Sa conception modulaire et sa capacité à échanger rapidement des charges utiles internes et externes permettront à nos équipes de voler, d'apprendre,"
     },
     {
       "title": "Hubble Reveals Cosmic Mystery",
