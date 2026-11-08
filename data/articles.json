@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-07T23:38:33.787084+00:00",
+  "updated_at": "2026-11-08T05:59:22.411229+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy 's Dolomite Alps . Above the nestled village lights, the constellation Ursa Major hangs over the northern horizon. But most stunning is the intense fireball meteor. It was captured during the camera's exposure by chance ",
+      "published": "2026-11-08T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 le 8 novembre – Météor de tir majeur",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Le ciel brille avec des couleurs rosées douces de crépuscule décolorant dans cette vue soyeuse du sommet de la montagne. Prise dans des températures subgelantes, la photo soigneusement composée montre des sommets enneigés et accidentés vus d'un col de montagne le 14 novembre 2017. Ci-dessous se trouve le village de La Villa, Alta Badia dans les Alpes de Dolomite en Italie. Au-dessus des feux de village nichés, la constellation Ursa Major s'accroche à l'horizon nord. Mais le plus étonnant est l'intense météorite boule de feu. Il a été capturé lors de l'exposition de la caméra par hasard"
+    },
     {
       "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
       "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
@@ -109,16 +119,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg",
       "title_fr": "Les astronautes de la NASA pour répondre aux questions des étudiants de Floride",
       "summary_fr": "Les étudiants en Floride entendront parler des astronautes de la NASA Jessica Watkins et Luke Delaney car ils répondent aux questions STEM préenregistrées à bord de la Station Spatiale Internationale. Cet événement est organisé par la Freedom Crossing Academy à St. Johns, en Floride, pour les étudiants des classes K-12, et la communauté. Cette occasion unique vise à approfondir la compréhension de l'exploration spatiale et à mieux faire connaître les carrières des STEM."
-    },
-    {
-      "title": "Hubble Learns Galactic History From Stars",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-      "source": "NASA",
-      "summary": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier , who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus. M30 is a globular cluster : a roughly spherical grouping of stars containing anywhere from tens of thousands to millions of stars. These clusters generally reside on the outskirts of galaxies, orbiting within a vast, diffuse region called the halo like a swarm of moths around a lightbulb. Our Milky Way galaxy has at",
-      "published": "2026-11-05T12:56:21+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Hubble apprend l'histoire galactique des étoiles",
-      "summary_fr": "Cette image du télescope spatial Hubble NASA/ESA fournit une leçon d'histoire galactique. La collection pétillante d'étoiles s'appelle Messier 30 (M30) d'après l'astronome français Charles Messier, qui a catalogué M30 et d'autres objets diffus qui pourraient être confondus avec des comètes dans les premiers télescopes de l'époque de Messier. M30 se trouve à environ 27 500 années-lumière de la constellation Capricorne. Le M30 est un amas globulaire : un groupement à peu près sphérique d'étoiles contenant des dizaines de milliers à des millions d'étoiles. Ces amas résident généralement à la périphérie des galaxies, en orbite dans une vaste région diffuse appelée halo comme un essaim de papillons autour d'une ampoule. Notre galaxie de la Voie lactée"
     },
     {
       "title": "Hubble Reveals Cosmic Mystery",
