@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-09T18:47:23.956097+00:00",
+  "updated_at": "2026-11-10T02:44:14.939845+00:00",
   "articles": [
+    {
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "source": "NASA",
+      "summary": "Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle of a drilling campaign on our target called “Nazca.” We’ve already drilled the hole, characterized the tailings from the drill hole with ChemCam, and have now done several sample dropoffs, both to our SAM and CheMin instruments within the belly of the rover. We still have a number of activities left to do as part of the campaign, including another dropoff to SAM for a different kind of analysis, and drilling cleanup activities. One of those activities is called “RAGE” (Rotat",
+      "published": "2026-11-10T01:07:45+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Curiosity Blog, Sols 5056-5062: Recharger!",
+      "summary_fr": "Aujourd'hui, le plan couvre 3 sols, 5060, 5061 et 5062, alors que nous prenons quelques sols de recharge avant de revenir à nos activités normales de forage. Comme vous le savez peut-être si vous avez suivi le blog de près, nous sommes en plein milieu d'une campagne de forage sur notre cible appelée \"Nazca\". Nous avons déjà foré le trou, caractérisé les résidus du trou de forage avec ChemCam, et avons maintenant fait plusieurs gouttes d'échantillons, à la fois à nos instruments SAM et CheMin dans le ventre du rover. Nous avons encore un certain nombre d'activités à faire dans le cadre de la campagne, y compris un autre dépôt à SAM pour un autre type d'analyse, et des activités de nettoyage de forage. L'une de ces activités s'appelle \""
+    },
+    {
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "source": "NASA",
+      "summary": "As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and we compare them to Earth, they could be very interesting indicators of the environmental conditions. Hence, the excitement in the team is high that we found a good block to drill. Good means first and foremost that it contains abundant potential crystals, but of course there is more before we drill. We passed the rover’s stability test, as all wheels have to be on solid ground before we extend the arm. Then we passed the preload test, which tests the stability of the rock and the forces the arm expe",
+      "published": "2026-11-10T01:05:48+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Curiosity Blog, Sols 5050-5055: It-S Nazca, Notre 49e forage",
+      "summary_fr": "Comme le savent les lecteurs réguliers de ce blog, nous sommes revenus dans la région où nous avons trouvé des inclusions en forme de disque dans les roches, que nous avons interprétées comme des cristaux potentiels. S'ils sont en effet des cristaux, et nous les comparons à la Terre, ils pourraient être des indicateurs très intéressants des conditions environnementales. Par conséquent, l'excitation dans l'équipe est élevée que nous avons trouvé un bon bloc à forer. Bon signifie d'abord et avant tout qu'il contient d'abondants cristaux potentiels, mais bien sûr il y a plus avant de forer. Nous avons passé l'essai de stabilité du rover, comme toutes les roues doivent être sur sol solide avant de prolonger le bras. Puis nous avons passé l'essai de précharge, qui teste la stabilité de la roche et les forces du bras expe"
+    },
+    {
+      "title": "Rubies on Mars?",
+      "url": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "source": "NASA",
+      "summary": "While we haven’t found collectable rubies on Mars yet, the little corundum crystals are helping us learn more about Mars’ past. Corundum is a metamorphic and pegmatitic mineral which we would not expect to find on Mars, a planet that lacks plate tectonics. However, large meteor and asteroid impacts can create local metamorphism due to long-term heating from the impact. Because we are in a very ancient terrain near the rim of Jezero crater, we can expect some evidence of localized metamorphism. As the first mission in such terrain, we are learning new things. Earlier in the mission we tried this technique only rarely; lately we have carried out the time-resolved luminescence observations freq",
+      "published": "2026-11-09T22:27:12+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "title_fr": "Des rubis sur Mars ?",
+      "summary_fr": "Alors que nous n'avons pas encore trouvé de rubis collectables sur Mars, les petits cristaux corundum nous aident à en apprendre davantage sur Mars. Le corundum est un minéral métamorphique et pegmatitique que nous ne nous attendons pas à trouver sur Mars, une planète qui manque de tectonique des plaques. Cependant, les impacts de gros météorites et d'astéroïdes peuvent créer un métamorphisme local en raison du réchauffement à long terme de l'impact. Parce que nous sommes dans un terrain très ancien près du bord du cratère Jezero, nous pouvons nous attendre à des preuves de métamorphisme localisé. Comme première mission sur ce terrain, nous apprenons de nouvelles choses. Plus tôt dans la mission, nous n'avons essayé cette technique que rarement; dernièrement nous avons effectué les observations de luminescence résolues dans le temps freq"
+    },
+    {
+      "title": "Newest Sample, Oldest Rock?",
+      "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+      "source": "NASA",
+      "summary": "Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “ Badger Peak .” That’s no coincidence. As previously reported , that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort to add a gabbro, an igneous rock made mostly of calcium-rich plagioclase feldspar and pyroxene crystals, to Perseverance’s sample collection . In search of a new local gabbroic candidate to sample, Perseverance traveled about 100 meters (330 feet) to a different patch of light-toned rocks . Indeed, visual and chemical data from the light-toned rocks in the new workspace revealed a composition similar to that of “Badger Peak.”",
+      "published": "2026-11-09T22:25:52+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Le plus récent, le plus vieux rocher ?",
+      "summary_fr": "Persévérance La plus récente abrasion de l'Abrsion de l'Abrégé porte une ressemblance frappante avec une abrasion antérieure, le pic blaireau. Ce n'est pas une coïncidence. Comme nous l'avons déjà signalé, cette roche avait une dureté trop élevée pour le noyau. Cependant, l'équipe a fortement estimé qu'il valait la peine d'ajouter un gabbro, une roche ignée faite principalement de feldspath de plagioclase riche en calcium et de cristaux de pyroxène, à la collection d'échantillons de Perseverance. À la recherche d'un nouveau candidat gabbroïque local à échantillonner, Perseverance a voyagé environ 100 mètres (330 pieds) vers un autre patch de roches à lumière. En effet, les données visuelles et chimiques des roches light-toned dans le nouvel espace de travail ont révélé une composition similaire à celle du pic Badger."
+    },
+    {
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "source": "NASA",
+      "summary": "Read this release in English here . La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a la Luna, construye la Base Lunar y sienta las bases para las primeras misiones tripuladas a Marte.",
+      "published": "2026-11-09T19:27:20+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg",
+      "title_fr": "La NASA busca a la próxima generación de astrononas",
+      "summary_fr": "Lisez cette version en anglais ici . La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vulos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporán a la NASA en un moment en el que Estados Unidos regresa a la Luna, construy la Base Lunar y sienta las bases para las primeras misiones tripuladas a Marte."
+    },
+    {
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "source": "NASA",
+      "summary": "A new study , published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit one another. This partner is either a stellar-mass black hole, or the dense collapsed core of a massive star called a neutron star. This is the first X-ray detection of one of this class of erupting stars. It is also the first of these objects found with a black hole or neutron star companion.",
+      "published": "2026-11-09T18:55:50+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/chandra/2026/at2016blu.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "La NASA trouve Chandra Source de Stars Des rafales mystérieuses",
+      "summary_fr": "Une nouvelle étude , publiée lundi dans le dernier numéro de The Astrophysical Journal , détaille la découverte d'un objet de compagnie précédemment caché qui continue à tirer du matériel loin de l'étoile massive tous les 113 jours qu'ils orbitent les uns les autres. Ce partenaire est soit un trou noir de masse stellaire, soit le noyau dense et effondré d'une étoile massive appelée étoile à neutrons. C'est la première détection aux rayons X d'une de ces étoiles en éruption. C'est aussi le premier de ces objets trouvés avec un trou noir ou un compagnon d'étoile à neutrons."
+    },
     {
       "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
       "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
@@ -48,66 +108,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55641408105-cd488491d8-k.jpg",
       "title_fr": "MAX POWER: NASA-Inaugural Aerospace Expo ignore l'avenir de l'Amérique",
       "summary_fr": "Des milliers de personnes se sont rassemblées au début de novembre pour découvrir MAX POWER – NASA, la première exposition de supériorité américaine dans l'espace, l'aéronautique et la technologie sur et autour de l'agence Kennedy Space Center en Floride. L'événement multi-journées, convivial pour la famille, a honoré le 250e anniversaire de la nation et a servi comme un aboutissement de l'agence. Parmi les nombreux points forts, la NASA a accueilli le président Donald J. Trump à MAX POWER, qui a présenté des survols et un saut en ciel de l'administrateur de la NASA Jared Isaacman, et a annoncé un nouvel avion X, le recrutement des candidats astronautes, un défi étudiant de Moon Base, et a discuté des derniers plans d'exploration lunaire de l'agence."
-    },
-    {
-      "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
-      "source": "NASA",
-      "summary": "“This is the first time NASA has used a powered Earth flyby to propel a spacecraft toward Mars, and we’ve now executed this maneuver twice, flawlessly, in just two days,” said Asal Naseri, acting associate flight director for the Heliophysics Division at NASA Headquarters in Washington. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
-      "published": "2026-11-09T16:01:47+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/escapade/ESCAPADE_TMI.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "ESCAPADE complète le vol de la Terre, maintenant en route vers Mars",
-      "summary_fr": "C'est la première fois que la NASA utilise un vol terrestre motorisé pour propulser un vaisseau spatial vers Mars, et nous avons maintenant exécuté cette manœuvre deux fois, sans défaut, en seulement deux jours, a déclaré Asal Naseri, directeur de vol associé par intérim pour la Division héliophysique au siège de la NASA à Washington. Pour visualiser cette vidéo, veuillez activer JavaScript, et envisager de mettre à jour vers un navigateur Web qui prend en charge la vidéo HTML5"
-    },
-    {
-      "title": "CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/",
-      "source": "NASA",
-      "summary": "After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at […]",
-      "published": "2026-11-09T11:00:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg",
-      "title_fr": "CHAPEA Mission 2 L'équipage réfléchit après 378 jours sur Mars simulé",
-      "summary_fr": "Après 378 jours sans fenêtres, les sons du monde extérieur, ou des appels en temps réel avec la famille et les amis, quatre volontaires de recherche sont sortis de l'habitat de Mars Dune Alpha de la NASA le 31 octobre, complétant l'agence de deuxième année de simulation de surface Mars. Ross Elder, Ellen Ellis, James Spicer et Matthew Montgomery sont entrés dans l'habitat d'environ 1 700 pieds carrés imprimé en 3D à [...]"
-    },
-    {
-      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/",
-      "source": "NASA",
-      "summary": "Explanation: Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation . What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel . One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image . The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter ",
-      "published": "2026-11-09T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 9 novembre – Rigel et la tête de sorcière Nebula",
-      "summary_fr": "Explication : La nébuleuse bleue ressemble-t-elle à la tête d'une sorcière ? La nébuleuse est connue sous le nom de la tête de sorcière, car, dit-on, la forme de la nébuleuse ressemble à une caricature d'Halloween de la tête d'une sorcière. Exactement comment, cependant, peut être un sujet de spéculation imaginative . Ce qui est clair, c'est qu'IC 2118 est d'environ 50 années-lumière à travers et fait de gaz et de poussière qui indique -- parce qu'il a été partiellement érodé par -- l'étoile voisine Rigel. Une des étoiles les plus lumineuses de la constellation Orion, Rigel se trouve juste en dessous du centre de l'image en vedette. La couleur bleue de la tête de sorcière Nebula et est causée non seulement par la lumière bleue intense de Rigel mais aussi parce que les grains de poussière dispersent"
-    },
-    {
-      "title": "Ozone Hole Reaches Its 2026 Maximum",
-      "url": "https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/",
-      "source": "NASA",
-      "summary": "This story is an update to the Antarctic ozone hole feature in our World of Change series , which documents how Earth changes over months, seasons, and years. The stratospheric ozone layer protects life on Earth by absorbing ultraviolet light, which damages DNA in plants and animals (including humans) and leads to sunburns and skin cancer. Prior to 1979, scientists had not observed atmospheric ozone concentrations below 220 Dobson Units . But in 1985, British Antarctic Survey scientists using ground-based measurements at Halley Research Station reported that Earth’s natural sunscreen was thinning dramatically over Antarctica each spring. NASA satellite instruments revealed the continental sc",
-      "published": "2026-11-09T05:00:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Le trou d'ozone atteint son maximum de 2026",
-      "summary_fr": "Cette histoire est une mise à jour de la caractéristique du trou d'ozone de l'Antarctique dans notre série World of Change , qui documente comment la Terre change au fil des mois, des saisons et des années. La couche d'ozone stratosphérique protège la vie sur Terre en absorbant la lumière ultraviolette, ce qui endommage l'ADN des plantes et des animaux (y compris les humains) et entraîne des coups de soleil et un cancer de la peau. Avant 1979, les scientifiques n'avaient pas observé de concentrations atmosphériques d'ozone inférieures à 220 unités Dobson. Mais en 1985, des scientifiques de British Antarctic Survey qui utilisaient des mesures au sol à la station de recherche Halley ont signalé que l'écran solaire naturel de la Terre s'amincissait considérablement au-dessus de l'Antarctique chaque printemps. Les instruments satellites de la NASA ont révélé la sc continentale"
-    },
-    {
-      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/",
-      "source": "NASA",
-      "summary": "“We’re looking for students ready to think creatively, work as a team, and take on real problems connected to NASA’s future on the Moon,” said NASA Administrator Jared Isaacman. “You do not have to wait until graduation to contribute. Curiosity, creativity, and the willingness to tackle hard problems without obvious answers are exactly the qualities we need as we build what comes next.” NASA is building a Moon Base where astronauts will live, work, and explore at the lunar South Pole region. A permanent human presence on the Moon paves the way for future crewed missions to Mars and requires talent from various industries and backgrounds.",
-      "published": "2026-11-08T15:26:38+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521.png",
-      "title_fr": "La NASA annonce un million de dollars aux étudiants pour le Défi de base de la Lune",
-      "summary_fr": "« Nous cherchons des étudiants prêts à penser de façon créative, à travailler en équipe et à résoudre de vrais problèmes liés à l'avenir de la NASA sur la Lune », a déclaré Jared Isaacman, administrateur de la NASA. Vous n'avez pas à attendre la remise des diplômes pour contribuer. La curiosité, la créativité et la volonté de s'attaquer aux problèmes difficiles sans réponses évidentes sont exactement les qualités dont nous avons besoin alors que nous construisons ce qui vient ensuite. La NASA construit une base lunaire où les astronautes vont vivre, travailler et explorer la région du pôle Sud lunaire. Une présence humaine permanente sur la Lune ouvre la voie à de futures missions en équipage sur Mars et nécessite des talents de divers secteurs et milieux."
-    },
-    {
-      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
-      "source": "NASA",
-      "summary": "Explanation: The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy 's Dolomite Alps . Above the nestled village lights, the constellation Ursa Major hangs over the northern horizon. But most stunning is the intense fireball meteor. It was captured during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar Big Dipper asterism . Sightings of this major fireball meteor were widely reported in Eu",
-      "published": "2026-11-08T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 le 8 novembre – Météor de tir majeur",
-      "summary_fr": "Explication : Le ciel brille avec des couleurs rosées douces de crépuscule décolorant dans cette vue soyeuse du sommet de la montagne. Prise dans des températures subgelantes, la photo soigneusement composée montre des sommets enneigés et accidentés vus d'un col de montagne le 14 novembre 2017. Ci-dessous se trouve le village de La Villa, Alta Badia dans les Alpes de Dolomite en Italie. Au-dessus des feux de village nichés, la constellation Ursa Major s'accroche à l'horizon nord. Mais le plus étonnant est l'intense météorite boule de feu. Il a été capturé lors de l'exposition de la caméra par hasard alors qu'il clignotait d'est en ouest à travers l'horizon nord, sous l'asterisme familier de Big Dipper d'Ursa Major. Des observations de cette météorite importante ont été largement rapportées dans l'Europe."
     },
     {
       "title": "M30's Sparkling Stars",
