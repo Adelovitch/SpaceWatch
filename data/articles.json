@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-10T02:44:14.939845+00:00",
+  "updated_at": "2026-11-10T12:38:46.177610+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa . The featured image is a digital fusion of three images, the first of just Saturn before it disappeared, and then two more of the Moon with different exposure lengths. The images were taken fr",
+      "published": "2026-11-10T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 le 10 novembre – Saturne derrière la lune",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication: Parfois Saturne disparaît. Il ne s'en va pas vraiment, bien sûr -- il disparaît juste de notre vue quand la Lune de la Terre se déplace devant. Une telle éclipse de Saturne, plus formellement appelée occultation, a été visible au début de 2025 le long d'une petite partie de la Terre -- du Groenland jusqu'en Europe centrale et en Afrique du Nord. L'image en vedette est une fusion numérique de trois images, la première de Saturne juste avant sa disparition, puis deux autres de la Lune avec des longueurs d'exposition différentes. Les images ont été prises en"
+    },
+    {
+      "title": "Autumn Mornings Bring Valley Fog",
+      "url": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+      "source": "NASA",
+      "summary": "On a cool November morning, low clouds traced the branching valleys of the Appalachian Plateau and the Cumberland River. By afternoon, they had faded, leaving clear skies over the autumn landscape. The change is visible in this pair of images from November 8, 2026. The MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA's Terra satellite acquired the left image that morning. In this natural-color view, low clouds appear white as they fill many of the valleys. Autumn vegetation appears in shades of brown and green.",
+      "published": "2026-11-10T05:00:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/autumn-mornings-bring-valley-fog/usvalleyfog_tmo_20261108_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Les matins d'automne apportent le brouillard de la vallée",
+      "summary_fr": "Le matin de novembre, les nuages bas retraçaient les vallées ramifiées du plateau des Appalaches et de la rivière Cumberland. L'après-midi, ils avaient disparu, laissant un ciel dégagé sur le paysage d'automne. Le changement est visible dans cette paire d'images du 8 novembre 2026. Le MODIS (spectroradiomètre à résolution modérée) du satellite Terra de la NASA a acquis l'image de gauche ce matin-là. Dans cette vue en couleur naturelle, les nuages bas apparaissent blancs alors qu'ils remplissent de nombreuses vallées. La végétation d'automne apparaît dans des tons bruns et verts."
+    },
     {
       "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
@@ -88,26 +108,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
       "title_fr": "Astronautes au cours des générations Partager l'étape",
       "summary_fr": "Le 6 novembre 2026, Purpose Entertainment a accueilli le Gala de célébration Artemis au complexe d'accueil Kennedy Space Center de la NASA à Merritt Island, en Floride. Organisé à la veille de l'événement MAX POWER de la NASA, le gala a célébré les explorateurs, les innovateurs et les visionnaires qui ont fait avancer la prochaine ère du vol spatial humain. L'événement a honoré la réussite de la mission Artemis II de l'agence, marquant une étape historique dans le retour de l'Amérique à l'exploration spatiale profonde. Comme l'un des événements marquants qui ont marqué le 250e anniversaire de la nation, le gala a commémoré les réalisations d'Artémis II tout en envisageant le retour de l'humanité à la surface lunaire par la campagne Artémis."
-    },
-    {
-      "title": "Astronauts Across Generations Share the Stage",
-      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
-      "source": "NASA",
-      "summary": "The event honored the successful completion of the agency’s Artemis II mission, marking a historic milestone in America’s return to deep space exploration. As one of the signature events concluding the nation’s 250th anniversary celebration, the gala commemorated the achievements of Artemis II while looking ahead to humanity’s return to the lunar surface through the Artemis campaign.",
-      "published": "2026-11-09T16:56:29+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
-      "title_fr": "Astronautes au cours des générations Partager l'étape",
-      "summary_fr": "L'événement a honoré l'achèvement réussi de la mission Artemis II de l'agence, marquant une étape historique dans le retour de l'exploration spatiale profonde. Comme l'un des événements marquants de la célébration du 250e anniversaire de la nation, le gala a commémoré les réalisations d'Artémis II tout en regardant vers l'humanité."
-    },
-    {
-      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
-      "source": "NASA",
-      "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour . Among the many highlights, NASA welcomed President Donald J. Trump to MAX POWER, which featured flyovers and a skydive from NASA Administrator Jared Isaacman, and announced a new X-plane, astronaut candidate recruitment, a student Moon Base challenge, and discussed the agency’s latest lunar exploration plans.",
-      "published": "2026-11-09T16:07:10+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55641408105-cd488491d8-k.jpg",
-      "title_fr": "MAX POWER: NASA-Inaugural Aerospace Expo ignore l'avenir de l'Amérique",
-      "summary_fr": "Des milliers de personnes se sont rassemblées au début de novembre pour découvrir MAX POWER – NASA, la première exposition de supériorité américaine dans l'espace, l'aéronautique et la technologie sur et autour de l'agence Kennedy Space Center en Floride. L'événement multi-journées, convivial pour la famille, a honoré le 250e anniversaire de la nation et a servi comme un aboutissement de l'agence. Parmi les nombreux points forts, la NASA a accueilli le président Donald J. Trump à MAX POWER, qui a présenté des survols et un saut en ciel de l'administrateur de la NASA Jared Isaacman, et a annoncé un nouvel avion X, le recrutement des candidats astronautes, un défi étudiant de Moon Base, et a discuté des derniers plans d'exploration lunaire de l'agence."
     },
     {
       "title": "M30's Sparkling Stars",
