@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-12T07:08:19.334294+00:00",
+  "updated_at": "2026-11-12T16:47:51.942412+00:00",
   "articles": [
+    {
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
+      "source": "NASA",
+      "summary": "A gallery of gravitational lenses captured by NASA’s Hubble Space Telescope showcases the diversity of this cosmic phenomenon and lays the groundwork for follow-up observations by the new Nancy Grace Roman Space Telescope. Gravitational lensing, first predicted by Albert Einstein, occurs when the gravity of a massive foreground object, such as a galaxy or cluster of galaxies, bends, warps, and magnifies the light from a more distant background object. The effect is similar to that of a giant lens in space that allows astronomers to view objects much farther away than any telescope could see on its own.",
+      "published": "2026-11-12T13:18:40+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/gravitational-lens/Hubble_lenscollage_P18085_ok4_noletters.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Le Hubble offre un échantillonneur cosmique de cibles pour Roman",
+      "summary_fr": "Une galerie de lentilles gravitationnelles capturées par le télescope spatial Hubble de la NASA met en valeur la diversité de ce phénomène cosmique et jette les bases des observations de suivi du nouveau télescope spatial romain Nancy Grace. La lentille gravitationnelle, d'abord prédite par Albert Einstein, se produit lorsque la gravité d'un objet de premier plan massif, tel qu'une galaxie ou un amas de galaxies, de virages, de déformations, et grossit la lumière d'un objet de fond plus éloigné. L'effet est semblable à celui d'une lentille géante dans l'espace qui permet aux astronomes de voir des objets beaucoup plus loin que n'importe quel télescope pourrait voir seul."
+    },
+    {
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
+      "source": "NASA",
+      "summary": "Endeavour’s new home at the California Science Center in Los Angeles will reopen the weekend of Nov. 13, displayed upright in launch position, ready to inspire the next generation of space explorers. “Chasing Endeavour’s final ferry flight over Southern California was, without a doubt, a leading highlight of my 37-year career at NASA,” said Lori Losey, lead videographer at NASA’s Armstrong Flight Research Center in Edwards, California. “I advocated for two chase aircraft to be used in the LA area so we could dedicate one aircraft to photo and one to video. It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legend",
+      "published": "2026-11-12T13:00:00+00:00",
+      "image": "https://www.youtube.com/embed/RrkH0jfX-4Y",
+      "title_fr": "Par l'intermédiaire de la NASA, objectif : Capturer la navette spatiale Endeavour",
+      "summary_fr": "La nouvelle maison Endeavour au California Science Center de Los Angeles rouvrira le week-end du 13 novembre, exposée debout en position de lancement, prête à inspirer la prochaine génération d'explorateurs spatiaux. Le dernier vol de ferry de Chasing Endeavour au-dessus de la Californie du Sud a sans aucun doute été un point culminant de ma carrière de 37 ans à la NASA, a déclaré Lori Losey, vidéographe principale au Centre de recherche sur les vols d'Armstrong de la NASA à Edwards, en Californie. J'ai plaidé pour que deux avions de chasse soient utilisés dans la région de LA afin que nous puissions consacrer un avion à la photo et un à la vidéo. C'était cette belle danse d'altitudes alternées et d'échanges de positions entre les points de repère pour maximiser nous deux capturant la légende"
+    },
     {
       "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/",
@@ -89,26 +109,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
       "title_fr": "L'équipage de CHAPEA laisse une marque",
       "summary_fr": "Des photos de l'équipage de la mission 2 de CHAPEA sont disposées autour d'une empreinte de bottes dans le sable martien simulé à l'extérieur de leur habitat."
-    },
-    {
-      "title": "CHAPEA Crew Leaves a Mark",
-      "url": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark/",
-      "source": "NASA",
-      "summary": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]",
-      "published": "2026-11-10T14:57:55+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
-      "title_fr": "L'équipage de CHAPEA laisse une marque",
-      "summary_fr": "Le 31 août 2026, l'équipe de la mission 2 de l'Analogue de la santé et de la performance de l'équipage (CHAPEA) a organisé des photos autour d'une empreinte de bottes dans le sable martien simulé à l'extérieur de leur habitat. L'équipage a récemment quitté son habitat le samedi 31 octobre, après 378 jours d'isolement dans une installation de l'agence Johnson Space Center à Houston. Santé [...]"
-    },
-    {
-      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
-      "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturn ian eclipse, more formally called an occultation , was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa . The featured image is a digital fusion of three images, the first of just Saturn before it disappeared, and then two more of the Moon with different exposure lengths. The images were taken fr",
-      "published": "2026-11-10T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Moonsaturn6_Ortu_2124.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 le 10 novembre – Saturne derrière la lune",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication: Parfois Saturne disparaît. Il ne s'en va pas vraiment, bien sûr -- il disparaît juste de notre vue quand la Lune de la Terre se déplace devant. Une telle éclipse de Saturne, plus formellement appelée occultation, a été visible au début de 2025 le long d'une petite partie de la Terre -- du Groenland jusqu'en Europe centrale et en Afrique du Nord. L'image en vedette est une fusion numérique de trois images, la première de Saturne juste avant sa disparition, puis deux autres de la Lune avec des longueurs d'exposition différentes. Les images ont été prises en"
     },
     {
       "title": "Astronauts Across Generations Share the Stage",
