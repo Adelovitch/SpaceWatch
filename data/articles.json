@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-11-12T16:47:51.942412+00:00",
+  "updated_at": "2026-11-13T01:04:18.170106+00:00",
   "articles": [
+    {
+      "title": "I Am Artemis Katie Spicer",
+      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
+      "source": "NASA",
+      "summary": "Spicer works in the Flight Operations Directorate at NASA’s Johnson Space Center in Houston, where she evaluates and monitors design and development of Blue Origin’s lander. The design of the Blue Moon lander is rapidly evolving as Blue Origin continues to develop a streamlined lander test article for the agency’s Artemis III rendezvous and docking mission in low Earth orbit as well as a fully functional lander for a crewed lunar landing in 2028. Spicer works closely with her NASA and Blue Origin counterparts to ensure the design of the Blue Moon lander can support the overall Artemis mission objectives.",
+      "published": "2026-11-12T20:10:02+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg",
+      "title_fr": "Je suis Artemis Katie Spicer",
+      "summary_fr": "Spicer travaille à la Direction des opérations aériennes au Centre spatial Johnson de la NASA, à Houston, où elle évalue et surveille la conception et le développement de Blue Origin. La conception de l'atterrisseur Blue Moon évolue rapidement alors que Blue Origin continue de développer un article d'essai d'atterrisseur simplifié pour l'agence Artemis III rendez-vous et mission d'accostage en orbite terrestre basse ainsi qu'un atterrisseur entièrement fonctionnel pour un atterrissage lunaire en équipage en 2028. Spicer travaille en étroite collaboration avec ses homologues de la NASA et de Blue Origin pour s'assurer que la conception de l'atterrissage Blue Moon peut soutenir les objectifs globaux de la mission Artemis."
+    },
+    {
+      "title": "Heart in the Sky at NASA Kennedy",
+      "url": "https://www.nasa.gov/image-detail/55640210122-dae9d5e6b9-o/",
+      "source": "NASA Images",
+      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida.",
+      "published": "2026-11-12T19:14:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg",
+      "title_fr": "Le cœur dans le ciel à la NASA Kennedy",
+      "summary_fr": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de NASA en Floride."
+    },
+    {
+      "title": "Heart in the Sky at NASA Kennedy",
+      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+      "source": "NASA",
+      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight […]",
+      "published": "2026-11-12T19:12:49+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg",
+      "title_fr": "Le cœur dans le ciel à la NASA Kennedy",
+      "summary_fr": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de NASA en Floride. NASA MAX POWER est un festival aérospatial qui célèbre le passé, le présent et l'avenir du vol [...]"
+    },
+    {
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
+      "source": "NASA",
+      "summary": "Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team. Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team. She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing. Steve Howell is recognized for his leadership of scientific teams for numerous international space missions. His pioneering work in astronomical instrumentation have significantly advanced both space- and ground-based telescope imaging. In kind, th",
+      "published": "2026-11-12T17:54:32+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/som-november-2026-banner.jpg",
+      "title_fr": "NASA Ames Stars of the Month: Novembre 2026",
+      "summary_fr": "Alyssa Villaneuva est ingénieur à la division Blue Marble in the Space Biosciences de l'équipe LEIA (Lunar Explorer Instrument for Space Biology Applications). Alyssa est reconnue pour son excellence technique, son dévouement et son appui illimité au reste de l'équipe. Elle va de plus en plus loin en contribuant chaque jour à LEIA et a été essentielle dans tous les efforts d'essai, en particulier dans la préparation et l'exécution des essais de validation technique. Steve Howell est reconnu pour son leadership d'équipes scientifiques pour de nombreuses missions spatiales internationales. Son travail de pionnier dans l'instrumentation astronomique a considérablement avancé l'imagerie des télescopes spatiaux et terrestres. En nature"
+    },
     {
       "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
       "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/",
@@ -69,36 +109,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20261107_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "Surges d'eau dans le réservoir Navajo",
       "summary_fr": "À la fin d'octobre et au début de novembre 2026, des pluies extrêmes ont inondé la région des quatre coins du sud-ouest des États-Unis. Les tempêtes ont atténué les conditions de sécheresse à court terme dans le sud-ouest, mais les niveaux des rivières ont augmenté pour enregistrer ou presque des niveaux enregistrés dans les endroits, provoquant des inondations dommageables. Un effet des fortes pluies détectées par les satellites a été l'augmentation rapide des niveaux d'eau dans le réservoir Navajo. Le changement est visible dans les images ci-dessus, acquises le 20 septembre (à gauche) et le 7 novembre (à droite) avec le OLI (Operational Land Imager) sur Landsat 9 . À cette époque, le lac du nord du Nouveau-Mexique et du sud du Colorado a augmenté de près de 18 mètres, selon les données des États-Unis."
-    },
-    {
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities/",
-      "source": "NASA",
-      "summary": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight this historic milestone with two events. On Tuesday, Nov. 17, NASA invites the world to participate in “Shine Bright for Voyager’s Light-Day” by creating a symbolic wave of golden light encircling the planet after sunset. NASA has created a website that enables smart phones and tablets to flash “VGR”, Voyager’s call sign, in morse code.",
-      "published": "2026-11-10T19:22:45+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg",
-      "title_fr": "La NASA invite les médias et le public à se joindre aux activités d'un jour unique du Voyager",
-      "summary_fr": "Lancé il y a près de 50 ans en 1977, la NASA's Voyager 1 le mercredi 18 novembre aura voyagé un jour-lumière de la Terre, qui est de plus de 16 milliards de kilomètres (25,9 milliards de kilomètres). Voyager 1 est l'objet humain le plus éloigné, et toute lumière de la Terre prendrait 24 heures pour atteindre l'engin spatial. La NASA soulignera cette étape historique avec deux événements. Le mardi 17 novembre, la NASA invite le monde à participer au « Shine Bright for Voyager »s Light-Day en créant une vague symbolique de lumière dorée entourant la planète après le coucher du soleil. La NASA a créé un site Web qui permet aux téléphones intelligents et aux tablettes de flasher l'indicatif d'appel de Voyager, en code morse."
-    },
-    {
-      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
-      "url": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston/",
-      "source": "NASA",
-      "summary": "NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission highlights at 6 p.m. CST Tuesday, Nov. 17, at NASA Johnson Space Center’s visitor center. An awards ceremony recognizing key mission contributors will follow the presentation. The astronauts will be available for media interviews before the event. Media may request an in-person interview no later than 5 p.m. Monday, Nov. 16, by emailing the JSC Newsroom at jsc-newsroom@mail.nasa.gov .",
-      "published": "2026-11-10T18:06:33+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg",
-      "title_fr": "La NASA accueillera l'expédition 74 Astronautes à Houston",
-      "summary_fr": "Les astronautes de la NASA Jessica Meir, Jack Hathaway et Chris Williams; l'astronaute de l'ESA (Agence spatiale européenne) Sophie Adenot; et les cosmonautes de Roscosmos Sergey Kud‐Sverchkov et Sergei Mikaev partageront les points saillants de la mission à 18 h CST Mardi 17 novembre au centre d'accueil de la NASA Johnson Space Center. Une cérémonie de remise des prix en reconnaissance des principaux contributeurs de la mission suivra la présentation. Les astronautes seront disponibles pour des entrevues avec les médias avant l'événement. Les médias peuvent demander une entrevue en personne au plus tard le lundi 16 novembre, à 17 h, en envoyant un courriel au JSC Newsroom à jsc-newsroom@mail.nasa.gov ."
-    },
-    {
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-      "source": "NASA",
-      "summary": "“The most common source for LISA is expected to be double white dwarf systems, which are binaries composed of white dwarfs in tight orbits,” said Casey McGrath, a postdoctoral researcher at the University of Maryland, Baltimore County and NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “If an exoplanet also orbits within one of these systems, its presence becomes imprinted on the gravitational wave signal in a way we’ll be able to uncover.” Two papers published Tuesday in The Astrophysical Journal detail the findings. The first , authored solely by McGrath, examines the detection method and determines the planet masses and orbital periods where it would work best. The second paper",
-      "published": "2026-11-10T16:00:26+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/lisa/news/2026/l3harris-award-for-test-telescope/LISA_key_visual_ESA_lg_ac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Les scientifiques de la NASA montrent comment les ondes gravitationnelles peuvent révéler de nouveaux mondes",
-      "summary_fr": "La source la plus courante pour LISA devrait être le double système nain blanc, qui sont des binaires composés de naines blanches en orbite étroite, a déclaré Casey McGrath, un chercheur postdoctoral à l'Université du Maryland, Baltimore County et NASA. Si une exoplanète est également en orbite dans l'un de ces systèmes, sa présence s'imprime sur le signal d'onde gravitationnelle d'une manière que nous pourrons découvrir. Deux articles publiés mardi dans The Astrophysical Journal détaillent les résultats. Le premier, écrit uniquement par McGrath, examine la méthode de détection et détermine les masses de planète et les périodes orbitales où il fonctionnerait le mieux. Deuxième document"
     },
     {
       "title": "CHAPEA Crew Leaves a Mark",
@@ -687,16 +697,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/jsc2026e407303.jpg",
       "title_fr": "Le B777 de la NASA obtient un nouveau manteau de peinture",
       "summary_fr": "Boeing 777 de la NASA revient au Langley Research Center de l'agence après avoir reçu un nouveau schéma de peinture."
-    },
-    {
-      "title": "Colorful Collage of Tarantula Nebula",
-      "url": "https://www.nasa.gov/image-detail/30dor-crop/",
-      "source": "NASA Images",
-      "summary": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.",
-      "published": "2026-08-17T16:03:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/30dor-crop.jpg",
-      "title_fr": "Collage coloré de la nébuleuse de Tarantula",
-      "summary_fr": "Comme un collage fait de feuilles en couches de cellophane coloré, une nouvelle image vibrante couche les observations d'une célèbre nébuleuse stellaire des télescopes spatiaux de la NASA. L'engin cosmique résultant révèle de nouveaux détails sur la région de formation des étoiles connue sous le nom de 30 Dorade, ou la nébuleuse de Tarantula."
     }
   ],
   "sources": [
