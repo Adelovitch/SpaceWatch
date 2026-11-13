@@ -1,6 +1,25 @@
 {
-  "updated_at": "2026-11-13T01:04:18.170106+00:00",
+  "updated_at": "2026-11-13T12:12:01.151894+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the op",
+      "published": "2026-11-13T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 13 novembre – NGC 206 et les Nuages Étoiles d'Andromède",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : La grande association stellaire cataloguée sous le nom de NGC 206 est nichée dans les bras poussiéreux de la galaxie voisine d'Andromède ainsi que dans les régions de formation d'étoiles rose de la galaxie. Aussi connue sous le nom de M31, la galaxie spirale est à seulement 2,5 millions d'années-lumière. NGC 206 se trouve au centre de ce gros plan pointu et détaillé de l'étendue sud-ouest du disque d'Androméda. Les étoiles bleues de NGC 206 indiquent sa jeunesse. En fait, ses plus jeunes étoiles massives ont moins de 10 millions d'années. Bien plus que l'op"
+    },
+    {
+      "title": "A Global Rebound for Mangroves",
+      "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/",
+      "source": "NASA",
+      "summary": "Scientists began using satellites to map mangrove forests in the 1970s after the launch of the first Landsat satellite. For decades, the story they told about mangroves was dominated by loss and decline. Research published in Science suggests that the tide has turned. A global rebound began around 2010, the scientists found, led by the expansion of mangrove forests in Asia, Australia, and South America. The researchers analyzed Landsat imagery collected between 1984 and 2023, looking for signs of changes in the extent and density of mangrove canopy.",
+      "published": "2026-11-13T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-global-rebound-for-mangroves/burmamangroves_oli2_20260202_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "summary_fr": "Les scientifiques ont commencé à utiliser des satellites pour cartographier les forêts de mangroves dans les années 1970 après le lancement du premier satellite Landsat. Pendant des décennies, l'histoire des mangroves a été dominée par la perte et le déclin. La recherche publiée dans Science suggère que la marée a tourné. Un rebond mondial a commencé vers 2010, les scientifiques ont découvert, mené par l'expansion des forêts de mangroves en Asie, en Australie et en Amérique du Sud. Les chercheurs ont analysé les images Landsat recueillies entre 1984 et 2023, à la recherche de signes de changements dans l'étendue et la densité de la mangrove."
+    },
     {
       "title": "I Am Artemis Katie Spicer",
       "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/",
@@ -89,26 +108,6 @@
       "published": "2026-11-12T00:41:35+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "summary_fr": "Cette semaine, Curiosity a terminé sa campagne de forage au trou de forage de Nazca. C'est une zone caractérisée par un substrat rocheux contenant des formes cristallines en forme de disque (ou dans une interprétation libérale, en forme de croustilles ... voir image liée). Un objectif clé a été de mieux caractériser ces caractéristiques en forme de puce. Des échantillons de forage ont été livrés à l'instrument d'analyse des échantillons de Mars (SAM). Tandis que l'analyse SAM était en cours, le plan de lundi comprenait une observation ChemCam LIBS d'une autre forme cristalline, -Ahi Veremos,-- Plus de cadres de mastcam pour remplir une mosaïque de la Nazca près de milieu de champ, et des observations environnementales, y compris un grand levé de la poussière diable, et l'horizon et le film atmosphérique zénith"
-    },
-    {
-      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact/",
-      "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Don’t judge a galaxy by its size. Our home galaxy, the Milky Way , is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies , are about 1/10th the size of the Milky Way and only contain a few billion stars. They are also the most common type of galaxy in the whole universe. Today’s image shows one such dwarf galaxy, NGC 4449 , captured by the Hubble Space Telescope . NGC 4449 and similar dwarf galaxies are missing more ",
-      "published": "2026-11-11T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/irregular/NGC%204449.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 11 novembre – NGC 4449: Petite galaxie, grand impact",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Ne jugez pas une galaxie par sa taille. Notre galaxie natale, la Voie lactée, est d'environ 100 000 années-lumière. Cette immense étendue d'espace contient des centaines de milliards d'étoiles ! Les plus petites galaxies, appelées galaxies naines, sont environ 1/10ème de la taille de la Voie Lactée et ne contiennent que quelques milliards d'étoiles. Ils sont aussi le type de galaxie le plus commun dans tout l'univers. Aujourd'hui, l'image montre une telle galaxie naine, NGC 4449, capturée par le télescope spatial Hubble. NGC 4449 et des galaxies naines similaires manquent plus"
-    },
-    {
-      "title": "Water Surges Into Navajo Reservoir",
-      "url": "https://science.nasa.gov/earth/earth-observatory/water-surges-into-navajo-reservoir/",
-      "source": "NASA",
-      "summary": "Back-to-back extreme rain events inundated the Four Corners region of the U.S. Southwest in late October and early November 2026. The storms alleviated short-term drought conditions in the Southwest but caused river levels to spike to record or near-record levels in places, triggering damaging floods. One effect of the heavy rains detected by satellites was the rapid rise of water levels in Navajo Reservoir. The change is visible in the images above, acquired on September 20 (left) and November 7 (right) with the OLI (Operational Land Imager) on Landsat 9 . In that time, the lake in northern New Mexico and southern Colorado rose by nearly 60 feet (18 meters), according to data from the U.S. ",
-      "published": "2026-11-11T05:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/water-surges-into-navajo-reservoir/navajoreservoir_oli2_20261107_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Surges d'eau dans le réservoir Navajo",
-      "summary_fr": "À la fin d'octobre et au début de novembre 2026, des pluies extrêmes ont inondé la région des quatre coins du sud-ouest des États-Unis. Les tempêtes ont atténué les conditions de sécheresse à court terme dans le sud-ouest, mais les niveaux des rivières ont augmenté pour enregistrer ou presque des niveaux enregistrés dans les endroits, provoquant des inondations dommageables. Un effet des fortes pluies détectées par les satellites a été l'augmentation rapide des niveaux d'eau dans le réservoir Navajo. Le changement est visible dans les images ci-dessus, acquises le 20 septembre (à gauche) et le 7 novembre (à droite) avec le OLI (Operational Land Imager) sur Landsat 9 . À cette époque, le lac du nord du Nouveau-Mexique et du sud du Colorado a augmenté de près de 18 mètres, selon les données des États-Unis."
     },
     {
       "title": "CHAPEA Crew Leaves a Mark",
