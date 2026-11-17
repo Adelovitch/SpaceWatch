@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-17T02:55:20.471862+00:00",
+  "updated_at": "2026-11-17T13:24:11.797921+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy , an ancient system of stars, gas, and dust that predates our Earth and is very far away. The arch on the right, by contrast, is an auroral ribbon that is only hours old, composed of energized atoms and molecules , and is close by -- right in Earth's upper atmosphere . These chance-superposed titan s have our Sun in common, a stellar member of the Milky Way",
+      "published": "2026-11-17T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 17 novembre – Voie lactée versus Aurora",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Ces deux arches géantes luttent-elles pour le contrôle du ciel ? Non, mais ça y ressemble ! L'arc à gauche est la bande centrale de notre galaxie de la Voie lactée, un ancien système d'étoiles, de gaz et de poussière qui précède notre Terre et est très loin. L'arc de droite, en revanche, est un ruban auroral qui n'a que des heures, composé d'atomes et de molécules énergisés, et est proche de -- juste dans la haute atmosphère de la Terre. Ces titans superposés ont notre Soleil en commun, un membre stellaire de la Voie lactée"
+    },
+    {
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "url": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/",
+      "source": "NASA",
+      "summary": "For astronauts on the International Space Station , looking back to Earth at night can be as dazzling as looking outward toward the stars. In an essay for Air & Space magazine, Donald Pettit, a NASA astronaut and dedicated photographer , described the \"spectacular\" view of Earth at night visible from the station. Cities and civilization, he wrote, looked \"like tendrils outlined with the glimmer of a Broadway marquee.\" Intense, colorful lights cast by clusters of fishing boats across darkened oceans reminded him of \"a constellation of stars\" forming \"unfamiliar members of the Zodiac.\"",
+      "published": "2026-11-17T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Lancer les feux d'artifice du Cloud au Cloud",
+      "summary_fr": "Pour les astronautes de la Station Spatiale Internationale, regarder la Terre la nuit peut être aussi éblouissant que regarder vers l'extérieur vers les étoiles. Dans un essai pour Air & Space magazine, Donald Pettit, un astronaute de la NASA et photographe dédié, a décrit la vue «spectaculaire» de la Terre la nuit visible de la station. Les villes et la civilisation, écrit-il, ressemblaient à des vrilles tracées avec la lueur d'un marquis de Broadway. Des lumières intenses et colorées, projetées par des grappes de bateaux de pêche à travers les océans obscurcis, lui rappelaient « une constellation d'étoiles » formant « des membres non familiaux du Zodiaque »."
+    },
     {
       "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
       "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
@@ -100,26 +120,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
       "title_fr": "Des explosions d'une étoile massive",
       "summary_fr": "À l'aide de Chandra, les astronomes ont découvert un trou noir ou un compagnon d'étoiles à neutrons qui déclenche des explosions répétées d'une étoile géante et instable."
-    },
-    {
-      "title": "Outbursts from a Massive Star",
-      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-      "source": "NASA",
-      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the […]",
-      "published": "2026-11-13T16:39:33+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
-      "title_fr": "Des explosions d'une étoile massive",
-      "summary_fr": "Grâce à l'Observatoire des rayons X Chandra de la NASA, les astronomes ont découvert ce qui déclenche des explosions répétées d'une étoile géante et instable située dans la galaxie montrée dans cette image publiée le 9 novembre 2026. L'étoile volatile, connue sous le nom de AT 2016blu, se trouve dans la galaxie spirale NGC 4559, située à environ 30 millions d'années-lumière de la Terre. Les astronomes estiment le [...]"
-    },
-    {
-      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-      "source": "NASA",
-      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII , the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of a different field of exploration, observing Earth from space.",
-      "published": "2026-11-13T16:05:54+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png",
-      "title_fr": "Photos d'astronautes Gemini Inspiré Programme d'observation précoce de la Terre",
-      "summary_fr": "Les astronautes James A. Lovell Jr. et Edwin E. Buzzy Aldrin Jr. ont orbité la Terre du 11 au 15 novembre 1966, sur Gemini XII, la mission finale du programme Gemini de la NASA. En plus d'effectuer avec succès des manoeuvres de rendez-vous et des sorties spatiales, des procédures essentielles pour envoyer des astronautes américains sur la Lune, l'équipage a également encouragé le développement d'un domaine d'exploration différent, en observant la Terre de l'espace."
     },
     {
       "title": "Heart in the Sky at NASA Kennedy",
