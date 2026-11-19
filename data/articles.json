@@ -1,15 +1,75 @@
 {
-  "updated_at": "2026-11-19T13:03:31.860168+00:00",
+  "updated_at": "2026-11-19T23:03:03.824353+00:00",
   "articles": [
+    {
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "source": "NASA",
+      "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
+      "published": "2026-11-19T19:34:20+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ttt-publicinputonlife-2026.png",
+      "title_fr": "Défi : contribution du public à la vie et au monde en 2075",
+      "summary_fr": "Les outils et technologies de transformation de la NASA (TTT) recueillent des points de vue publics sur la vie actuelle et sur la façon dont le monde peut changer d'ici 2075. Ce défi demande des idées conceptuelles sur la vie en 2075 sur quatre sujets. Les idées devraient explorer comment les futurs systèmes aéronautiques ou aérospatiaux pourraient : Les idées devraient être conceptuelles plutôt que techniques. Prix: 20 000 $ en [...]"
+    },
+    {
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "source": "NASA",
+      "summary": "An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. This opens the door to discovering many more of these rapidly spinning objects. A paper describing the results published Thursday in the Physical Review Letters. Using 15 years of data from NASA's Fermi Gamma-ray Space Telescope and a cryptography-based method developed by study co-authors Dotan Gazith and Barak Zackay from the Weizmann Institute of Science in Israel, the team found PSR J1622−7204, an isolated pulsar spinning 261 times per second, using the equivalent of 10 hours of computing time on a standard computer processor.",
+      "published": "2026-11-19T15:33:55+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "title_fr": "NASA Science Data Powers Nouvelle méthode pour découvrir les pulsars difficiles à trouver",
+      "summary_fr": "Une équipe internationale de scientifiques a développé une méthode qui peut trouver des pulsars dans les données publiques de la NASA environ un million de fois plus rapidement qu'auparavant. Cela ouvre la porte à la découverte de beaucoup plus de ces objets qui tournent rapidement. Un document décrivant les résultats publiés jeudi dans les lettres d'examen physique. À l'aide de 15 ans de données provenant du télescope spatial Fermi Gamma-ray de la NASA et d'une méthode de cryptographie développée par les co-auteurs de l'étude, Dotan Gazith et Barak Zackay de l'Institut des sciences Weizmann en Israël, l'équipe a trouvé le PSR J1622−7204, un pulsar isolé tournant 261 fois par seconde, en utilisant l'équivalent de 10 heures de temps de calcul sur un processeur informatique standard."
+    },
+    {
+      "title": "Lake Pelku",
+      "url": "https://www.nasa.gov/image-detail/iss075e0267074/",
+      "source": "NASA Images",
+      "summary": "Lake Pelku (near center), on the Chinese side of the snow-capped Himalayas with Nepal on the adjacent side, is pictured from the International Space Station as it orbited above Asia.",
+      "published": "2026-11-19T15:33:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
+      "title_fr": "Lac Pelku",
+      "summary_fr": "Le lac Pelku (près du centre), du côté chinois de l'Himalaya enneigé avec le Népal sur le côté adjacent, est représenté à partir de la Station Spatiale Internationale en orbite au-dessus de l'Asie."
+    },
+    {
+      "title": "Lake Pelku",
+      "url": "https://www.nasa.gov/image-article/lake-pelku/",
+      "source": "NASA",
+      "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
+      "published": "2026-11-19T15:32:39+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
+      "title_fr": "Lac Pelku",
+      "summary_fr": "Un astronaute de la Station spatiale internationale a capturé cette photographie du lac Pelku (près du centre) alors que la station était en orbite au-dessus de l'Asie. La Station spatiale internationale est une plate-forme unique pour observer la Terre avec du matériel manuel et automatisé. Les membres de l'équipe de la station ont produit des centaines de milliers d'images. Ces images enregistrent des phénomènes en réalité [...]"
+    },
+    {
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "source": "NASA",
+      "summary": "While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability for future Artemis missions. For the Artemis IV Moon landing mission in 2028, the SLS rocket will launch astronauts aboard the Orion spacecraft from NASA’s Kennedy Space Center in Florida. This mission will be a key step in the agency’s broader goals to explore the lunar South Pole, establish an enduring human presence on the lunar surface, and build on the agency’s foundation for the first crewed mission to Mars.",
+      "published": "2026-11-19T14:44:39+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ssc-20261118-s01364.jpg",
+      "title_fr": "La NASA effectue les derniers essais de moteur RS-25 à l'appui des futures missions Artemis",
+      "summary_fr": "Bien que ce moteur de développement ne soit pas utilisé en vol, l'essai au feu chaud fournit à l'entrepreneur principal L3Harris Technologies de la NASA et de la NASA la capacité de saisir des données essentielles pour améliorer la performance et la fiabilité du moteur pour les futures missions Artemis. Pour la mission d'atterrissage Artemis IV Moon en 2028, la fusée SLS lancera des astronautes à bord du vaisseau spatial Orion du centre spatial Kennedy de la NASA en Floride. Cette mission sera une étape clé dans les objectifs plus larges de l'agence pour explorer le pôle sud lunaire, établir une présence humaine durable sur la surface lunaire, et construire sur la fondation de l'agence pour la première mission en équipage à Mars."
+    },
+    {
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "source": "NASA",
+      "summary": "Voyager team members at NASA’s Jet Propulsion Laboratory in Southern California, managed by Caltech, heard from the probe 24 hours later, the time it took for the spacecraft’s radio signal traveling at the speed of light to reach Earth, early Thursday. “Traveling a light-day is a singular feat for a spacecraft, but Voyager is so much more than a distant traveler. The Voyager mission would be remarkable just for what it contributed to planetary science with the Grand Tour of the outer planets,” said Joe Westlake, director, Heliophysics Division at NASA Headquarters in Washington. “But it went on to become central to NASA’s fleet of heliophysics missions offering insights into the star that we",
+      "published": "2026-11-19T14:31:15+00:00",
+      "image": "https://www.youtube.com/embed/0Ke0s62W4yY",
+      "title_fr": "Le Voyager 1 de la NASA fait que l'histoire atteint un jour-lumière de la Terre",
+      "summary_fr": "Des membres de l'équipe Voyager au laboratoire Jet Propulsion de la NASA en Californie du Sud, géré par Caltech, ont entendu de la sonde 24 heures plus tard, le temps qu'il a fallu pour que le signal radio de l'engin spatial voyage à la vitesse de la lumière pour atteindre la Terre, début jeudi. Voyager un jour-lumière est un exploit singulier pour un vaisseau spatial, mais Voyager est bien plus qu'un voyageur éloigné. La mission Voyager serait remarquable pour ce qu'elle a contribué à la science planétaire avec le Grand Tour des planètes extérieures, a déclaré Joe Westlake, directeur de la Division héliophysique au siège de la NASA à Washington. Mais il est devenu central pour la flotte de la NASA de missions d'héliophysiques offrant des aperçus sur l'étoile que nous"
+    },
     {
       "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
       "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt . The instantly recognizable shape of a dark horse's head at the center is the aptly named Horsehead Nebula . It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ",
+      "summary": "Explanation: Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt . The instantly recognizable shape of a dark horse's head at the center is the aptly named Horsehead Nebula . It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ionized by the bright star Sigma Orionis at the top. The orange nebula with dark filaments on the left is the Flame Nebula . Closer to the Horsehead, the blue reflection ne",
       "published": "2026-11-19T05:05:00+00:00",
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "APOD: 2026 19 novembre – La tête de cheval et les nébuleuses de flamme",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : L'image d'aujourd'hui aurait pu être un tableau. Mais que signifient ces couleurs ? L'étoile la plus brillante, à gauche du centre, est l'Alnitak bleu (la Girde) : un système triple étoile surtout connu pour être l'étoile la plus orientale de la Ceinture d'Orion. La forme immédiatement reconnaissable de la tête d'un cheval noir au centre est la Nébuleuse à tête de cheval. Elle mesure environ cinq années-lumière et se trouve à environ 1 500 années-lumière. Il est fait de poussière et de gaz qui masquent la lueur rouge derrière lui, qui est causée par l'hydrogène gazeux étant"
+      "summary_fr": "Explication : L'image d'aujourd'hui aurait pu être une peinture. Mais que signifient ces couleurs ? L'étoile la plus brillante, à gauche du centre, est l'Alnitak bleu (la Girde): un système triple étoile plus connu pour être l'étoile la plus orientale de la Ceinture d'Orion. La forme immédiatement reconnaissable de la tête d'un cheval noir au centre est la Nébuleuse à tête de cheval. Elle mesure environ cinq années-lumière et se trouve à environ 1 500 années-lumière. Il est fait de poussière et de gaz qui masquent la lueur rouge derrière lui, qui est causée par l'hydrogène gaz étant ionisé par l'étoile brillante Sigma Orionis au sommet. La nébuleuse orange avec des filaments foncés à gauche est la nébuleuse de Flame. Plus près de la tête de cheval, le reflet bleu ne"
     },
     {
       "title": "El Niño Rains Paint the Atacama",
@@ -60,56 +120,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg",
       "title_fr": "L'Empire State Building est en or pour Voyager",
       "summary_fr": "L'Empire State Building est vu illuminé en or pour célébrer l'engin spatial Voyager 1 de la NASA car il est sur le point de passer un jour-lumière de la Terre, une distance atteinte par aucun autre objet de fabrication humaine, mardi 17 novembre 2026, à New York."
-    },
-    {
-      "title": "Empire State Building Goes Gold for Voyager",
-      "url": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
-      "source": "NASA",
-      "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains sounds and images selected to portray the diversity of life and culture on Earth.",
-      "published": "2026-11-18T17:50:26+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg",
-      "title_fr": "L'Empire State Building est en or pour Voyager",
-      "summary_fr": "L'Empire State Building est vu illuminé en or pour célébrer la NASA du Voyager 1 vaisseau spatial comme il était sur le point de passer un jour-lumière de la Terre, une distance atteinte par aucun autre objet fait par l'homme, nov. 17, 2026. La couleur or représente le disque de phonographe en cuivre plaqué or qui vole sur Voyager; le Golden Record contient des sons et des images sélectionnés pour représenter la diversité de la vie et de la culture sur Terre."
-    },
-    {
-      "title": "What Is the Moon Base?",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
-      "source": "NASA",
-      "summary": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. ______________________________________________________________________ Words to Know outpost: a station or base located in […]",
-      "published": "2026-11-18T17:36:03+00:00",
-      "image": "https://www.youtube.com/embed/oy8DGEQNnTg",
-      "title_fr": "Qu'est-ce que la base de la Lune ?",
-      "summary_fr": "Cet article est destiné aux étudiants. La NASA retourne les astronautes sur la Lune – et cette fois, ils passeront plus de temps sur la surface lunaire. La base de la Lune est le premier avant-poste lunaire. Ce sera un endroit où les astronautes vivent, travaillent et explorent.                                                                              Mots à connaître avant-poste: une station ou une base située dans [...]"
-    },
-    {
-      "title": "Thank You for Doing NASA Science!",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
-      "source": "NASA",
-      "summary": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, we’re deeply grateful for your help. Here are a few more messages of gratitude our scientists sent in to share with you.",
-      "published": "2026-11-18T17:32:52+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/QuestScienceCenter_OWWL_CitSci.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Merci de faire la science de la NASA!",
-      "summary_fr": "C'est le temps de l'Action de grâces, et nous vous remercions de faire la NASA Science avec nous ! Vous et les autres bénévoles de la NASA avez permis un banquet incroyable de découvertes – en prenant des données, en analysant des données, en écrivant du code, en écrivant des papiers et même en inventant vos propres projets scientifiques. Que vous soyez un participant expert ou quelqu'un qui vient de commencer votre voyage scientifique, nous sommes profondément reconnaissants de votre aide. Voici quelques autres messages de gratitude que nos scientifiques ont envoyés pour partager avec vous."
-    },
-    {
-      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-      "source": "NASA",
-      "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb Space Telescope that were carefully cross-referenced with extensive data from telescopes in space and on the ground. “Stellar mergers are very, very difficult to observe in real time because they are hard to predict,” said Viraj Karambelkar, the first author of a new paper in Nature published Wednesday and a NASA Hubble Fellow at",
-      "published": "2026-11-18T16:00:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/11/STScI-01M6GTRN4J7R6FEJ4AJXM567QT.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Clinches de données de la NASA Premier de son-Kind Stellar Fusion",
-      "summary_fr": "Les chercheurs ont récemment identifié une première du genre : une étoile légèrement moins massive que le Soleil s'est en spirale et s'est fusionnée avec une étoile supergiante gonflée à la périphérie de notre galaxie voisine d'Andromède. Ils surnommaient la toute nouvelle étoile, potentiellement \"rejuvenated\" Bao. Leur découverte financée par la NASA a ensuite été renforcée par des observations rapides du télescope spatial James Webb de la NASA, qui ont été soigneusement recoupées avec de nombreuses données provenant de télescopes spatiaux et terrestres. Les fusions stellaires sont très, très difficiles à observer en temps réel parce qu'elles sont difficiles à prévoir, a déclaré Viraj Karambelkar, le premier auteur d'un nouveau journal dans la nature publié mercredi et un boursier de la NASA Hubble à"
-    },
-    {
-      "title": "APOD: 2026 November 18 – A Medium-Sized Solar Flare",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/",
-      "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: What a flare for the chromatic ! Today’s image combines a series of images taken over ten minutes capturing the Sun ’s chromosphere , the layer of the Sun ’s atmosphere above its surface where the temperature rises . Why would the Sun become hotter farther away from its core ? This is potentially due to energy from the swirling magnetic fields extending up through the Sun’s atmosphere. Those same magnetic fields can twist and snap , releasing light and energetic particles as a solar flare . The H-alpha filter ",
-      "published": "2026-11-18T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/solar_M_flare.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 Le 18 novembre – Un rayonnement solaire de taille moyenne",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Quelle fusée pour la chromatique ! Aujourd'hui, l'image combine une série d'images prises sur dix minutes capturant la chromosphère du Soleil, la couche de l'atmosphère du Soleil au-dessus de sa surface où la température monte. Pourquoi le Soleil serait-il plus loin de son cœur ? Ceci est potentiellement dû à l'énergie des champs magnétiques tourbillonnants s'étendant dans l'atmosphère du Soleil. Ces mêmes champs magnétiques peuvent tourner et se casser, libérant la lumière et les particules énergétiques comme une éruption solaire. Le filtre H-alpha"
     },
     {
       "title": "Space Selfie",
@@ -688,16 +698,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55474999794-5b0f1a2c92-o.jpg",
       "title_fr": "Astronautes Anil Menon et Sophie Adenot sur Spacewalk",
       "summary_fr": "De gauche, l'Expedition 75, Anil Menon, de la NASA (partiellement obscurcie et portant la combinaison avec une bande rouge sur les jambes) et Sophie Adenot, de l'ESA (Agence spatiale européenne), travaillent ensemble pendant une promenade spatiale de six heures et 23 minutes à l'extérieur de la Station spatiale internationale."
-    },
-    {
-      "title": "NASA Astronaut Reid Wiseman at Freedom 250 Grand Prix",
-      "url": "https://www.nasa.gov/image-detail/freedom-250-grand-prix/",
-      "source": "NASA Images",
-      "summary": "NASA astronaut Reid Wiseman, Artemis II commander, is seen in the two-seat IndyCar as he prepares for driver Conor Daly to take him on a lap in the fastest seat in sport ahead of the start of the Freedom 250 Grand Prix, Sunday, Aug. 23, 2026, in Washington, D.C. Photo Credit: (NASA/Joel Kowsky)",
-      "published": "2026-08-24T17:35:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/55483612275-859663d405-o.jpg",
-      "title_fr": "L'astronaute Reid Wiseman de la NASA au Grand Prix Freedom 250",
-      "summary_fr": "L'astronaute de la NASA, Reid Wiseman, commandant d'Artemis II, est vu dans l'IndyCar à deux places alors qu'il se prépare pour le pilote Conor Daly à prendre un tour dans la plus rapide place du sport devant le départ du Grand Prix de la Liberté 250, dimanche 23 août 2026, à Washington, D.C. Crédit photo : (NASA/Joel Kowsky)"
     }
   ],
   "sources": [
