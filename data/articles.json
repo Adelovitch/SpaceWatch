@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-19T01:52:12.011606+00:00",
+  "updated_at": "2026-11-19T13:03:31.860168+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt . The instantly recognizable shape of a dark horse's head at the center is the aptly named Horsehead Nebula . It is about five light-years tall and lies approximately 1,500 light-years away. It is made of dust and gas that obscure the red glow behind it, which is caused by hydrogen gas being ",
+      "published": "2026-11-19T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Horsehead_Nebula_Killion.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 19 novembre – La tête de cheval et les nébuleuses de flamme",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : L'image d'aujourd'hui aurait pu être un tableau. Mais que signifient ces couleurs ? L'étoile la plus brillante, à gauche du centre, est l'Alnitak bleu (la Girde) : un système triple étoile surtout connu pour être l'étoile la plus orientale de la Ceinture d'Orion. La forme immédiatement reconnaissable de la tête d'un cheval noir au centre est la Nébuleuse à tête de cheval. Elle mesure environ cinq années-lumière et se trouve à environ 1 500 années-lumière. Il est fait de poussière et de gaz qui masquent la lueur rouge derrière lui, qui est causée par l'hydrogène gazeux étant"
+    },
+    {
+      "title": "El Niño Rains Paint the Atacama",
+      "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/",
+      "source": "NASA",
+      "summary": "Parts of the Atacama Desert in northern Chile, normally one of the driest places on Earth, turned red-purple, green, and white in austral spring 2026 following an unusually wet winter. The rain woke seeds lying dormant in the soil, setting off what scientists say may be the most extensive desierto florido , or “flowering desert,” of the satellite era. The rains came as El Niño was strengthening in the tropical Pacific. During an El Niño, the subtropical Pacific high that normally keeps the region dry weakens, while a blocking high tends to form in the South Pacific near the tip of South America. Together, these shifts push the Southern Hemisphere storm track equatorward.",
+      "published": "2026-11-19T05:00:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/el-niño-rains-paint-the-atacama/atacamabloom_oli2_20261024_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "El Niño Rains Peignez l'Atacama",
+      "summary_fr": "Des parties du désert d'Atacama dans le nord du Chili, normalement l'un des endroits les plus secs de la Terre, sont devenues rouge-violet, vert et blanc au printemps austral 2026 après un hiver exceptionnellement humide. La pluie a réveillé des graines dormantes dans le sol, en partant de ce que les scientifiques disent peut-être être le plus vaste desierto florido, ou le désert fleuri, de l'ère satellite. Les pluies sont venues alors qu'El Niño se renforçait dans le Pacifique tropical. Au cours d'un El Niño, le haut Pacifique subtropical qui maintient normalement la région sèche s'affaiblit, tandis qu'un haut blocage tend à se former dans le Pacifique Sud près de la pointe de l'Amérique du Sud. Ensemble, ces changements poussent l'équateur vers l'hémisphère Sud."
+    },
     {
       "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
       "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
@@ -90,26 +110,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/solar_M_flare.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "APOD: 2026 Le 18 novembre – Un rayonnement solaire de taille moyenne",
       "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Quelle fusée pour la chromatique ! Aujourd'hui, l'image combine une série d'images prises sur dix minutes capturant la chromosphère du Soleil, la couche de l'atmosphère du Soleil au-dessus de sa surface où la température monte. Pourquoi le Soleil serait-il plus loin de son cœur ? Ceci est potentiellement dû à l'énergie des champs magnétiques tourbillonnants s'étendant dans l'atmosphère du Soleil. Ces mêmes champs magnétiques peuvent tourner et se casser, libérant la lumière et les particules énergétiques comme une éruption solaire. Le filtre H-alpha"
-    },
-    {
-      "title": "Sierra Snow Season Spins Up",
-      "url": "https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/",
-      "source": "NASA",
-      "summary": "California’s Sierra Nevada got an early taste of wintry weather when one of the first major snowfalls of the water year arrived on November 13, 2026. A moisture-laden storm delivered heavy rains to lower elevations in the Sacramento area and snow accumulations of around a foot to some mountainous areas. The recent bout of wet weather was the first in a quick succession of Pacific storms bringing rain, snow, and wind to the U.S. West in mid-November. The MODIS (Moderate Resolution Imaging Spectroradiometer) on NASA’s Terra satellite captured this image (right) of fresh snow in the Sierra Nevada on the morning of November 14, during a lull between weather systems. Two days earlier (left), the ",
-      "published": "2026-11-18T05:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/sierra-snow-season-spins-up/sierranevada_tmo_20261114_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Sierra Snow La saison tourne vers le haut",
-      "summary_fr": "CaliforniaS Sierra Nevada a eu un goût précoce de la météo hivernale quand l'une des premières chutes de neige majeures de l'année de l'eau est arrivée le 13 Novembre 2026. Une tempête humide a provoqué de fortes pluies à des altitudes plus basses dans la région de Sacramento et des accumulations de neige d'environ un pied dans certaines régions montagneuses. La récente tempête de pluie a été la première d'une succession rapide de tempêtes du Pacifique qui ont amené la pluie, la neige et le vent aux États-Unis à la mi-novembre. Le MODIS (spectroradiomètre d'imagerie à résolution modérée) sur le satellite de la NASA de Terra a capturé cette image (à droite) de neige fraîche dans la Sierra Nevada le matin du 14 novembre, lors d'une accalmie entre les systèmes météorologiques. Deux jours plus tôt (à gauche),"
-    },
-    {
-      "title": "NASA Launches Nuclear Power Systems Student Contest",
-      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-      "source": "NASA",
-      "summary": "Students are also invited to write a short essay about a “superpower” of their own. Submissions are due March 1, 2027. Every mission requires a power source. Some of the most interesting locations to study on our Moon face some of the harshest conditions. Nuclear power could sustain human life and allow researchers to study the resource-rich environment despite freezing temperatures, long nights, and deep craters that never see sunlight.",
-      "published": "2026-11-17T22:02:48+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "La NASA lance un concours étudiant sur les systèmes d'énergie nucléaire",
-      "summary_fr": "Les étudiants sont également invités à écrire un court essai sur une superpuissance de leur propre. Les présentations doivent avoir lieu le 1er mars 2027. Chaque mission nécessite une source d'énergie. Certains des endroits les plus intéressants à étudier sur notre Lune font face à certaines des conditions les plus dures. L'énergie nucléaire pourrait soutenir la vie humaine et permettre aux chercheurs d'étudier l'environnement riche en ressources malgré les températures glaciales, les longues nuits et les cratères profonds qui ne voient jamais le soleil."
     },
     {
       "title": "Space Selfie",
