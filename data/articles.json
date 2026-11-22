@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-21T21:38:28.365408+00:00",
+  "updated_at": "2026-11-22T06:45:18.356246+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium , elements which are colorless at the low temperatures of the Jovian cloud tops . Which trace molecules provide the colors remains a topic of research , although small amounts of ammonium hydrosulfide are one leading candidate . What is clear from the featured color-enhanced image -- and many similar images -- is that lighter clouds are typically higher up than darker ones. Pictured, light",
+      "published": "2026-11-22T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 Novembre 22 – Plongées et couleurs sur Jupiter de Juno",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication: Qu'est-ce qui crée les couleurs dans les nuages de Jupiter? Personne n'est sûr. L'atmosphère épaisse de Jupiter est principalement de l'hydrogène et de l'hélium, éléments qui sont incolores aux basses températures des sommets nuageux de Jovian. Quelles molécules de trace fournissent les couleurs reste un sujet de recherche, bien que de petites quantités d'hydrosulfure d'ammonium sont un candidat de premier plan. Ce qui ressort clairement de l'image améliorée par les couleurs -- et de nombreuses images similaires --, c'est que les nuages plus légers sont généralement plus élevés que les nuages plus sombres. Photographié, léger"
+    },
     {
       "title": "APOD: 2026 November 21 – Voyager’s Neptune",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
@@ -110,16 +120,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
       "title_fr": "Lac Pelku",
       "summary_fr": "Le lac Pelku (près du centre), du côté chinois de l'Himalaya enneigé avec le Népal sur le côté adjacent, est représenté à partir de la Station Spatiale Internationale en orbite au-dessus de l'Asie."
-    },
-    {
-      "title": "Lake Pelku",
-      "url": "https://www.nasa.gov/image-article/lake-pelku/",
-      "source": "NASA",
-      "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]",
-      "published": "2026-11-19T15:32:39+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
-      "title_fr": "Lac Pelku",
-      "summary_fr": "Un astronaute de la Station spatiale internationale a capturé cette photographie du lac Pelku (près du centre) alors que la station était en orbite au-dessus de l'Asie. La Station spatiale internationale est une plate-forme unique pour observer la Terre avec du matériel manuel et automatisé. Les membres de l'équipe de la station ont produit des centaines de milliers d'images. Ces images enregistrent des phénomènes en réalité [...]"
     },
     {
       "title": "Empire State Building Goes Gold for Voyager",
