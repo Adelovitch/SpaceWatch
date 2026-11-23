@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-11-23T07:35:35.426549+00:00",
+  "updated_at": "2026-11-23T20:12:34.607626+00:00",
   "articles": [
+    {
+      "title": "Studying Cancer Cells in Microgravity",
+      "url": "https://www.nasa.gov/image-detail/jsc2026e426880/",
+      "source": "NASA Images",
+      "summary": "The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity.",
+      "published": "2026-11-23T17:29:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
+      "title_fr": "Étude des cellules cancéreuses dans la microgravité",
+      "summary_fr": "L'étude Encapsulate-1 étudie des échantillons de tumeurs provenant de patients à bord de la Station spatiale internationale pour mieux comprendre comment les cellules cancéreuses se déplacent et interagissent en microgravité."
+    },
+    {
+      "title": "Studying Cancer Cells in Microgravity",
+      "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
+      "source": "NASA",
+      "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient’s risk of metastasis and support more personalized cancer treatments. Orbiting more than 200 miles (320 km) above Earth, the space station is a powerhouse of cutting-edge science that is unlocking discoveries not possible on Earth.",
+      "published": "2026-11-23T17:28:37+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
+      "title_fr": "Étude des cellules cancéreuses dans la microgravité",
+      "summary_fr": "Cette image du 19 novembre 2026 montre des microtumores gastriques cultivés dans une biopuce encapsulée. L'étude Encapsulate-1 étudie des échantillons de tumeurs provenant de patients à bord de la Station spatiale internationale pour mieux comprendre comment les cellules cancéreuses se déplacent et interagissent en microgravité. Les résultats pourraient aider les chercheurs à développer d'autres tests pour prédire le risque de métastases d'un patient et soutenir des traitements de cancer plus personnalisés. Orbitant plus de 320 kilomètres au-dessus de la Terre, la station spatiale est une centrale de pointe scientifique qui débloque des découvertes impossibles sur Terre."
+    },
+    {
+      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+      "source": "NASA",
+      "summary": "Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 average U.S. households annually on Earth. For NASA’s plans for a Moon Base , that energy could support future habitats, communications systems, rovers, scientific instruments, and other essential infrastructure. NASA aims to have a launch-ready system by 2030 and operate it on the Moon for at least five years after deployment.",
+      "published": "2026-11-23T17:23:50+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg",
+      "title_fr": "La NASA cherche des partenaires pour concevoir le premier réacteur nucléaire pour la Lune",
+      "summary_fr": "Lunar Reactor-1 (LR-1) sera un petit système de fission qui générera 20 kilowatts d'électricité, assez pour alimenter environ 16 ménages américains moyens par année sur Terre. Pour la NASA, les plans pour une base lunaire , que l'énergie pourrait soutenir les habitats futurs, les systèmes de communication, les rovers, les instruments scientifiques et d'autres infrastructures essentielles. La NASA entend disposer d'un système prêt à être lancé d'ici 2030 et l'exploiter sur la Lune pendant au moins cinq ans après son déploiement."
+    },
+    {
+      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+      "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+      "source": "NASA",
+      "summary": "The documentary will air on NASA+ , the NASA app, and the agency’s website starting Monday, Nov. 23, and is coming soon to YouTube. It took decades of science, thousands of dedicated minds, endless creativity, and a whole lot of grit to get the Europa Clipper spacecraft to the launch pad in 2024. Now the orbiter, the largest NASA has ever sent into deep space, is two years into its five-year, 1.8 billion-mile (2.9 billion-kilometer) journey to the Jupiter system, where it will conduct flybys of Europa in search of the conditions for life in the vast ocean thought to hide beneath the moon’s icy surface.",
+      "published": "2026-11-23T16:08:23+00:00",
+      "image": "https://www.youtube.com/embed/224QFgY9PTM",
+      "title_fr": "NASA+ Captures documentaires Europa ClipperS Voyage dans l'espace profond",
+      "summary_fr": "Le documentaire sera diffusé sur NASA+ , l'application NASA et le site web de l'agence dès le lundi 23 novembre et sera bientôt sur YouTube. Il a fallu des décennies de science, des milliers d'esprits dévoués, une créativité sans fin, et beaucoup de grit pour amener le vaisseau spatial Europa Clipper à la rampe de lancement en 2024. Maintenant, l'orbiteur, la plus grande NASA jamais envoyée dans l'espace profond, est deux ans dans son voyage de cinq ans, 1,8 milliard de kilomètres (2,9 milliards de kilomètres) vers le système Jupiter, où il mènera des survols d'Europa à la recherche des conditions de vie dans le vaste océan pensé pour se cacher sous la surface glacée de la lune."
+    },
+    {
+      "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+      "source": "NASA",
+      "summary": "This high-resolution, mid-infrared observation from Webb reveals new details that are helping astronomers chronicle the structure and evolution of Cas A’s original star. The Webb data supports a scenario in which the interior of the star underwent a dramatic change, possibly just hours before its demise. These results published Monday in The Astrophysical Journal Letters . Stars begin their lives as large clouds of mostly hydrogen gas and cosmic dust called molecular clouds. Eventually, gravity causes these molecular clouds to collapse, the material heats up, and protostars — infant stars — form. Under the constant pressure of gravity, hydrogen within a protostar begins to fuse into helium, ",
+      "published": "2026-11-23T15:00:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Le Webb de la NASA montre comment Supernova Dust Chronicles Star Evolution",
+      "summary_fr": "Cette observation à haute résolution au milieu de l'infrarouge de Webb révèle de nouveaux détails qui aident les astronomes à chroniquer la structure et l'évolution de l'étoile originale de Cas A. Les données de Webb supportent un scénario dans lequel l'intérieur de l'étoile a subi un changement dramatique, peut-être quelques heures avant sa disparition. Ces résultats publiés lundi dans The Astrophysical Journal Letters . Les étoiles commencent leur vie comme de grands nuages d'hydrogène gazeux et de poussière cosmique appelés nuages moléculaires. Finalement, la gravité provoque l'effondrement de ces nuages moléculaires, la chaleur du matériau et la formation de protostars, des étoiles naissantes. Sous la pression constante de gravité, l'hydrogène dans un protostar commence à se fondre dans l'hélium,"
+    },
     {
       "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
@@ -27,7 +77,7 @@
       "source": "NASA",
       "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and systems for NASA’s next chapter: returning astronauts to the lunar surface and building the capabilities needed for a long-term human presence at the Moon. Across those missions, generations of flight controllers, engineers, scientists, instructors, medical specialists, and other experts have helped crews live and work beyond Earth",
       "published": "2026-11-22T19:13:25+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426920.jpg",
+      "image": "https://www.youtube.com/embed/3Aas00le5M4",
       "title_fr": "65 ans de vol spatial humain à la NASA Johnson",
       "summary_fr": "Depuis 65 ans, le Centre spatial Johnson de la NASA à Houston a contribué à façonner le vol spatial humain, des missions Gemini qui ont démontré les techniques de rendez-vous et d'amarrage nécessaires pour Apollo aux recherches menées à bord de la Station spatiale internationale, qui soutient une présence humaine continue depuis plus de 26 ans. Aujourd'hui, les équipes Johnson préparent des équipages et des systèmes pour le chapitre suivant de la NASA : retour des astronautes à la surface lunaire et renforcement des capacités nécessaires pour une présence humaine à long terme sur la Lune. Au cours de ces missions, des générations de contrôleurs de vol, d'ingénieurs, de scientifiques, d'instructeurs, de spécialistes médicaux et d'autres experts ont aidé les équipages à vivre et à travailler au-delà de la Terre."
     },
@@ -62,44 +112,592 @@
       "summary_fr": "Curiosité Mars a capturé ces nuages dérivants le 31 octobre 2026, le 5 061e jour martien de la mission. Le rover utilise ses caméras de navigation pour capturer les nuages post-sunset, appelés nuages crépusculaires, qui apparaissent pendant seulement une courte période chaque automne sur Gale Crater, qu'il explore depuis plus de 14 ans. Curiosity a été construit par le laboratoire Jet Propulsion de la NASA, qui est géré par Caltech à Pasadena, Californie. JPL dirige la mission au nom de la Direction des missions scientifiques de la NASA à Washington dans le cadre du portefeuille du programme d'exploration Mars de la NASA."
     },
     {
-      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-      "source": "NASA",
-      "summary": "NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed funding. This early-stage research and development work will tackle an array of topics, including those related to Artemis and the establishment of a U.S. Moon Base . Selected projects include next-generation battery solutions, robotic systems with sensing capabilities for the extreme lunar environment, and tools to prepare for construction of critical infrastructure, such as lunar landing pads.",
-      "published": "2026-11-20T20:46:14+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/elementium-illustration.png",
-      "title_fr": "Nouveau financement de démarrage de la NASA prime les petites entreprises pour l'innovation",
-      "summary_fr": "La NASA a récemment sélectionné 302 projets innovateurs, pour un investissement total de 171 millions de dollars en financement de démarrage. Ce travail de recherche et développement en début de phase abordera un éventail de sujets, y compris ceux liés à Artemis et la création d'une base lune américaine. Parmi les projets retenus, mentionnons des solutions de batterie de nouvelle génération, des systèmes robotiques dotés de capacités de détection pour l'environnement lunaire extrême et des outils pour se préparer à la construction d'infrastructures essentielles, comme des plates-formes d'atterrissage lunaires."
+      "title": "NASA's Curiosity Mars Rover Collects Samples",
+      "url": "https://www.nasa.gov/image-detail/pia26804/",
+      "source": "NASA Images",
+      "summary": "This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026.",
+      "published": "2026-11-20T15:54:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/pia26804.jpg",
+      "title_fr": "La curiosité Mars Rover de la NASA recueille des échantillons",
+      "summary_fr": "Ce collage montre 49 trous de forage capturés par le rover de Curiosity Mars de la NASA en novembre 2026."
     },
     {
-      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-      "url": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-      "source": "NASA",
-      "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis program manager responsible for management and oversight of NASA’s initiative to return […]",
-      "published": "2026-11-20T16:27:46+00:00",
-      "image": "",
-      "title_fr": "Cérémonie de remise des distinctions honorifiques de la NASA",
-      "summary_fr": "Les employés qui ont contribué à la mission de la NASA à l'agence Stennis Space Center près de Bay St. Louis, Mississippi, ont été reconnus lors de la cérémonie des Prix d'honneur du centre, le 18 novembre. Christine Powell, directrice du centre de Stennis de la NASA, et Jeremy Parsons, l'agence Artemis responsable de la gestion et de la surveillance de l'initiative de la NASA pour [...]"
+      "title": "Lake Pelku",
+      "url": "https://www.nasa.gov/image-detail/iss075e0267074/",
+      "source": "NASA Images",
+      "summary": "Lake Pelku (near center), on the Chinese side of the snow-capped Himalayas with Nepal on the adjacent side, is pictured from the International Space Station as it orbited above Asia.",
+      "published": "2026-11-19T15:33:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg",
+      "title_fr": "Lac Pelku",
+      "summary_fr": "Le lac Pelku (près du centre), du côté chinois de l'Himalaya enneigé avec le Népal sur le côté adjacent, est représenté à partir de la Station Spatiale Internationale en orbite au-dessus de l'Asie."
     },
     {
-      "title": "NASA’s Curiosity Mars Rover Collects Samples",
-      "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
-      "source": "NASA",
-      "summary": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that analyze their composition. Learn more […]",
-      "published": "2026-11-20T15:53:24+00:00",
-      "image": "",
-      "title_fr": "Curiosité Mars Rover collecte des échantillons",
-      "summary_fr": "Ce collage du 16 novembre montre 49 trous de forage capturés par le rover de Curiosity Mars de la NASA en novembre 2026. Chaque trou représente un échantillon prélevé à partir de roches sur la surface martienne; Curiosity, situé à l'extrémité de son bras robotique, dépose des échantillons de roches pulvérisées dans son ventre qui analysent leur composition. En savoir plus [...]"
+      "title": "Empire State Building Goes Gold for Voyager",
+      "url": "https://www.nasa.gov/image-detail/nasas-voyager-1-spacecraft-light-day/",
+      "source": "NASA Images",
+      "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA's Voyager 1 spacecraft as it is about to pass one light-day away from Earth, a distance reached by no other human-made object, Tuesday, Nov. 17, 2026, in New York City.",
+      "published": "2026-11-18T17:52:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg",
+      "title_fr": "L'Empire State Building est en or pour Voyager",
+      "summary_fr": "L'Empire State Building est vu illuminé en or pour célébrer l'engin spatial Voyager 1 de la NASA car il est sur le point de passer un jour-lumière de la Terre, une distance atteinte par aucun autre objet de fabrication humaine, mardi 17 novembre 2026, à New York."
     },
     {
-      "title": "APOD: 2026 November 20 – V-G-R",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
-      "source": "NASA",
-      "summary": "Explanation: On November 17, fans of interstellar spaceflight around planet Earth were invited to shine a message into the night sky. Traced by a flashlight beam switched on and off, the dashes and dots of a Morse code message captured in this time exposure from the Emirates Astronomical Observatory are read V-G-R. That's a call sign for the Voyager 1 spacecraft currently in interstellar space some 26 billion kilometers away. How long did it take the message to reach humanity's most distant interstellar spacecraft ? Traveling at the speed of light, the answer is one day . In fact, the Voyager 1 spacecraft was confirmed to reach its one light-day distance milestone on November 18, at 10:16:07",
-      "published": "2026-11-20T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 le 20 novembre – V-G-R",
-      "summary_fr": "Explication: Le 17 novembre, les amateurs de vol spatial interstellaire autour de la planète Terre ont été invités à faire briller un message dans le ciel nocturne. Tracés par une lampe de poche allumée et éteinte, les tirets et les points d'un message de code Morse capturés cette fois-ci par l'Observatoire astronomique Emirates sont lus V-G-R. C'est un panneau d'appel pour le vaisseau Voyager 1 actuellement dans l'espace interstellaire à quelque 26 milliards de kilomètres. Combien de temps a-t-il fallu pour atteindre le vaisseau spatial interstellaire le plus lointain de l'humanité ? Voyageant à la vitesse de la lumière, la réponse est un jour . En fait, l'engin spatial Voyager 1 a été confirmé pour atteindre son objectif de distance-lumière le 18 novembre, à 10:16:07"
+      "title": "Space Selfie",
+      "url": "https://www.nasa.gov/image-detail/iss075e0253155/",
+      "source": "NASA Images",
+      "summary": "NASA astronaut and Expedition 75 flight engineer Anil Menon takes an out-of-this-world “space selfie.”",
+      "published": "2026-11-17T16:52:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253155orig.jpg",
+      "title_fr": "Espace Selfie",
+      "summary_fr": "Anil Menon, astronaute de la NASA et ingénieur de vol de l'Expédition 75, prend un selfie spatial hors de ce monde."
+    },
+    {
+      "title": "Thunderbirds in Formation",
+      "url": "https://www.nasa.gov/image-detail/11072026-ksc-max-power-airdotshow-2orig/",
+      "source": "NASA Images",
+      "summary": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida.",
+      "published": "2026-11-16T18:35:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/11072026-ksc-max-power-airdotshow-2orig.jpg",
+      "title_fr": "Les Thunderbirds en formation",
+      "summary_fr": "Les avions de chasse Thunderbirds de la Force aérienne américaine passent au-dessus de l'agence MAX POWER expo et spectacle aérien le samedi 7 novembre 2026, au centre spatial Kennedy de la NASA en Floride."
+    },
+    {
+      "title": "Outbursts from a Massive Star",
+      "url": "https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/",
+      "source": "NASA Images",
+      "summary": "Using Chandra, astronomers have discovered a previously hidden black hole or neutron star companion that is triggering repeated outbursts from a giant, unstable star.",
+      "published": "2026-11-13T16:41:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg",
+      "title_fr": "Des explosions d'une étoile massive",
+      "summary_fr": "À l'aide de Chandra, les astronomes ont découvert un trou noir ou un compagnon d'étoiles à neutrons qui déclenche des explosions répétées d'une étoile géante et instable."
+    },
+    {
+      "title": "Heart in the Sky at NASA Kennedy",
+      "url": "https://www.nasa.gov/image-detail/55640210122-dae9d5e6b9-o/",
+      "source": "NASA Images",
+      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida.",
+      "published": "2026-11-12T19:14:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/55640210122-dae9d5e6b9-o.jpg",
+      "title_fr": "Le cœur dans le ciel à la NASA Kennedy",
+      "summary_fr": "Les Thunderbirds de l'armée de l'air américaine créent un sentier de fumée en forme de cœur lors d'une manœuvre de vol près du bâtiment d'assemblage de véhicules de NASA pendant l'exposition de l'agence MAX POWER et le spectacle aérien le dimanche 8 novembre 2026, au centre spatial Kennedy de NASA en Floride."
+    },
+    {
+      "title": "CHAPEA Crew Leaves a Mark",
+      "url": "https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print/",
+      "source": "NASA Images",
+      "summary": "Photos of the CHAPEA Mission 2 crew are arranged around a boot print in the simulated Martian sand outside their habitat.",
+      "published": "2026-11-10T15:39:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg",
+      "title_fr": "L'équipage de CHAPEA laisse une marque",
+      "summary_fr": "Des photos de l'équipage de la mission 2 de CHAPEA sont disposées autour d'une empreinte de bottes dans le sable martien simulé à l'extérieur de leur habitat."
+    },
+    {
+      "title": "Astronauts Across Generations Share the Stage",
+      "url": "https://www.nasa.gov/image-detail/20261106-artemiscelebrationgala-sl1-4202/",
+      "source": "NASA Images",
+      "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA's Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA's MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency's Artemis II mission, marking a historic milestone in America's return to deep space exploration. As one of the signature events concluding the nation's 250th anniversary celebration, the gala commemorated the achievements of Artemis II while looking ahead to humanity's return to the lunar surface through the Artemis campaign.",
+      "published": "2026-11-09T16:57:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/20261106-artemiscelebrationgala-sl1-4202.jpg",
+      "title_fr": "Astronautes au cours des générations Partager l'étape",
+      "summary_fr": "Le 6 novembre 2026, Purpose Entertainment a accueilli le Gala de célébration Artemis au complexe d'accueil Kennedy Space Center de la NASA à Merritt Island, en Floride. Organisé à la veille de l'événement MAX POWER de la NASA, le gala a célébré les explorateurs, les innovateurs et les visionnaires qui ont fait avancer la prochaine ère du vol spatial humain. L'événement a honoré la réussite de la mission Artemis II de l'agence, marquant une étape historique dans le retour de l'Amérique à l'exploration spatiale profonde. Comme l'un des événements marquants qui ont marqué le 250e anniversaire de la nation, le gala a commémoré les réalisations d'Artémis II tout en envisageant le retour de l'humanité à la surface lunaire par la campagne Artémis."
+    },
+    {
+      "title": "M30's Sparkling Stars",
+      "url": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/",
+      "source": "NASA Images",
+      "summary": "This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.",
+      "published": "2026-11-06T16:28:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg",
+      "summary_fr": "Cette image du télescope spatial Hubble de la NASA/ESA présente l'amas globulaire appelé Messier 30 (M30), également appelé NGC 7099."
+    },
+    {
+      "title": "Midwestern City Lights",
+      "url": "https://www.nasa.gov/image-detail/iss075e0227352/",
+      "source": "NASA Images",
+      "summary": "City lights from the midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise.",
+      "published": "2026-11-05T15:23:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg",
+      "title_fr": "Lumières de la ville du Midwest",
+      "summary_fr": "Les lumières de la ville du centre-ouest des États-Unis à la côte est brillent à travers le paysage quelques heures avant le lever du soleil."
+    },
+    {
+      "title": "Hubble Reveals Cosmic Mystery",
+      "url": "https://www.nasa.gov/image-detail/full-res-for-display-1-3/",
+      "source": "NASA Images",
+      "summary": "This is an image from NASA’s Hubble Space Telescope of NGC 4449, one of the dwarf galaxies in the Galaxies Losing Oxygen via Winds (GLOW) study. Researchers found that dwarf galaxies can hold onto only a small fraction of the oxygen made by their stars.",
+      "published": "2026-11-04T16:07:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png",
+      "title_fr": "Hubble dévoile le mystère cosmique",
+      "summary_fr": "C'est une image du télescope spatial Hubble de la NASA de NGC 4449, l'une des galaxies naines de l'étude Galaxies Perdre de l'oxygène par le vent (GLOW). Les chercheurs ont découvert que les galaxies naines ne peuvent contenir qu'une petite fraction de l'oxygène produit par leurs étoiles."
+    },
+    {
+      "title": "Astronaut and Earth",
+      "url": "https://www.nasa.gov/image-detail/iss075e0253663/",
+      "source": "NASA Images",
+      "summary": "CSA (Canadian Space Agency) astronaut and Expedition 75 flight engineer Joshua Kutryk is pictured during a spacewalk with his spacesuit's helmet visor down to install a new roll-out solar array on the International Space Station's port side truss structure.",
+      "published": "2026-11-03T16:38:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0253663orig.jpg",
+      "title_fr": "Astronaute et Terre",
+      "summary_fr": "L'astronaute de l'ASC (Agence spatiale canadienne) et l'ingénieur en vol de l'Expédition 75 Joshua Kutryk est photographié lors d'une sortie dans l'espace avec la visière de casque de sa combinaison pour installer un nouveau réseau solaire de déploiement sur la structure de la structure de la structure de la structure côté bâbord de la Station spatiale internationale."
+    },
+    {
+      "title": "NASA's CHAPEA Crew \"Returns\" to Earth",
+      "url": "https://www.nasa.gov/image-detail/chapea-mission-2-crew-poses-outdoors-after-exiting-habitat/",
+      "source": "NASA Images",
+      "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026.",
+      "published": "2026-11-02T18:51:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
+      "title_fr": "L'équipage de CHAPEA de la NASA « retourne sur Terre »",
+      "summary_fr": "L'équipage de quatre membres de l'équipe d'Exploration analogique de la santé et de la performance (CHAPEA) se pose à l'extérieur pour la première fois depuis plus d'un an après la fin de leur voyage simulé sur Mars le 31 octobre 2026."
+    },
+    {
+      "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head",
+      "url": "https://www.nasa.gov/image-detail/full-res-for-display-6/",
+      "source": "NASA Images",
+      "summary": "NASA’s James Webb Space Telescope’s mid-infrared view reveals intricate structures within the Cat's Head Nebula, traced by the emission from warm dust and carbon-based molecules excited by starlight.",
+      "published": "2026-10-30T15:57:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png",
+      "title_fr": "James Webb Space Telescope Captures Eerie Cat's Head de la NASA",
+      "summary_fr": "Le télescope spatial James Webb de la NASA révèle des structures complexes à l'intérieur de la nébuleuse principale de Cat, tracées par l'émission de poussières chaudes et de molécules à base de carbone excitées par la lumière des étoiles."
+    },
+    {
+      "title": "NASA's Hubble Marks Way for Roman Space Telescope",
+      "url": "https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/",
+      "source": "NASA Images",
+      "summary": "A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.",
+      "published": "2026-10-29T15:02:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg",
+      "title_fr": "Hubble Marks Way de la NASA pour le télescope spatial romain",
+      "summary_fr": "Une galaxie spirale sinueuse (centre) apparaît dans le même champ de vision qu'une lentille gravitationnelle vive (angle droit) dans cette image Hubble."
+    },
+    {
+      "title": "Webb Sees Turbulent Star Nursery",
+      "url": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/",
+      "source": "NASA Images",
+      "summary": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas.",
+      "published": "2026-10-28T15:35:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg",
+      "title_fr": "Webb voit la pépinière Star Turbulent",
+      "summary_fr": "Dans cette photo du mois du télescope spatial NASA/ESA James Webb, nous visitons un chaudron turbulent de formation d'étoiles pour voir ce qui brasse à l'intérieur de touffes denses de gaz."
+    },
+    {
+      "title": "NASA's Neo Surveyor Sunshade",
+      "url": "https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/",
+      "source": "NASA Images",
+      "summary": "The large sunshade of NASA’s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.",
+      "published": "2026-10-27T18:02:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg",
+      "title_fr": "Neo Surveyor Sunshade de la NASA",
+      "summary_fr": "Le grand pare-soleil de la mission d'arpenteur d'objets géocroiseurs de la NASA est inspecté par un technicien de BAE Systems Space & Mission Systems à Boulder, Colorado, fin juillet."
+    },
+    {
+      "title": "NASA's X-59 Aircraft and Test Pilot",
+      "url": "https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/",
+      "source": "NASA Images",
+      "summary": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency's X-59 quiet supersonic research aircraft on Oct. 21, 2026.",
+      "published": "2026-10-26T15:29:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg",
+      "title_fr": "Le pilote d'avion et d'essai X-59 de la NASA",
+      "summary_fr": "Le pilote d'essai de la NASA, Mike Lippert, pose pour une photo avant sa première prise de vol de l'avion de recherche supersonique X-59 de l'agence le 21 octobre 2026."
+    },
+    {
+      "title": "RS-25 Engine Tests at NASA Stennis",
+      "url": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/",
+      "source": "NASA Images",
+      "summary": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.",
+      "published": "2026-10-23T18:59:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg",
+      "title_fr": "RS-25 Essais de moteur à la NASA Stennis",
+      "summary_fr": "Les équipes du Centre spatial de Stennis près de Bay St. Louis, Mississippi, ont testé le moteur RS-25 no 10001 le 21 octobre 2026."
+    },
+    {
+      "title": "Spiral's Edge",
+      "url": "https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/",
+      "source": "NASA Images",
+      "summary": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+      "published": "2026-10-22T21:36:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg",
+      "title_fr": "Bord de la spirale",
+      "summary_fr": "Cette image du télescope spatial Hubble de la NASA présente la galaxie en spirale intermédiaire NGC 1827, située à environ 37 millions d'années-lumière dans la constellation Columba, la colombe."
+    },
+    {
+      "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
+      "url": "https://www.nasa.gov/image-detail/iss075e0190239/",
+      "source": "NASA Images",
+      "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module's Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture.",
+      "published": "2026-10-21T15:07:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg",
+      "title_fr": "Science sur la station spatiale avec l'astronaute de la NASA Jessica Watkins",
+      "summary_fr": "L'astronaute de la NASA et l'ingénieur en vol de l'Expedition 75 Jessica Watkins travaillent à l'intérieur de la Life Science Glovebox du module de laboratoire Kibo, mélangeant en toute sécurité des échantillons de cellules vivantes avec un bioink et remplissant ensuite une cartouche spéciale avec le mélange d'encre cellulaire."
+    },
+    {
+      "title": "Webb Captures Stellar Jets",
+      "url": "https://www.nasa.gov/image-detail/55572978759-545472774e-o/",
+      "source": "NASA Images",
+      "summary": "NASA’s James Webb Space Telescope has revealed many protostars and stars within the glowing gases of NGC 7129. Hot, atomic hydrogen gas is shown here in the golden region, while cooler, molecular hydrogen gas, shocked by embedded protostars, is represented in red.",
+      "published": "2026-10-20T14:45:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png",
+      "summary_fr": "Le télescope spatial James Webb de la NASA a révélé de nombreux protostars et étoiles dans les gaz lumineux du NGC 7129. Le gaz d'hydrogène atomique chaud est montré ici dans la région d'or, tandis que le gaz d'hydrogène moléculaire plus frais, choqué par des protostars embarqués, est représenté en rouge."
+    },
+    {
+      "title": "Martian Dawn",
+      "url": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/",
+      "source": "NASA Images",
+      "summary": "The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA’s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.",
+      "published": "2026-10-19T16:05:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp",
+      "title_fr": "Aube martienne",
+      "summary_fr": "Les formes captivantes des rochers sculptés par le vent appelés yardangs sont révélées dans cette récolte zoomée d'un panorama plus large capturé par le rover de Curiosité Mars de la NASA. Les scientifiques sont impatients d'en savoir plus sur la formation de la couche de yardang."
+    },
+    {
+      "title": "Artemis II Heat Shield After Splashdown",
+      "url": "https://www.nasa.gov/image-detail/afs-8-101-1320/",
+      "source": "NASA Images",
+      "summary": "Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield.",
+      "published": "2026-10-16T16:33:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg",
+      "title_fr": "Bouclier thermique Artemis II après l'éclatement",
+      "summary_fr": "Peu de temps après les éclaboussures d'Artemis II le 10 avril 2026, des plongeurs de la marine américaine ont capturé des images sous-marines du bouclier thermique du vaisseau spatial Orion."
+    },
+    {
+      "title": "Chandra Finds Possible Origin of 'Treble Clef' Waves",
+      "url": "https://www.nasa.gov/image-detail/shape-3601-3601/",
+      "source": "NASA Images",
+      "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol.",
+      "published": "2026-10-15T14:20:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg",
+      "title_fr": "Chandra trouve l'origine possible des vagues 'Treble Clef'",
+      "summary_fr": "Les astronomes ont utilisé l'observatoire des rayons X Chandra de la NASA pour briser la cause d'une formation remarquable d'ondes radio qu'ils ont surnommé le \"Treble Clef\" parce que sa forme distincte ressemble fortement au symbole musical."
+    },
+    {
+      "title": "NASA’s SpaceX CRS-35 Launch Jellyfish",
+      "url": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/",
+      "source": "NASA Images",
+      "summary": "The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft are seen illuminated by sunlight against the predawn sky during the launch of NASA’s SpaceX CRS-35 mission, Tuesday, Oct. 13, 2026, as seen from Cocoa Beach, Florida. The light makes the plumes look like a jellyfish in the sky.",
+      "published": "2026-10-14T15:19:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq20261013-admin-0005orig.jpg",
+      "title_fr": "SpaceX CRS-35 lance la Jellyfish",
+      "summary_fr": "Les panaches d'échappement d'une fusée SpaceX Falcon 9 transportant l'entreprise sont vus illuminés par la lumière du soleil contre le ciel prédateur lors du lancement de la mission SpaceX CRS-35 de NASA, mardi 13 octobre 2026, comme vu de Cocoa Beach, Floride. La lumière fait que les panaches ressemblent à une méduse dans le ciel."
+    },
+    {
+      "title": "Transporter-18 SmallSats Encapsulation",
+      "url": "https://www.nasa.gov/image-detail/afs-8-101-1315/",
+      "source": "NASA Images",
+      "summary": "Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company’s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.",
+      "published": "2026-10-13T17:52:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261001-ph-spx01-0001orig.jpg",
+      "title_fr": "Transporteur-18 SmallSats Encapsulation",
+      "summary_fr": "Trois petits vaisseaux spatiaux soutenus par la NASA, montrés avec de nombreuses charges utiles commerciales, avant d'être encapsulés dans un Faucon SpaceX 9. La fusée a lancé les charges utiles sur orbite terrestre basse à 11 h 32 HAP jeudi 1er octobre 2026, dans le cadre de la mission Transporter-18 de la compagnie du complexe de lancement spatial 4 Est à la base de Vandenberg en Californie."
+    },
+    {
+      "title": "Cosmic House of Mirrors",
+      "url": "https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/",
+      "source": "NASA Images",
+      "summary": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they’ve stepped into a house of mirrors.",
+      "published": "2026-10-09T14:28:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg",
+      "title_fr": "Maison cosmique des miroirs",
+      "summary_fr": "Cette image du télescope spatial James Webb de la NASA/ESA/CSA présente des galaxies dans des détails incroyables qui ont été déformées et multipliées comme elles ont pénétré dans une maison de miroirs."
+    },
+    {
+      "title": "Crew-12 Returns to Earth",
+      "url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/",
+      "source": "NASA Images",
+      "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.",
+      "published": "2026-10-08T18:53:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg",
+      "title_fr": "Crew-12 revient sur Terre",
+      "summary_fr": "Le vaisseau spatial SpaceX Crew Dragon Freedom est vu comme il atterrit avec les astronautes de la NASA Jessica Meir et Jack Hathaway, l'astronaute de l'ESA (Agence spatiale européenne) Sophie Adenot, et le cosmonaute Roscosmos Andrey Fedyaev à bord dans l'océan Pacifique au large de Los Angeles, Californie, jeudi 8 octobre 2026."
+    },
+    {
+      "title": "Artemis II Crew Moon Photo Annotations",
+      "url": "https://www.nasa.gov/image-detail/fd07_impact-flashes/",
+      "source": "NASA Images",
+      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member's tablet.",
+      "published": "2026-10-07T15:46:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg",
+      "title_fr": "Artemis II Annotations photo de lune de l'équipage",
+      "summary_fr": "Une visualisation d'une lune sombre éclipsant le Soleil est marquée de notes manuscrites dans ce 6 avril 2026, screenshot d'une tablette d'équipage Artemis II."
+    },
+    {
+      "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+      "url": "https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/",
+      "source": "NASA Images",
+      "summary": "This artist’s concept depicts a possible explanation for the unusual chemical abundances NASA’s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.",
+      "published": "2026-10-06T16:17:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/stsci-01m3cbk3t6srkp4q7wv9cgfgw9.jpg",
+      "title_fr": "Les astronomes résolvent le cas du froid cosmique avec les données Hubble de la NASA",
+      "summary_fr": "Ce concept d'artiste décrit une explication possible de l'abondance chimique inhabituelle NASA.Le télescope spatial Hubble détecté dans le système HS 0209+0832 : une planète de deuxième génération autour de l'étoile naine blanche."
+    },
+    {
+      "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
+      "url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/",
+      "source": "NASA Images",
+      "summary": "NASA astronaut and mission specialist of the agency's Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.",
+      "published": "2026-10-05T17:45:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nhq202610040010orig.jpg",
+      "title_fr": "L'astronaute de la NASA Christina Koch à Eagles vs Rams",
+      "summary_fr": "L'astronaute de la NASA et spécialiste de mission de la mission Artemis II de l'agence, Christina Koch, a dirigé les fans en chantant la chanson de combat Eagles du terrain lors d'un match NFL entre les Eagles de Philadelphie et les Rams de Los Angeles au Lincoln Financial Field le dimanche 4 octobre 2026, à Philadelphie."
+    },
+    {
+      "title": "NASA's DAVINCI Probe Can Stand the Heat",
+      "url": "https://www.nasa.gov/image-detail/davinci-heat-test-1/",
+      "source": "NASA Images",
+      "summary": "An engineering model of NASA’s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) descent probe passed a key test that ran from Aug. 28 to Sept. 10, showing it can survive the extreme temperatures of Venus.",
+      "published": "2026-10-02T19:04:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/davinci-heat-test-1.jpg",
+      "title_fr": "La sonde DAVINCI de la NASA peut supporter la chaleur",
+      "summary_fr": "Un modèle d'ingénierie de la sonde de descente DAVINCI (Dep Atmosphere Venus Investigation of Noble Gas, Chemistry, and Imaging) de la NASA a passé un test clé qui s'est déroulé du 28 août au 10 septembre, montrant qu'il peut survivre aux températures extrêmes de Vénus."
+    },
+    {
+      "title": "NASA’s SpaceX Crew-13 Launches",
+      "url": "https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/",
+      "source": "NASA Images",
+      "summary": "A SpaceX Falcon 9 rocket carrying the company's Dragon spacecraft is launched on NASA’s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.",
+      "published": "2026-10-01T18:07:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55563235995-2bae0fafbc-o.jpg",
+      "title_fr": "SpaceX Crew-13 lance",
+      "summary_fr": "Une fusée SpaceX Falcon 9 transportant l'engin spatial Dragon de la compagnie est lancée sur la mission SpaceX Crew-13 de la NASA à la Station spatiale internationale avec les astronautes Jessica Watkins et Luke Delaney, l'astronaute de l'ASC (Agence spatiale canadienne) Joshua Kutryk, et le cosmonaute Roscosmos Sergey Teteryatnikov à bord, jeudi 1er octobre 2026, de la station de la Force spatiale Cap Canaveral en Floride."
+    },
+    {
+      "title": "Star Trails",
+      "url": "https://www.nasa.gov/image-detail/iss075e0144232/",
+      "source": "NASA Images",
+      "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.",
+      "published": "2026-09-30T17:51:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg",
+      "title_fr": "Sentiers d'étoiles",
+      "summary_fr": "Cette image de longue durée montre les traces d'étoiles au-dessus de la Terre et les lumières bleues des bateaux de pêche et les lumières jaunes des villes indonésiennes s'étendant sous la Station Spatiale Internationale alors qu'elle était à 258 milles au-dessus de la mer de Banda."
+    },
+    {
+      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
+      "url": "https://www.nasa.gov/image-detail/afs-8-101-1312/",
+      "source": "NASA Images",
+      "summary": "Ahead of launch of NASA’s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.",
+      "published": "2026-09-29T15:33:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg",
+      "title_fr": "Crew-13 Rocket et Spacecraft au lanceur Pad",
+      "summary_fr": "Avant le lancement de la mission SpaceX Crew-13 de la NASA, une fusée SpaceX Falcon 9, avec le vaisseau spatial Dragon au sommet, est verticale au point de lancement du complexe de lancement spatial 40 à Cap Canaveral, en Floride, le dimanche 27 septembre 2026."
+    },
+    {
+      "title": "Space Station View of Earth at Night",
+      "url": "https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/",
+      "source": "NASA Images",
+      "summary": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time from the International Space Station as it orbited 259 miles above Earth.",
+      "published": "2026-09-28T15:22:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55534901810-95d2f06788-o.jpg",
+      "title_fr": "Vue de la Terre de nuit sur la station spatiale",
+      "summary_fr": "Cette vue nocturne des États-Unis, parsemée de lumières de ville tournées vers New York (centre), a été prise vers 3 h 40 heure locale de la Station spatiale internationale alors qu'elle était en orbite à 259 milles au-dessus de la Terre."
+    },
+    {
+      "title": "Hubble Spots Chaotic Secret in Galaxy",
+      "url": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/",
+      "source": "NASA Images",
+      "summary": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
+      "published": "2026-09-25T15:54:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg",
+      "title_fr": "Hubble Spots Chaotique Secret dans Galaxy",
+      "summary_fr": "Bien que la galaxie spirale dans cette image ESA/Hubble du mois semble sereine, elle cache un secret chaotique."
+    },
+    {
+      "title": "Practicing for Safe Landings on the Moon and Beyond",
+      "url": "https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/",
+      "source": "NASA Images",
+      "summary": "An Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California, on Thursday, Aug. 27, 2026.",
+      "published": "2026-09-24T16:36:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/afrc2026-0179-18orig.jpg",
+      "title_fr": "Pratiquer pour des atterrissages sûrs sur la Lune et au-delà",
+      "summary_fr": "Un drone Alta-X pilote un système avancé de guidage et de navigation connu sous le nom d'expérience Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) près de NASA."
+    },
+    {
+      "title": "NASA's Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+      "url": "https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/",
+      "source": "NASA Images",
+      "summary": "An image from NASA's Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.",
+      "published": "2026-09-23T18:45:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg",
+      "title_fr": "Le télescope Hubble de la NASA atteint Milestone, cherche une supernova insaisissable",
+      "summary_fr": "Une image du télescope spatial Hubble de la NASA du groupe de galaxies MACS J0417 fait partie d'observations répétées pour surveiller la réapparition de la supernova Athena, qui peut aider les astronomes à mesurer le taux d'expansion de l'univers."
+    },
+    {
+      "title": "NASA's Chandra Finds Unusual Objects in Pinwheel Galaxy",
+      "url": "https://www.nasa.gov/image-detail/m101-lg/",
+      "source": "NASA Images",
+      "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
+      "published": "2026-09-22T15:44:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/m101-lg.jpg",
+      "title_fr": "Chandra de la NASA trouve des objets inhabituels dans Pinwheel Galaxy",
+      "summary_fr": "À l'aide de l'Observatoire des rayons X Chandra de la NASA, les scientifiques ont découvert une nouvelle classe d'objets qui se comportent différemment de ceux qu'ils ont vus auparavant."
+    },
+    {
+      "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
+      "url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-mt-bank-stadium/",
+      "source": "NASA Images",
+      "summary": "NASA astronaut and commander of the agency’s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore.",
+      "published": "2026-09-21T18:46:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55540215826-eb77fe7409-o.jpg",
+      "title_fr": "L'astronaute Reid Wiseman assiste à Ravens contre Saints Game",
+      "summary_fr": "L'astronaute de la NASA et commandant de la mission Artemis II, Reid Wiseman, originaire de Baltimore, prend un selfie avec des fans lors d'un match NFL entre les Saints de la Nouvelle-Orléans et les Ravens de Baltimore au stade M&T Bank, dimanche 20 septembre 2026, à Baltimore."
+    },
+    {
+      "title": "COSI Telescope Comes Together",
+      "url": "https://www.nasa.gov/image-detail/cosi-2026july-01/",
+      "source": "NASA Images",
+      "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
+      "published": "2026-09-18T15:46:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg",
+      "title_fr": "Le télescope COSI se réunit",
+      "summary_fr": "Les ingénieurs et gestionnaires de l'UC Berkeley observent que l'assemblage du détecteur COSI (Compton Spectrometer and Imager) est lentement relevé d'une table dans ce 8 juillet 2026, image."
+    },
+    {
+      "title": "NASA Unveils Enterprise, the First Space Shuttle",
+      "url": "https://www.nasa.gov/image-detail/the-shuttle-enterprise-with-star-trek-cast/",
+      "source": "NASA Images",
+      "summary": "The rollout ceremony for NASA’s first space shuttle, OV-101, coincided with Constitution Day of the nation’s bicentennial on Sept.17, 1976. Although the orbiter was originally planned to be named Constitution, Star Trek fans successfully convinced President Gerald Ford to name it Enterprise after the series’ fictional starship.",
+      "published": "2026-09-17T15:23:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/9467279838-faa6134db8-o.jpg",
+      "title_fr": "La NASA dévoile Enterprise, la première navette spatiale",
+      "summary_fr": "La cérémonie de déploiement de la première navette spatiale de la NASA, OV-101, a coïncidé avec le bicentenaire du Jour de la Constitution de la nation, le 17 septembre 1976. Bien que l'orbiteur ait été initialement prévu pour être nommé Constitution, les fans de Star Trek ont réussi à convaincre le président Gerald Ford de le nommer Enterprise d'après le vaisseau fictif de la série."
+    },
+    {
+      "title": "Indonesia's Anak Krakatau",
+      "url": "https://www.nasa.gov/image-detail/krakatau-oli-20260905-lrg/",
+      "source": "NASA Images",
+      "summary": "Anak Krakatau erupts ash and volcanic gases in this image acquired with the OLI (Operational Land Imager) on Landsat 8 on Sept. 5, 2026.",
+      "published": "2026-09-16T15:28:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/krakatau-oli-20260905-lrg.jpg",
+      "title_fr": "L'Indonésie Anak Krakatau",
+      "summary_fr": "Anak Krakatau fait éruption de cendres et de gaz volcaniques dans cette image acquise avec le OLI (Operational Land Imager) sur Landsat 8 le 5 septembre 2026."
+    },
+    {
+      "title": "Artemis III Crew Visits NASA Kennedy's Vehicle Assembly Building",
+      "url": "https://www.nasa.gov/image-detail/afs-8-101-1307/",
+      "source": "NASA Images",
+      "summary": "NASA astronaut Randy Bresnik (left) and ESA (European Space Agency) astronaut Luca Parmitano view progress on the solid rocket booster integration in High Bay 3 inside the Vehicle Assembly Building at NASA's Kennedy Space Center in Florida on Wednesday, Sept. 2, 2026.",
+      "published": "2026-09-15T16:16:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/ksc-20260902-ph-kls01-0023orig-rotated.jpg",
+      "title_fr": "Artemis III L'équipage visite le bâtiment d'assemblage de véhicules de la NASA Kennedy",
+      "summary_fr": "L'astronaute de la NASA, Randy Bresnik (à gauche) et l'astronaute de l'ESA (Agence spatiale européenne), Luca Parmitano, voient les progrès réalisés sur l'intégration de l'amplificateur de fusées solides à High Bay 3 à l'intérieur du bâtiment d'assemblage de véhicules au Kennedy Space Center de la NASA, en Floride, mercredi 2 septembre 2026."
+    },
+    {
+      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+      "url": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-acrisure-stadium/",
+      "source": "NASA Images",
+      "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania.",
+      "published": "2026-09-14T16:04:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55527488950-2ce6740658-o.jpg",
+      "title_fr": "NASA Kicks Off Inspiration Tour avec Steelers vs. Falcons Jeu",
+      "summary_fr": "Les fans posent pour une photo avec un astronaute dans la zone d'expérience de la NASA lors d'un match NFL entre les Steelers de Pittsburgh et les Falcons d'Atlanta au stade Acrisure, dimanche 13 septembre 2026, à Pittsburgh, en Pennsylvanie."
+    },
+    {
+      "title": "NASA's Chandra Spots Galactic Gem",
+      "url": "https://www.nasa.gov/image-detail/galaxies-iizw096/",
+      "source": "NASA Images",
+      "summary": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA’s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.",
+      "published": "2026-09-11T17:22:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/galaxies-iizw096.jpg",
+      "title_fr": "Les taches de Chandra de la NASA Gem galactique",
+      "summary_fr": "Les galaxies sont comme des gemmes cosmiques, chacune ayant des caractéristiques, dont la taille et la forme, qui les distinguent. Une galerie de l'Observatoire des rayons X de la NASA et d'autres télescopes présente une collection d'images galactiques qui mettent en valeur cette variété."
+    },
+    {
+      "title": "Dust and Water in Sagittarius A*",
+      "url": "https://www.nasa.gov/image-detail/55459350878-2e1468b664-o/",
+      "source": "NASA Images",
+      "summary": "Using the James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the center of our Milky Way galaxy.",
+      "published": "2026-09-10T16:15:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/55459350878-2e1468b664-o.png",
+      "title_fr": "Poussière et eau en Sagittaire A*",
+      "summary_fr": "Grâce au télescope spatial James Webb, une équipe internationale d'astronomes a découvert que la poussière et l'eau peuvent se former et survivre étonnamment près du trou noir supermassif au centre de notre galaxie de la Voie lactée."
+    },
+    {
+      "title": "Artemis II Crew at NASA Marshall",
+      "url": "https://www.nasa.gov/image-detail/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig/",
+      "source": "NASA Images",
+      "summary": "The crew of NASA’s Artemis II mission visited NASA’s Marshall Space Flight Center in Huntsville, Alabama on Sept. 1, 2026.",
+      "published": "2026-09-09T15:32:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig.jpg",
+      "title_fr": "Équipe Artemis II à la NASA Marshall",
+      "summary_fr": "L'équipage de la mission Artemis II de la NASA a visité le centre de vol spatial Marshall de la NASA à Huntsville, en Alabama, le 1er septembre 2026."
+    },
+    {
+      "title": "Superbubble in the Large Magellanic Cloud",
+      "url": "https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/",
+      "source": "NASA Images",
+      "summary": "N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a “superbubble,” visible in this Hubble Space Telescope image in the upper central region.",
+      "published": "2026-09-08T16:49:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/09/hubble-n44-wfc3-large.jpg",
+      "title_fr": "Superbe bulle dans le Grand Nuage Magellanique",
+      "summary_fr": "N44 est une nébuleuse complexe remplie d'hydrogène brillant, de ruelles sombres de poussière, d'étoiles massives et de nombreuses populations d'étoiles de différents âges. L'une de ses caractéristiques les plus distinctives, cependant, est l'écart sombre et étoilé appelé un \"superbulle\", visible dans cette image du télescope spatial Hubble dans la région centrale supérieure."
+    },
+    {
+      "title": "Lunar Occultation of Venus",
+      "url": "https://www.nasa.gov/image-detail/amf-nhq202606170001/",
+      "source": "NASA Images",
+      "summary": "On Wednesday, June 17, skywatchers across the United States—and parts of Canada—enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
+      "published": "2026-09-04T14:16:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/NHQ202606170001/NHQ202606170001~large.jpg",
+      "title_fr": "Occultation lunaire de Vénus",
+      "summary_fr": "Le mercredi 17 juin, des skywatchers à travers les États-Unis – et certaines régions du Canada – se réjouissent d'un événement rare : une occultation lunaire de jour de Vénus. Une occultation lunaire se produit lorsque la Lune se déplace directement devant un autre objet céleste de notre point de vue sur la Terre, le cachant brièvement de la vue."
+    },
+    {
+      "title": "Igniting Roman's Journey",
+      "url": "https://www.nasa.gov/image-detail/amf-nhq202608300037/",
+      "source": "NASA Images",
+      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida.",
+      "published": "2026-09-03T14:25:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/NHQ202608300037/NHQ202608300037~large.jpg",
+      "title_fr": "Allumer le voyage de Roman",
+      "summary_fr": "Maintenant sur un voyage de trois mois, des millions de miles vers son orbite finale, le télescope spatial romain Nancy Grace va bientôt révéler les secrets les plus sombres de l'univers. La mission a été lancée à 7h26 HAE le 30 août à bord d'une fusée SpaceX Falcon Heavy du complexe de lancement 39A de l'agence Kennedy Space Center en Floride."
+    },
+    {
+      "title": "August Lunar Eclipse Rises Over Louisiana",
+      "url": "https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/",
+      "source": "NASA Images",
+      "summary": "A lunar eclipse is visible over southern Louisiana. The lunar eclipse was visible throughout much of North and South America and part of Europe and Africa between Aug. 27-28. The Full Moon slipped through Earth’s shadow on Aug. 27, continuing into Aug. 28 for some parts of the world, resulting in the lunar eclipse. At maximum eclipse, the Moon takes on a dramatic dark, ruddy or coppery tint along the covered edge. New Orleans is home to NASA’s Michoud Assembly Facility, where stages for NASA’s SLS (Space Launch System) rocket and structures for Orion spacecraft are produced for the Artemis missions.",
+      "published": "2026-09-02T15:39:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/MAF_20260827_LunarEclipse_01/MAF_20260827_LunarEclipse_01~large.jpg",
+      "title_fr": "Août Éclipse lunaire se lève sur la Louisiane",
+      "summary_fr": "Une éclipse lunaire est visible au-dessus du sud de la Louisiane. L'éclipse lunaire a été visible dans une grande partie de l'Amérique du Nord et du Sud et dans une partie de l'Europe et de l'Afrique entre le 27 et le 28 août. La pleine lune a glissé à travers l'ombre de la Terre le 27 août, continuant jusqu'au 28 août pour certaines parties du monde, entraînant l'éclipse lunaire. À l'éclipse maximale, la Lune prend une teinte sombre, rugueuse ou cuivrée le long du bord couvert. La Nouvelle-Orléans abrite l'installation d'assemblage Michoud de la NASA, où sont produites des étapes pour la fusée SLS (Space Launch System) de la NASA et des structures pour les engins spatiaux Orion pour les missions Artemis."
+    },
+    {
+      "title": "Artemis III RS-25 Engine Processing: #3 Lift",
+      "url": "https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/",
+      "source": "NASA Images",
+      "summary": "Technicians prepare to transfer the #2 RS-25 SLS (Space Launch System) rocket engine (front) to the work stand with the #3 engine (back) for integration with the Artemis III core stage rocket on Tuesday, Aug. 25, 2026, inside the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida. During Artemis III, the four RS‑25 engines will launch the Orion spacecraft and its crew of four into low Earth orbit, generating more than two million pounds of thrust at liftoff.",
+      "published": "2026-09-01T17:32:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
+      "title_fr": "Artemis III RS-25 Traitement moteur: n°3 Lift",
+      "summary_fr": "Les techniciens se préparent à transférer le moteur de fusée RS-25 SLS (Space Launch System) (avant) sur le stand de travail avec le moteur #3 (arrière) pour l'intégration avec la fusée Artemis III, le mardi 25 août 2026, à l'intérieur du bâtiment d'assemblage de véhicules au centre spatial Kennedy de la NASA. Pendant Artemis III, les quatre moteurs RS‐25 lanceront l'engin spatial Orion et son équipage de quatre personnes en orbite terrestre basse, générant plus de deux millions de livres de poussée au décollage."
+    },
+    {
+      "title": "NASA's Nancy Grace Roman Space Telescope Launches",
+      "url": "https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/",
+      "source": "NASA Images",
+      "summary": "A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug. 30, 2026, at NASA’s Kennedy Space Center in Florida.",
+      "published": "2026-08-31T14:19:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
+      "title_fr": "Lancement du télescope spatial romain Nancy Grace de la NASA",
+      "summary_fr": "Un Faucon SpaceX Une fusée lourde avec le télescope romain Nancy Grace à bord est vue transitant par le soleil lors du lancement du complexe de lancement 39A, dimanche 30 août 2026, au centre spatial Kennedy de la NASA en Floride."
+    },
+    {
+      "title": "NASA's Artemis II Crew Receives Congressional Space Medal of Honor",
+      "url": "https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/",
+      "source": "NASA Images",
+      "summary": "President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA’s Johnson Space Center in Houston.",
+      "published": "2026-08-28T22:24:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
+      "title_fr": "L'équipage Artemis II de la NASA reçoit la Médaille d'honneur du Congrès",
+      "summary_fr": "Le président Donald J. Trump a décerné aux astronautes de la NASA Victor Glover et Christina Koch, à l'astronaute de l'ASC (Agence spatiale canadienne) Jeremy Hansen, et à l'astronaute de la NASA Reid Wiseman la Médaille d'honneur de l'espace du Congrès, le 28 août 2026, au centre spatial de la NASA Johnson à Houston."
+    },
+    {
+      "title": "Civil Servants Sworn in at NASA Ames",
+      "url": "https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/",
+      "source": "NASA Images",
+      "summary": "New civil servants and guests pose for a group photo with NASA and Center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221.",
+      "published": "2026-08-27T18:04:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0108-042orig.jpg",
+      "title_fr": "Des fonctionnaires ont passé la nuit à la NASA Ames",
+      "summary_fr": "De nouveaux fonctionnaires et invités posent pour une photo de groupe avec la NASA et le Centre dans le National Full-Scale Aerodynamics Complex (NFAC) 80-par-120 pieds de section test, N221."
     }
   ],
   "sources": [
@@ -110,8 +708,8 @@
     },
     {
       "source": "NASA Images",
-      "status": "error",
-      "detail": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "count": 60
     },
     {
       "source": "ESA",
