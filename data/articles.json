@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-23T20:12:34.607626+00:00",
+  "updated_at": "2026-11-24T04:47:26.032414+00:00",
   "articles": [
+    {
+      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
+      "source": "NASA",
+      "summary": "The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from Nov. 23 through April 1, 2042. The work will take place at the awardee’s facility. Under the contract, Northrop Grumman will provide the design, development, production, testing, and mission support for three SMBA instruments, the next generation of low Earth orbit microwave sounders. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, is managing the acquisition, and NOAA will own and operate the instruments and deliver the data to users worldwide. Microwave sounders provide critical measurements of temperature and moisture in the atmosp",
+      "published": "2026-11-23T21:10:03+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
+      "title_fr": "La NASA octroie un contrat pour le programme de réseau Orbit près de la Terre",
+      "summary_fr": "Le contrat hybride coût-plus-prix fixe, prix fixe de l'entreprise et temps-et-matériaux a une valeur de 290,6 millions de dollars. La période d'exécution va du 23 novembre au 1er avril 2042. Les travaux se dérouleront à l'établissement du lauréat. En vertu du contrat, Northrop Grumman fournira la conception, le développement, la production, les essais et le soutien de la mission pour trois instruments SMBA, la prochaine génération de sondes à micro-ondes à orbite basse. Le centre spatial Goddard de Greenbelt, Maryland, gère l'acquisition, et NOAA possédera et exploitera les instruments et fournira les données aux utilisateurs du monde entier. Les sondes micro-ondes fournissent des mesures critiques de la température et de l'humidité dans l'atmospe"
+    },
     {
       "title": "Studying Cancer Cells in Microgravity",
       "url": "https://www.nasa.gov/image-detail/jsc2026e426880/",
@@ -100,16 +110,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "title_fr": "APOD: 2026 le 21 novembre – Voyager",
       "summary_fr": "Explication: Croisant à travers le système solaire extérieur, le vaisseau Voyager 2 a fait sa plus proche approche de Neptune le 25 août 1989, le seul vaisseau à visiter la planète géante de glace la plus lointaine. Basée sur les images enregistrées lors de sa rencontre rapprochée et dans les jours suivants, cette scène composite inspirée couvre la planète extérieure sombre, la plus grande lune Triton, et le système d'anneaux faibles. Juste au-delà de l'orbite de Neptune, la perspective interplanétaire revient vers le Soleil, capturant la planète et Triton comme de minces croissants ensoleillés. Des nuages cirrus et un cercle de bande foncée La région polaire sud de Neptune, avec un vortex nuageux au-dessus du pôle lui-même. Parties du système très faible anneau le long de wi"
-    },
-    {
-      "title": "Curiosity Spots Drifting Twilight Clouds",
-      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-      "source": "NASA",
-      "summary": "NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than 14 years. Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio.",
-      "published": "2026-11-20T22:27:05+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26805/PIA26805.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Spots de curiosité Drifting Nuages à crépuscule",
-      "summary_fr": "Curiosité Mars a capturé ces nuages dérivants le 31 octobre 2026, le 5 061e jour martien de la mission. Le rover utilise ses caméras de navigation pour capturer les nuages post-sunset, appelés nuages crépusculaires, qui apparaissent pendant seulement une courte période chaque automne sur Gale Crater, qu'il explore depuis plus de 14 ans. Curiosity a été construit par le laboratoire Jet Propulsion de la NASA, qui est géré par Caltech à Pasadena, Californie. JPL dirige la mission au nom de la Direction des missions scientifiques de la NASA à Washington dans le cadre du portefeuille du programme d'exploration Mars de la NASA."
     },
     {
       "title": "NASA's Curiosity Mars Rover Collects Samples",
