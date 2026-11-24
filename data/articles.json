@@ -1,6 +1,76 @@
 {
-  "updated_at": "2026-11-24T04:47:26.032414+00:00",
+  "updated_at": "2026-11-24T19:29:51.061223+00:00",
   "articles": [
+    {
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
+      "source": "NASA",
+      "summary": "The Cygnus XL will launch aboard a SpaceX Falcon 9 rocket from the Cape Canaveral Space Force Station in Florida. Following arrival to the station, astronauts aboard the space station will use the Canadarm2 to grapple the spacecraft before ground controllers robotically install it to the Unity module’s Earth-facing port for cargo unloading. In addition to food, supplies, and equipment for the crew, Cygnus will deliver several new experiments aimed at improving drug delivery for cancer and osteoarthritis treatment, predicting cancer spread, advancing treatments for muscle loss, improving radiation sensing, and supporting food production for future long-duration missions. This research include",
+      "published": "2026-11-24T19:09:16+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png",
+      "title_fr": "NASA-S Northrop Grumman CRS-25 Aperçu de la mission",
+      "summary_fr": "Le Cygnus XL lancera à bord d'une fusée SpaceX Falcon 9 de la station de la Force spatiale Cap Canaveral en Floride. Après l'arrivée à la station, les astronautes à bord de la station spatiale utiliseront le Canadarm2 pour grappiller l'engin spatial avant que les contrôleurs au sol ne l'installent robotiquement au port de l'Unité pour le déchargement de marchandises. En plus de la nourriture, des fournitures et de l'équipement pour l'équipage, Cygnus fournira plusieurs nouvelles expériences visant à améliorer la livraison de médicaments pour le traitement du cancer et de l'arthrose, à prédire la propagation du cancer, à faire avancer les traitements pour la perte musculaire, à améliorer la détection des radiations et à soutenir la production alimentaire pour les futures missions de longue durée. Cette recherche comprend"
+    },
+    {
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "url": "https://www.nasa.gov/image-detail/cas-a-webb-miri/",
+      "source": "NASA Images",
+      "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A. The composition of its dust provides clues to the structure of Cassiopeia A’s original star.",
+      "published": "2026-11-24T16:52:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+      "title_fr": "Webb révèle de nouveaux détails dans Supernova Remnant",
+      "summary_fr": "Le télescope spatial James Webb de la NASA révèle la poussière chaude qui compose Cassiopeia A. La composition de sa poussière fournit des indices sur la structure de l'étoile originale de Cassiopée A."
+    },
+    {
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "url": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+      "source": "NASA",
+      "summary": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. The Webb data supports a scenario in which the interior of the star underwent a dramatic change, possibly just hours before its demise. Image credit: NASA, ESA, CSA, STScI, Tea Temim (Columbia University), Rick Arendt (UMBC), Dan Milisavljevic (Purdue University); Image Processing: Joseph DePasquale (STScI)",
+      "published": "2026-11-24T16:51:27+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/cas-a-webb-miri.png",
+      "title_fr": "Webb révèle de nouveaux détails dans Supernova Remnant",
+      "summary_fr": "Le télescope spatial James Webb de la NASA révèle la poussière chaude qui constitue Cassiopeia A (Cas A) dans cette image à haute résolution, à mi-infrarouge publiée le 23 novembre 2026. Des restes comme ceux-ci sont les nuages de gaz et de poussière qui restent après l'explosion d'une étoile massive et finiront par semer une nouvelle génération d'étoiles et de planètes. Les données de Webb supportent un scénario dans lequel l'intérieur de l'étoile a subi un changement dramatique, peut-être quelques heures avant sa disparition. Crédit d'image: NASA, ESA, CSA, STScI, Tea Temm (Columbia University), Rick Arendt (UMBC), Dan Milisavljevic (Purdue University); Traitement d'image: Joseph DePasquale (STScI)"
+    },
+    {
+      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "url": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+      "source": "NASA",
+      "summary": "First to check in: DragonCam, which consists of seven cameras designed to characterize Titan ’s surface at multiple scales during flight and while on the ground. By mid-November, all seven cameras developed and built by Malin Space Science Systems had been installed in their insulated housings, tested, and integrated into the rotorcraft. Each camera will look out at Titan through a window in a foam enclosure that insulates the cameras and Dragonfly’s interior from Titan’s cryogenic environment, where ambient temperatures reach minus 290 degrees Fahrenheit.",
+      "published": "2026-11-24T15:44:38+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/dragonfly/WACmosiac.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "NASA-Bound Titan Dragonfly Rotorcraft obtient ses yeux",
+      "summary_fr": "D'abord à vérifier : DragonCam, qui se compose de sept caméras conçues pour caractériser la surface de Titans à plusieurs échelles pendant le vol et au sol. À la mi-novembre, les sept caméras développées et construites par Malin Space Science Systems avaient été installées dans leurs boîtiers isolés, testées et intégrées au giravion. Chaque caméra regardera Titan à travers une fenêtre dans un enclos en mousse qui isole les caméras et Dragonflys l'intérieur de l'environnement cryogénique Titan, où les températures ambiantes atteignent moins 290 degrés Fahrenheit."
+    },
+    {
+      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+      "source": "NASA",
+      "summary": "A brilliant galaxy with a distinct galactic bar takes center stage in this NASA/ESA Hubble Space Telescope image. The galaxy, called NGC 4394, is in the constellation Coma Berenices (Berenice's Hair). At about 55 million light-years away, NGC 4394 is considered relatively nearby for a galaxy. It’s one of more than 1,000 galaxies that make up the Virgo Cluster, which is the galaxy cluster closest to us. With its graceful spiral arms and central bar of stars, NGC 4394 closely resembles what astronomers think our home galaxy, the Milky Way, would look like if we were able to view it from a similar face-on vantage point. In a universe full of arcing spiral galaxies and nebulae organically shaped",
+      "published": "2026-11-24T13:58:28+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/spiral/Hubble_NGC4394_potm2611a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "La NASA a une nouvelle vue de NGC 4394 élève la barre",
+      "summary_fr": "Une galaxie brillante avec une barre galactique distincte occupe une place centrale dans cette image du télescope spatial Hubble NASA/ESA. La galaxie, appelée NGC 4394, se trouve dans la constellation Coma Berenices (Hair de Berenice). À environ 55 millions d'années-lumière, NGC 4394 est considéré comme relativement proche pour une galaxie. C'est l'une des plus de 1000 galaxies qui composent le Cluster Virgo, qui est le cluster de galaxie le plus proche de nous. Avec ses bras en spirale gracieuse et sa barre centrale d'étoiles, NGC 4394 ressemble étroitement à ce que les astronomes pensent de notre galaxie natale, la Voie lactée, ressemblerait si nous pouvions la voir d'un point de vue similaire. Dans un univers rempli de galaxies spirales et de nébuleuses en forme organique"
+    },
+    {
+      "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: After this galaxy battle, only one galaxy will remain. Already visible in the featured picture are rings and faint star swirls from previous gravitational encounters . Known collectively as the NGC 7771 Group , these galaxies lie almost 200 million light-years away toward the high-flying constellation Pegasus . The largest galaxy, barred spiral NGC 7771 on the lower right, is itself about 75,000 light-years across, and the galaxy on the upper left is spiral NGC 7769 , which is almost as large. As these and oth",
+      "published": "2026-11-24T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/NGC7771group_Marinoni_1179.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 24 novembre – Bataille des Galaxies dans le groupe NGC 7771",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Après cette bataille de galaxie, une seule galaxie restera. Déjà visibles dans l'image en vedette sont des anneaux et des étoiles évanouies de rencontres gravitationnelles précédentes. Connus collectivement sous le nom de groupe NGC 7771 , ces galaxies se trouvent à près de 200 millions d'années-lumière vers la constellation à vol élevé Pegasus . La plus grande galaxie, la spirale barrée NGC 7771 sur la droite inférieure, est elle-même d'environ 75 000 années-lumière à travers, et la galaxie sur la gauche supérieure est la spirale NGC 7769 , qui est presque aussi grande. Comme ces"
+    },
+    {
+      "title": "Eruption Extends Iwo Jima’s Beach",
+      "url": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+      "source": "NASA",
+      "summary": "A volcanic eruption in the shallows near Iwo Jima has extended the Japanese island’s famed black sand beaches, at least temporarily. Signs of unrest began in late October 2026. On October 27, seismic sensors recorded a sharp uptick in activity, and Japan’s Meteorological Agency reported that the first photographs of the eruption were captured. Soon after, sensors on several satellites began to capture an array of observations.",
+      "published": "2026-11-24T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/eruption-enlarges-iwo-jima’s-beach/iwojima_oli2_20261111_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Éruption prolonge la plage Iwo Jima",
+      "summary_fr": "Une éruption volcanique dans les eaux peu profondes près d'Iwo Jima a étendu l'île japonaise célèbre plages de sable noir, au moins temporairement. Des signes de troubles ont commencé à la fin d'octobre 2026. Le 27 octobre, des capteurs sismiques ont enregistré une forte augmentation de l'activité, et l'Agence météorologique japonaise a signalé que les premières photographies de l'éruption ont été capturées. Peu de temps après, des capteurs sur plusieurs satellites ont commencé à capter une série d'observations."
+    },
     {
       "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
       "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
@@ -50,66 +120,6 @@
       "image": "https://www.youtube.com/embed/224QFgY9PTM",
       "title_fr": "NASA+ Captures documentaires Europa ClipperS Voyage dans l'espace profond",
       "summary_fr": "Le documentaire sera diffusé sur NASA+ , l'application NASA et le site web de l'agence dès le lundi 23 novembre et sera bientôt sur YouTube. Il a fallu des décennies de science, des milliers d'esprits dévoués, une créativité sans fin, et beaucoup de grit pour amener le vaisseau spatial Europa Clipper à la rampe de lancement en 2024. Maintenant, l'orbiteur, la plus grande NASA jamais envoyée dans l'espace profond, est deux ans dans son voyage de cinq ans, 1,8 milliard de kilomètres (2,9 milliards de kilomètres) vers le système Jupiter, où il mènera des survols d'Europa à la recherche des conditions de vie dans le vaste océan pensé pour se cacher sous la surface glacée de la lune."
-    },
-    {
-      "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
-      "source": "NASA",
-      "summary": "This high-resolution, mid-infrared observation from Webb reveals new details that are helping astronomers chronicle the structure and evolution of Cas A’s original star. The Webb data supports a scenario in which the interior of the star underwent a dramatic change, possibly just hours before its demise. These results published Monday in The Astrophysical Journal Letters . Stars begin their lives as large clouds of mostly hydrogen gas and cosmic dust called molecular clouds. Eventually, gravity causes these molecular clouds to collapse, the material heats up, and protostars — infant stars — form. Under the constant pressure of gravity, hydrogen within a protostar begins to fuse into helium, ",
-      "published": "2026-11-23T15:00:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/11/STScI-01M6PRXJ9A7S81CH1C9SJP1MB0.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Le Webb de la NASA montre comment Supernova Dust Chronicles Star Evolution",
-      "summary_fr": "Cette observation à haute résolution au milieu de l'infrarouge de Webb révèle de nouveaux détails qui aident les astronomes à chroniquer la structure et l'évolution de l'étoile originale de Cas A. Les données de Webb supportent un scénario dans lequel l'intérieur de l'étoile a subi un changement dramatique, peut-être quelques heures avant sa disparition. Ces résultats publiés lundi dans The Astrophysical Journal Letters . Les étoiles commencent leur vie comme de grands nuages d'hydrogène gazeux et de poussière cosmique appelés nuages moléculaires. Finalement, la gravité provoque l'effondrement de ces nuages moléculaires, la chaleur du matériau et la formation de protostars, des étoiles naissantes. Sous la pression constante de gravité, l'hydrogène dans un protostar commence à se fondre dans l'hélium,"
-    },
-    {
-      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
-      "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars , but if your eyes (or camera) could continue to collect light , you would see increasingly more. In the direction of the featured image , after only a few minutes, you would begin to notice some regions without stars . As your staring continued, the dark region would become better defined, and after a full 20 hours, you would notice a strange dark structure . To celebrate, you use digital proces",
-      "published": "2026-11-23T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Ldn1251Comparison_Cruz_2160.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 23 novembre – L'émergence des lyndes nébuleuses foncées 1251",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Si vous regardez l'espace pendant longtemps, que voyez-vous ? Au début, vous pourriez seulement voir les étoiles les plus brillantes habituelles, mais si vos yeux (ou caméra) pouvaient continuer à recueillir la lumière, vous verriez de plus en plus. Dans la direction de l'image en vedette, après seulement quelques minutes, vous commenceriez à remarquer certaines régions sans étoiles. Comme votre regard continuait, la région sombre deviendrait mieux définie, et après 20 heures complètes, vous remarqueriez une étrange structure sombre. Pour célébrer, vous utilisez des proces numériques"
-    },
-    {
-      "title": "Laser Focus at the Top of the World",
-      "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
-      "source": "NASA",
-      "summary": "More than 60 years ago, scientists at NASA’s Goddard Space Flight Center aimed a laser skyward and fired a pulse of light at an orbiting satellite equipped with special reflectors. By measuring the time it took for the light to return, they demonstrated a new, more precise method for tracking satellites. Since then, satellite laser ranging (SLR) has grown more precise and more widely used. The technique now underpins many aspects of Earth observation, such as validating satellite orbits and mapping subtle changes to Earth’s surface. Pioneered at the Goddard Optical Research Facility—now the Goddard Geophysical and Astronomical Observatory —laser ranging is performed at more than 40 stations ",
-      "published": "2026-11-23T05:01:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/laser-focus-at-the-top-of-the-world/svalbardzm_oli2_20260730_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Focus laser au sommet du monde",
-      "summary_fr": "Il y a plus de 60 ans, des scientifiques du centre de vol spatial Goddard de la NASA ont dirigé un laser vers le ciel et lancé une impulsion de lumière sur un satellite en orbite équipé de réflecteurs spéciaux. En mesurant le temps nécessaire au retour de la lumière, ils ont démontré une nouvelle méthode plus précise de suivi des satellites. Depuis lors, la gamme laser par satellite (SLR) est devenue plus précise et plus largement utilisée. La technique sous-tend maintenant de nombreux aspects de l'observation de la Terre, tels que la validation des orbites satellitaires et la cartographie des changements subtils à la surface de la Terre. Initiée à l'Observatoire géophysique et astronomique de Goddard, l'installation de recherche optique de Goddard est désormais située à plus de 40 stations."
-    },
-    {
-      "title": "65 Years of Human Spaceflight at NASA Johnson",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
-      "source": "NASA",
-      "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and systems for NASA’s next chapter: returning astronauts to the lunar surface and building the capabilities needed for a long-term human presence at the Moon. Across those missions, generations of flight controllers, engineers, scientists, instructors, medical specialists, and other experts have helped crews live and work beyond Earth",
-      "published": "2026-11-22T19:13:25+00:00",
-      "image": "https://www.youtube.com/embed/3Aas00le5M4",
-      "title_fr": "65 ans de vol spatial humain à la NASA Johnson",
-      "summary_fr": "Depuis 65 ans, le Centre spatial Johnson de la NASA à Houston a contribué à façonner le vol spatial humain, des missions Gemini qui ont démontré les techniques de rendez-vous et d'amarrage nécessaires pour Apollo aux recherches menées à bord de la Station spatiale internationale, qui soutient une présence humaine continue depuis plus de 26 ans. Aujourd'hui, les équipes Johnson préparent des équipages et des systèmes pour le chapitre suivant de la NASA : retour des astronautes à la surface lunaire et renforcement des capacités nécessaires pour une présence humaine à long terme sur la Lune. Au cours de ces missions, des générations de contrôleurs de vol, d'ingénieurs, de scientifiques, d'instructeurs, de spécialistes médicaux et d'autres experts ont aidé les équipages à vivre et à travailler au-delà de la Terre."
-    },
-    {
-      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-      "source": "NASA",
-      "summary": "Explanation: What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium , elements which are colorless at the low temperatures of the Jovian cloud tops . Which trace molecules provide the colors remains a topic of research , although small amounts of ammonium hydrosulfide are one leading candidate . What is clear from the featured color-enhanced image -- and many similar images -- is that lighter clouds are typically higher up than darker ones. Pictured, light clouds swirl around reddish regions toward the lower right, while they appear to cover over some darker domains on the upper right. The featured image was taken by the rob",
-      "published": "2026-11-22T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 Novembre 22 – Plongées et couleurs sur Jupiter de Juno",
-      "summary_fr": "Explication : Qu'est-ce qui crée les couleurs dans les nuages de Jupiter ? Personne n'est sûr. L'atmosphère épaisse de Jupiter est principalement l'hydrogène et l'hélium, éléments qui sont incolores aux basses températures des sommets nuageux de Jovian. Quelles molécules de trace fournissent les couleurs reste un sujet de recherche, bien que de petites quantités d'hydrosulfure d'ammonium sont un candidat de premier plan. Ce qui ressort clairement de l'image améliorée par la couleur -- et de nombreuses images semblables --, c'est que les nuages plus légers sont généralement plus élevés que les nuages plus sombres. Les nuages légers et photographiés tournent autour des régions rougeâtres vers le bas à droite, alors qu'ils semblent couvrir certains domaines plus sombres en haut à droite. L'image en vedette a été prise par le voleur"
-    },
-    {
-      "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-      "source": "NASA",
-      "summary": "Explanation: Cruising through the outer solar system, the Voyager 2 spacecraft made its closest approach to Neptune on August 25, 1989, the only spacecraft to visit the most distant ice giant planet . Based on the images recorded during its close encounter and in the following days, this inspired composited scene covers the dim outer planet, largest moon Triton , and faint system of rings. From just beyond Neptune's orbit, the interplanetary perspective looks back toward the Sun, capturing the planet and Triton as thin sunlit crescents . Cirrus clouds and a dark band circle Neptune's south polar region, with a cloudy vortex above the pole itself . Parts of the very faint ring system along wi",
-      "published": "2026-11-21T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Neptune-South-Pole-Voyager-2_2327x1670.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "APOD: 2026 le 21 novembre – Voyager",
-      "summary_fr": "Explication: Croisant à travers le système solaire extérieur, le vaisseau Voyager 2 a fait sa plus proche approche de Neptune le 25 août 1989, le seul vaisseau à visiter la planète géante de glace la plus lointaine. Basée sur les images enregistrées lors de sa rencontre rapprochée et dans les jours suivants, cette scène composite inspirée couvre la planète extérieure sombre, la plus grande lune Triton, et le système d'anneaux faibles. Juste au-delà de l'orbite de Neptune, la perspective interplanétaire revient vers le Soleil, capturant la planète et Triton comme de minces croissants ensoleillés. Des nuages cirrus et un cercle de bande foncée La région polaire sud de Neptune, avec un vortex nuageux au-dessus du pôle lui-même. Parties du système très faible anneau le long de wi"
     },
     {
       "title": "NASA's Curiosity Mars Rover Collects Samples",
@@ -688,16 +698,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/08/20260828-120552-jk1-3999-1.jpg",
       "title_fr": "L'équipage Artemis II de la NASA reçoit la Médaille d'honneur du Congrès",
       "summary_fr": "Le président Donald J. Trump a décerné aux astronautes de la NASA Victor Glover et Christina Koch, à l'astronaute de l'ASC (Agence spatiale canadienne) Jeremy Hansen, et à l'astronaute de la NASA Reid Wiseman la Médaille d'honneur de l'espace du Congrès, le 28 août 2026, au centre spatial de la NASA Johnson à Houston."
-    },
-    {
-      "title": "Civil Servants Sworn in at NASA Ames",
-      "url": "https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/",
-      "source": "NASA Images",
-      "summary": "New civil servants and guests pose for a group photo with NASA and Center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221.",
-      "published": "2026-08-27T18:04:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/acd26-0108-042orig.jpg",
-      "title_fr": "Des fonctionnaires ont passé la nuit à la NASA Ames",
-      "summary_fr": "De nouveaux fonctionnaires et invités posent pour une photo de groupe avec la NASA et le Centre dans le National Full-Scale Aerodynamics Complex (NFAC) 80-par-120 pieds de section test, N221."
     }
   ],
   "sources": [
