@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-24T19:29:51.061223+00:00",
+  "updated_at": "2026-11-25T03:32:05.373064+00:00",
   "articles": [
+    {
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
+      "source": "NASA",
+      "summary": "“The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible audience, and our partners help us accomplish that,” said Rebecca Sirmons, general manager of NASA+ at the agency’s Headquarters in Washington. “Artemis II captured the imagination of the Artemis generation, but we are just getting started. With Artemis III on the horizon and our sights set on building humanity’s first Moon Base, this is only the beginning of our story being told, and we’ll continue sharing transparent, engaging content every step of the way.”",
+      "published": "2026-11-24T21:14:36+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-promo-image-horizontal-1.jpg",
+      "title_fr": "NASA+ Contenu à venir sur grand écran à Greenbelt, Maryland Cinema",
+      "summary_fr": "La National Aeronautics and Space Act de 1958 nous appelle à partager notre histoire d'exploration spatiale avec le plus large public possible, et nos partenaires nous aident à accomplir cela, a déclaré Rebecca Sirmons, directrice générale de NASA+ au siège de l'agence à Washington. Artemis II a capté l'imagination de la génération Artemis, mais nous ne faisons que commencer. Avec Artemis III à l'horizon et nos visions mises sur la construction de l'humanité, la première base lune, ce n'est que le début de notre histoire étant racontée, et nous continuerons à partager le contenu transparent, engageant chaque étape du chemin."
+    },
+    {
+      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "url": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture/",
+      "source": "NASA",
+      "summary": "Experts from across the agency, the U.S. Department of Energy (DOE), and industry met at NASA’s Glenn Research Center in Cleveland for a major SR-1 mission design review in October. Several key decisions were made, propelling the mission from an early concept toward a defined spacecraft design. “SR-1 marks a pivotal step in how we travel through the solar system,” said Steve Sinacore, SR-1 Freedom program director. “This mission will be the first freight run on the railroad of the solar system, and the decisions we’re making now are laying the tracks for every nuclear-powered spacecraft that follows.”",
+      "published": "2026-11-24T21:04:32+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/06/sr-1-animation-v7-11-6-2026.mp4",
+      "title_fr": "Les équipes se verrouillent dans l'architecture de mission pour la liberté SR-1 de NASA",
+      "summary_fr": "Des experts de l'ensemble de l'organisme, du Département américain de l'énergie (DOE) et de l'industrie se sont réunis au Centre de recherche de Glenn de la NASA à Cleveland pour un examen important de la conception de la mission SR-1 en octobre. Plusieurs décisions clés ont été prises, propulsant la mission d'un concept précoce vers une conception d'engins spatiaux définie. « Le SR-1 marque une étape cruciale dans la façon dont nous parcourons le système solaire », a déclaré Steve Sinacore, directeur du programme SR-1 Freedom. Cette mission sera la première course de fret sur le chemin de fer du système solaire, et les décisions que nous prenons maintenant posent les voies pour chaque vaisseau spatial à propulsion nucléaire qui suit."
+    },
+    {
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+      "source": "NASA",
+      "summary": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova . These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers have to find it fast, and no single observatory can watch the whole sky. But if you have a telescope with a camera, or access to one, you can help find and follow these cosmic fireworks as a part of NASA’s Kilonova Catcher project!",
+      "published": "2026-11-24T19:19:52+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/NGC_4993.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "Astronome amateur ? Soyez un attrapeur de Kilonova !",
+      "summary_fr": "Les étoiles neutrons sont les restes d'étoiles mortes de taille urbaine ultra denses. Quand ils entrent en collision, ils peuvent libérer un bref flash de lumière appelé un kilonova . Ces événements extrêmement puissants forgent une grande partie de l'univers : or, platine et autres éléments lourds. Comme un kilonova s'estompe en quelques jours, les astronomes doivent le trouver rapidement, et aucun observatoire ne peut observer tout le ciel. Mais si vous avez un télescope avec une caméra, ou l'accès à une, vous pouvez aider à trouver et à suivre ces feux d'artifice cosmiques dans le cadre du projet de Kacker de la NASA."
+    },
     {
       "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
       "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/",
@@ -10,6 +40,16 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ntv-ng-crs-25-falcon9-cygnus-overview-2160-dark.png",
       "title_fr": "NASA-S Northrop Grumman CRS-25 Aperçu de la mission",
       "summary_fr": "Le Cygnus XL lancera à bord d'une fusée SpaceX Falcon 9 de la station de la Force spatiale Cap Canaveral en Floride. Après l'arrivée à la station, les astronautes à bord de la station spatiale utiliseront le Canadarm2 pour grappiller l'engin spatial avant que les contrôleurs au sol ne l'installent robotiquement au port de l'Unité pour le déchargement de marchandises. En plus de la nourriture, des fournitures et de l'équipement pour l'équipage, Cygnus fournira plusieurs nouvelles expériences visant à améliorer la livraison de médicaments pour le traitement du cancer et de l'arthrose, à prédire la propagation du cancer, à faire avancer les traitements pour la perte musculaire, à améliorer la détection des radiations et à soutenir la production alimentaire pour les futures missions de longue durée. Cette recherche comprend"
+    },
+    {
+      "title": "AGU Hyperwall Schedule",
+      "url": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+      "source": "NASA",
+      "summary": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and ExtremesSujay Kumar11:00 AMScale-Resolving CFD Methods for Predicting Aircraft “Edge of the Flight Envelope” PerformanceJared […]",
+      "published": "2026-11-24T18:55:42+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/private-sector-engagement/meatball-whitebkgd.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+      "title_fr": "Calendrier de l'hypermur AGU",
+      "summary_fr": "American Geophysical Union (AGU) 2026 Rejoignez la NASA dans la salle d'exposition (Booth #525) pour l'histoire d'Hyperwall par des experts de la NASA. Ordre du jour complet de Hyperwall ci-dessous. MARDI, NOVEMBRE 17 10:30 Simulations hydrologiques haute résolution et interfaces de super-intelligence agentique pour cartographier la disponibilité de l'eau et les extrêmesSujay Kumar11:00 Méthodes CFD à résolution d'échelle pour prédire l'avion -\"Edge de l'enveloppe de vol\" PerformanceJared [...]"
     },
     {
       "title": "Webb Reveals New Details in Supernova Remnant",
@@ -72,16 +112,6 @@
       "summary_fr": "Une éruption volcanique dans les eaux peu profondes près d'Iwo Jima a étendu l'île japonaise célèbre plages de sable noir, au moins temporairement. Des signes de troubles ont commencé à la fin d'octobre 2026. Le 27 octobre, des capteurs sismiques ont enregistré une forte augmentation de l'activité, et l'Agence météorologique japonaise a signalé que les premières photographies de l'éruption ont été capturées. Peu de temps après, des capteurs sur plusieurs satellites ont commencé à capter une série d'observations."
     },
     {
-      "title": "NASA Awards Contract for NOAA’s Near Earth Orbit Network Program",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-noaas-near-earth-orbit-network-program/",
-      "source": "NASA",
-      "summary": "The cost-plus-fixed-fee, firm-fixed-price, and time-and-materials hybrid contract has a value of $290.6 million. The period of performance runs from Nov. 23 through April 1, 2042. The work will take place at the awardee’s facility. Under the contract, Northrop Grumman will provide the design, development, production, testing, and mission support for three SMBA instruments, the next generation of low Earth orbit microwave sounders. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, is managing the acquisition, and NOAA will own and operate the instruments and deliver the data to users worldwide. Microwave sounders provide critical measurements of temperature and moisture in the atmosp",
-      "published": "2026-11-23T21:10:03+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg",
-      "title_fr": "La NASA octroie un contrat pour le programme de réseau Orbit près de la Terre",
-      "summary_fr": "Le contrat hybride coût-plus-prix fixe, prix fixe de l'entreprise et temps-et-matériaux a une valeur de 290,6 millions de dollars. La période d'exécution va du 23 novembre au 1er avril 2042. Les travaux se dérouleront à l'établissement du lauréat. En vertu du contrat, Northrop Grumman fournira la conception, le développement, la production, les essais et le soutien de la mission pour trois instruments SMBA, la prochaine génération de sondes à micro-ondes à orbite basse. Le centre spatial Goddard de Greenbelt, Maryland, gère l'acquisition, et NOAA possédera et exploitera les instruments et fournira les données aux utilisateurs du monde entier. Les sondes micro-ondes fournissent des mesures critiques de la température et de l'humidité dans l'atmospe"
-    },
-    {
       "title": "Studying Cancer Cells in Microgravity",
       "url": "https://www.nasa.gov/image-detail/jsc2026e426880/",
       "source": "NASA Images",
@@ -90,36 +120,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
       "title_fr": "Étude des cellules cancéreuses dans la microgravité",
       "summary_fr": "L'étude Encapsulate-1 étudie des échantillons de tumeurs provenant de patients à bord de la Station spatiale internationale pour mieux comprendre comment les cellules cancéreuses se déplacent et interagissent en microgravité."
-    },
-    {
-      "title": "Studying Cancer Cells in Microgravity",
-      "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
-      "source": "NASA",
-      "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station to better understand how cancer cells move and interact in microgravity. The results could help researchers develop further testing to predict a patient’s risk of metastasis and support more personalized cancer treatments. Orbiting more than 200 miles (320 km) above Earth, the space station is a powerhouse of cutting-edge science that is unlocking discoveries not possible on Earth.",
-      "published": "2026-11-23T17:28:37+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e426880orig.jpg",
-      "title_fr": "Étude des cellules cancéreuses dans la microgravité",
-      "summary_fr": "Cette image du 19 novembre 2026 montre des microtumores gastriques cultivés dans une biopuce encapsulée. L'étude Encapsulate-1 étudie des échantillons de tumeurs provenant de patients à bord de la Station spatiale internationale pour mieux comprendre comment les cellules cancéreuses se déplacent et interagissent en microgravité. Les résultats pourraient aider les chercheurs à développer d'autres tests pour prédire le risque de métastases d'un patient et soutenir des traitements de cancer plus personnalisés. Orbitant plus de 320 kilomètres au-dessus de la Terre, la station spatiale est une centrale de pointe scientifique qui débloque des découvertes impossibles sur Terre."
-    },
-    {
-      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
-      "source": "NASA",
-      "summary": "Lunar Reactor-1 (LR-1) will be a small fission power system that will generate 20 kilowatts of electricity, enough to power approximately 16 average U.S. households annually on Earth. For NASA’s plans for a Moon Base , that energy could support future habitats, communications systems, rovers, scientific instruments, and other essential infrastructure. NASA aims to have a launch-ready system by 2030 and operate it on the Moon for at least five years after deployment.",
-      "published": "2026-11-23T17:23:50+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/srd-fsp-isru02b.jpg",
-      "title_fr": "La NASA cherche des partenaires pour concevoir le premier réacteur nucléaire pour la Lune",
-      "summary_fr": "Lunar Reactor-1 (LR-1) sera un petit système de fission qui générera 20 kilowatts d'électricité, assez pour alimenter environ 16 ménages américains moyens par année sur Terre. Pour la NASA, les plans pour une base lunaire , que l'énergie pourrait soutenir les habitats futurs, les systèmes de communication, les rovers, les instruments scientifiques et d'autres infrastructures essentielles. La NASA entend disposer d'un système prêt à être lancé d'ici 2030 et l'exploiter sur la Lune pendant au moins cinq ans après son déploiement."
-    },
-    {
-      "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
-      "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
-      "source": "NASA",
-      "summary": "The documentary will air on NASA+ , the NASA app, and the agency’s website starting Monday, Nov. 23, and is coming soon to YouTube. It took decades of science, thousands of dedicated minds, endless creativity, and a whole lot of grit to get the Europa Clipper spacecraft to the launch pad in 2024. Now the orbiter, the largest NASA has ever sent into deep space, is two years into its five-year, 1.8 billion-mile (2.9 billion-kilometer) journey to the Jupiter system, where it will conduct flybys of Europa in search of the conditions for life in the vast ocean thought to hide beneath the moon’s icy surface.",
-      "published": "2026-11-23T16:08:23+00:00",
-      "image": "https://www.youtube.com/embed/224QFgY9PTM",
-      "title_fr": "NASA+ Captures documentaires Europa ClipperS Voyage dans l'espace profond",
-      "summary_fr": "Le documentaire sera diffusé sur NASA+ , l'application NASA et le site web de l'agence dès le lundi 23 novembre et sera bientôt sur YouTube. Il a fallu des décennies de science, des milliers d'esprits dévoués, une créativité sans fin, et beaucoup de grit pour amener le vaisseau spatial Europa Clipper à la rampe de lancement en 2024. Maintenant, l'orbiteur, la plus grande NASA jamais envoyée dans l'espace profond, est deux ans dans son voyage de cinq ans, 1,8 milliard de kilomètres (2,9 milliards de kilomètres) vers le système Jupiter, où il mènera des survols d'Europa à la recherche des conditions de vie dans le vaste océan pensé pour se cacher sous la surface glacée de la lune."
     },
     {
       "title": "NASA's Curiosity Mars Rover Collects Samples",
