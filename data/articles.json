@@ -1,6 +1,26 @@
 {
-  "updated_at": "2026-11-27T00:34:54.853386+00:00",
+  "updated_at": "2026-11-27T13:50:26.461651+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: On November 24 , all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase . Known to some as a Beaver Moon, November's Full Moon was also near perigee, the closest point in its elliptical orbit around planet Earth. That made it one of the biggest and brightest Full Moons, also known as a supermoon . In fact, November's Full Moon was the first in a s",
+      "published": "2026-11-27T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Plenilunio1_2048r.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 27 novembre – Les Observateurs de la Lune",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication: Le 24 novembre, tous les denizens de notre belle planète pourraient regarder la Lune se lever en face du Soleil. Facile à repérer dans les cieux crépusculaires au-dessus des champs, des clôtures, des arrière-cours et même des murs de pierre, la Lune était grande et lumineuse, et à sa pleine phase. Connue par certains comme une Beaver Moon, la Full Moon de novembre était également proche du périgée, le point le plus proche de son orbite elliptique autour de la planète Terre. Cela en a fait l'un des plus grands et des plus brillants Full Moons, aussi connu comme une super lune. En fait, la pleine lune de novembre a été la première"
+    },
+    {
+      "title": "Shivelyuch Socked In",
+      "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+      "source": "NASA",
+      "summary": "In the same way that Shivelyuch (also called Shiveluch) frequently displays volcanic activity, it is also chronically obscured by clouds. When the OLI (Operational Land Imager) on Landsat 9 captured this image on November 8, 2026, clouds encroached on the snowy mountain on Russia’s Kamchatka Peninsula . But they hovered beneath the volcano’s 3,283-meter (10,771-foot) peak, leaving a clear opening over its caldera and northern upper slopes. The upper reaches of Shivelyuch feature a caldera 9 kilometers (5.6 miles) wide that is open to the south. A lava dome , formed by vents extruding viscous magma, appears as a dark area within it. Lava domes on Shivelyuch go through cycles of growth and col",
+      "published": "2026-11-27T05:01:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/shivelyuch-socked-in/shivelyuchcloud_oli2_20261108_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "C'est ce que j'ai dit.",
+      "summary_fr": "De la même manière que Shivelyuch (aussi appelé Shiveluch) montre fréquemment l'activité volcanique, il est aussi chroniquement obscurci par les nuages. Lorsque l'OLI (Operational Land Imager) sur Landsat 9 a capturé cette image le 8 novembre 2026, des nuages ont envahi la montagne enneigée de la péninsule de Kamchatka. Mais ils planaient sous le pic de 3,283 mètres (10.771 pieds) du volcan, laissant une ouverture claire sur sa caldera et ses pentes supérieures du nord. Les tronçons supérieurs de Shivelyuch présentent une caldera de 9 kilomètres de large qui est ouverte au sud. Un dôme de lave, formé par des évents extrudant le magma visqueux, apparaît comme une zone sombre à l'intérieur. Les dômes de lava sur Shivelyuch passent par les cycles de croissance et de col"
+    },
     {
       "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
@@ -90,26 +110,6 @@
       "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/spherex_1.2micron.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
       "title_fr": "APOD: 2026 25 novembre – SPHEREx Voir par la poussière",
       "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Pour visualiser cette vidéo, veuillez activer JavaScript, et envisager de mettre à jour vers un navigateur Web qui prend en charge la vidéo HTML5"
-    },
-    {
-      "title": "Georgia’s Pecan Belt",
-      "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
-      "source": "NASA",
-      "summary": "From the star of its namesake pie to a supporting player in countless side dishes, the pecan has earned a place on Thanksgiving tables across the United States. But before it becomes candied, chopped, or baked, it hangs from the branches of Carya illinoinensis —a species of hickory in the walnut family native to North America. Many U.S.-grown pecans come from orchards in Georgia, the state that has historically led the nation in production. One hotspot of pecan cultivation is in the southwest part of the state, around Albany, in Dougherty County. The OLI (Operational Land Imager) on Landsat 8 captured this image of the area and neighboring counties on October 23, 2026. That date falls within",
-      "published": "2026-11-25T05:00:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/georgia’s-pecan-belt/georgiapecans_oli_20261023_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Géorgie",
-      "summary_fr": "De l'étoile de sa tarte aux noms à un joueur de soutien dans d'innombrables plats, le pacan a gagné une place sur les tables de Thanksgiving à travers les États-Unis. Mais avant qu'elle ne devienne confite, hachée ou cuite au four, elle s'accroche aux branches de Carya illinoinensis, une espèce d'hickory de la famille des noyers originaire d'Amérique du Nord. De nombreux pécans cultivés aux États-Unis proviennent de vergers en Géorgie, l'État qui a toujours dirigé la nation dans la production. Un point chaud de la culture du pécan se trouve dans la partie sud-ouest de l'État, autour d'Albany, dans le comté de Dougherty. L'OLI (Operational Land Imager) sur Landsat 8 a capturé cette image de la région et des comtés voisins le 23 octobre 2026. Cette date tombe sous le coup"
-    },
-    {
-      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
-      "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/",
-      "source": "NASA",
-      "summary": "“The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible audience, and our partners help us accomplish that,” said Rebecca Sirmons, general manager of NASA+ at the agency’s Headquarters in Washington. “Artemis II captured the imagination of the Artemis generation, but we are just getting started. With Artemis III on the horizon and our sights set on building humanity’s first Moon Base, this is only the beginning of our story being told, and we’ll continue sharing transparent, engaging content every step of the way.”",
-      "published": "2026-11-24T21:14:36+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/nasa-promo-image-horizontal-1.jpg",
-      "title_fr": "NASA+ Contenu à venir sur grand écran à Greenbelt, Maryland Cinema",
-      "summary_fr": "La National Aeronautics and Space Act de 1958 nous appelle à partager notre histoire d'exploration spatiale avec le plus large public possible, et nos partenaires nous aident à accomplir cela, a déclaré Rebecca Sirmons, directrice générale de NASA+ au siège de l'agence à Washington. Artemis II a capté l'imagination de la génération Artemis, mais nous ne faisons que commencer. Avec Artemis III à l'horizon et nos visions mises sur la construction de l'humanité, la première base lune, ce n'est que le début de notre histoire étant racontée, et nous continuerons à partager le contenu transparent, engageant chaque étape du chemin."
     },
     {
       "title": "Webb Reveals New Details in Supernova Remnant",
