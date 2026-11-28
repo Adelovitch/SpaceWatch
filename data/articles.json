@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-11-27T13:50:26.461651+00:00",
+  "updated_at": "2026-11-28T00:02:10.081498+00:00",
   "articles": [
+    {
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "url": "https://www.nasa.gov/image-detail/afs-8-101-1328/",
+      "source": "NASA Images",
+      "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026.",
+      "published": "2026-11-27T15:02:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
+      "title_fr": "Artemis III Astronaute Andre Douglas visite VAB",
+      "summary_fr": "L'astronaute de la NASA Andre Douglas, spécialiste de mission Artemis III, se trouve dans un article d'essai moteur RS-25 lors d'une visite au bâtiment d'assemblage de véhicules au Centre spatial Kennedy de la NASA, en Floride, le mardi 17 novembre 2026."
+    },
+    {
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/",
+      "source": "NASA",
+      "summary": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion […]",
+      "published": "2026-11-27T15:01:00+00:00",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg",
+      "title_fr": "Artemis III Astronaute Andre Douglas visite VAB",
+      "summary_fr": "L'astronaute de la NASA Andre Douglas, spécialiste de mission Artemis III, se trouve dans un article d'essai moteur RS-25 lors d'une visite au bâtiment d'assemblage de véhicules au Centre spatial Kennedy de la NASA, en Floride, le mardi 17 novembre 2026. Pendant Artemis III, quatre moteurs RS-25 alimenteront le noyau de fusée SLS (Space Launch System) pour envoyer l'Orion [...]"
+    },
+    {
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "source": "NASA",
+      "summary": "Astronauts will need sustainable sources of food to travel farther and stay longer in space. To help understand how crop production works in microgravity, NASA is launching a novel space crops experiment . The new prototype growth chamber will provide critical insights for developing safe, nutritious, and reliable crop production systems for future Moon Base habitats and Mars missions. Knowledge gained from the space crop production system also could help inform agricultural practices such as vertical farming and indoor growing systems.",
+      "published": "2026-11-27T14:22:00+00:00",
+      "image": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg",
+      "title_fr": "Mission NG-25 de la NASA pour lancer la recherche sur les cultures spatiales",
+      "summary_fr": "Les astronautes auront besoin de sources de nourriture durables pour voyager plus loin et rester plus longtemps dans l'espace. Pour aider à comprendre comment la production de cultures fonctionne en microgravité, la NASA lance une nouvelle expérience de cultures spatiales. La nouvelle chambre de croissance prototype fournira des renseignements essentiels pour développer des systèmes de production de cultures sûrs, nutritifs et fiables pour les futurs habitats de la base lune et les missions Mars. Les connaissances acquises dans le cadre du système de production spatiale pourraient également contribuer à éclairer les pratiques agricoles telles que l'agriculture verticale et les systèmes de culture intérieure."
+    },
     {
       "title": "APOD: 2026 November 27 – The Moon Watchers",
       "url": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
@@ -90,26 +120,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
       "title_fr": "L'œil du Sahara",
       "summary_fr": "La structure Richat, aussi connue sous le nom d'Eye du Sahara, est vue depuis la Station Spatiale Internationale comme elle était en orbite au-dessus le 14 novembre 2026. C'est un dôme géologique érodé d'environ 100 millions d'années créé par l'activité ignée et l'élévation dans la nation de Mauritanie. Dans ce type de structure géologique, les roches exposées au centre de l'Œil sont plus anciennes que les roches formant les anneaux extérieurs. Cette structure mesure 45 kilomètres et est constituée de roches ignées et sédimentaires."
-    },
-    {
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-      "source": "NASA",
-      "summary": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy’s disk. These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy. Astronomers study the Milky Way’s galactic bulge because it holds nearly a quarter of the galaxy’s stellar mass, and its proximity allows them to examine the region in greater detail. Altho",
-      "published": "2026-11-25T14:56:54+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "title_fr": "Vues Hubble de la NASA Ocean of Stars en toile de fond pour Roman",
-      "summary_fr": "Une étendue d'étoiles brille dans un arc-en-ciel de couleurs dans ces images du télescope spatial Hubble de la Voie lactée de la NASA. Les images se concentrent sur une zone du ciel vers la bulle galactique, une région sphérique dense d'étoiles qui entoure le centre d'une galaxie. Ces observations Hubble font partie d'un sondage qui aidera les chercheurs à mieux interpréter les prochaines observations du télescope spatial romain Nancy Grace en cherchant à caractériser les étoiles et à rechercher des exoplanètes dans cette région occupée de notre galaxie. Les astronomes étudient le gonflement galactique de la Voie lactée parce qu'il détient près d'un quart de la masse stellaire de la galaxie, et sa proximité leur permet d'examiner la région plus en détail. Altho"
-    },
-    {
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
-      "source": "NASA",
-      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video",
-      "published": "2026-11-25T05:05:00+00:00",
-      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/spherex_1.2micron.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
-      "title_fr": "APOD: 2026 25 novembre – SPHEREx Voir par la poussière",
-      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Pour visualiser cette vidéo, veuillez activer JavaScript, et envisager de mettre à jour vers un navigateur Web qui prend en charge la vidéo HTML5"
     },
     {
       "title": "Webb Reveals New Details in Supernova Remnant",
@@ -688,16 +698,6 @@
       "image": "https://images-assets.nasa.gov/image/KSC-20260825-PH-RCR01_0045/KSC-20260825-PH-RCR01_0045~large.jpg",
       "title_fr": "Artemis III RS-25 Traitement moteur: n°3 Lift",
       "summary_fr": "Les techniciens se préparent à transférer le moteur de fusée RS-25 SLS (Space Launch System) (avant) sur le stand de travail avec le moteur #3 (arrière) pour l'intégration avec la fusée Artemis III, le mardi 25 août 2026, à l'intérieur du bâtiment d'assemblage de véhicules au centre spatial Kennedy de la NASA. Pendant Artemis III, les quatre moteurs RS‐25 lanceront l'engin spatial Orion et son équipage de quatre personnes en orbite terrestre basse, générant plus de deux millions de livres de poussée au décollage."
-    },
-    {
-      "title": "NASA's Nancy Grace Roman Space Telescope Launches",
-      "url": "https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/",
-      "source": "NASA Images",
-      "summary": "A SpaceX Falcon Heavy rocket with NASA’s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug. 30, 2026, at NASA’s Kennedy Space Center in Florida.",
-      "published": "2026-08-31T14:19:00+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/08/nhq20260830-admin-0001orig.jpg",
-      "title_fr": "Lancement du télescope spatial romain Nancy Grace de la NASA",
-      "summary_fr": "Un Faucon SpaceX Une fusée lourde avec le télescope romain Nancy Grace à bord est vue transitant par le soleil lors du lancement du complexe de lancement 39A, dimanche 30 août 2026, au centre spatial Kennedy de la NASA en Floride."
     }
   ],
   "sources": [
