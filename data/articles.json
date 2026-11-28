@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-28T00:02:10.081498+00:00",
+  "updated_at": "2026-11-28T07:46:41.110385+00:00",
   "articles": [
+    {
+      "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+      "source": "NASA",
+      "summary": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Explanation: Get out your red/blue glasses and check out this stereo scene from Taurus-Littrow valley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17's Lunar Rover in the foreground. Behind it lies the Lunar Module and distant lunar hills. Because the world was going to be able to watch the Lunar Module's ascent stage liftoff via the rover's TV camera, this parking place was also known as the VIP Site. Fifty years ago , in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt sp",
+      "published": "2026-11-28T05:05:00+00:00",
+      "image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/a17anaglyph_vanMeijgaarden_f.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "title_fr": "APOD: 2026 28 novembre – Anaglyphe du site VIP Apollo 17",
+      "summary_fr": "Découvrez le cosmos ! Chaque jour est présentée une image ou une photographie différente de notre univers fascinant, ainsi qu'une brève explication écrite par un astronome professionnel. Explication : Sortez vos lunettes rouges/bleues et découvrez cette scène stéréo de la vallée Taurus-Littrow sur la Lune ! L'anaglyphe de couleur présente une vue en 3D détaillée du Lunar Rover d'Apollo 17 au premier plan. Derrière elle se trouve le module lunaire et les collines lunaires lointaines. Comme le monde allait être en mesure de regarder l'ascension de la scène du module Lunar décoller via la caméra TV du rover, ce parking était également connu comme le site VIP. Il y a cinquante ans , en décembre 1972, Apollo 17 astronautes Eugene Cernan et Harrison Schmitt sp"
+    },
     {
       "title": "Artemis III Astronaut Andre Douglas Visits VAB",
       "url": "https://www.nasa.gov/image-detail/afs-8-101-1328/",
@@ -25,11 +35,11 @@
       "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
       "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
       "source": "NASA",
-      "summary": "Astronauts will need sustainable sources of food to travel farther and stay longer in space. To help understand how crop production works in microgravity, NASA is launching a novel space crops experiment . The new prototype growth chamber will provide critical insights for developing safe, nutritious, and reliable crop production systems for future Moon Base habitats and Mars missions. Knowledge gained from the space crop production system also could help inform agricultural practices such as vertical farming and indoor growing systems.",
+      "summary": "Astronauts will need sustainable sources of food to travel farther and stay longer in space. To help understand how crop production works in microgravity, NASA is launching a novel space crops growth chamber called Ohalo III. The new prototype growth chamber will provide critical insights for developing safe, nutritious, and reliable crop production strategies for future Moon Base habitats and Mars missions. Knowledge gained from the space crop production system also could help inform agricultural practices such as vertical farming and indoor growing systems.",
       "published": "2026-11-27T14:22:00+00:00",
       "image": "https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg",
       "title_fr": "Mission NG-25 de la NASA pour lancer la recherche sur les cultures spatiales",
-      "summary_fr": "Les astronautes auront besoin de sources de nourriture durables pour voyager plus loin et rester plus longtemps dans l'espace. Pour aider à comprendre comment la production de cultures fonctionne en microgravité, la NASA lance une nouvelle expérience de cultures spatiales. La nouvelle chambre de croissance prototype fournira des renseignements essentiels pour développer des systèmes de production de cultures sûrs, nutritifs et fiables pour les futurs habitats de la base lune et les missions Mars. Les connaissances acquises dans le cadre du système de production spatiale pourraient également contribuer à éclairer les pratiques agricoles telles que l'agriculture verticale et les systèmes de culture intérieure."
+      "summary_fr": "Les astronautes auront besoin de sources de nourriture durables pour voyager plus loin et rester plus longtemps dans l'espace. Pour comprendre comment fonctionne la production de cultures en microgravité, la NASA lance une nouvelle chambre de croissance des cultures spatiales appelée Ohalo III. La nouvelle chambre de croissance de prototype fournira des renseignements essentiels pour élaborer des stratégies de production de cultures sûres, nutritives et fiables pour les futurs habitats de la base lune et les missions de Mars. Les connaissances acquises dans le cadre du système de production spatiale pourraient également contribuer à éclairer les pratiques agricoles telles que l'agriculture verticale et les systèmes de culture intérieure."
     },
     {
       "title": "APOD: 2026 November 27 – The Moon Watchers",
@@ -110,16 +120,6 @@
       "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
       "title_fr": "L'œil du Sahara",
       "summary_fr": "La structure Richat, également connue sous le nom de « Ye of the Sahara », représentée par la Station spatiale internationale en orbite au-dessus de l'Afrique, est un dôme géologique érodé d'environ 100 millions d'années créé par l'activité ignée et l'élévation dans la nation mauritanienne."
-    },
-    {
-      "title": "Eye of the Sahara",
-      "url": "https://www.nasa.gov/image-article/eye-of-the-sahara/",
-      "source": "NASA",
-      "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks exposed in the center of the “bullseye” are older than rocks forming the outer rings. This structure measures 45 kilometers (28 miles) across and is made up of igneous and sedimentary rocks.",
-      "published": "2026-11-25T16:21:04+00:00",
-      "image": "https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg",
-      "title_fr": "L'œil du Sahara",
-      "summary_fr": "La structure Richat, aussi connue sous le nom d'Eye du Sahara, est vue depuis la Station Spatiale Internationale comme elle était en orbite au-dessus le 14 novembre 2026. C'est un dôme géologique érodé d'environ 100 millions d'années créé par l'activité ignée et l'élévation dans la nation de Mauritanie. Dans ce type de structure géologique, les roches exposées au centre de l'Œil sont plus anciennes que les roches formant les anneaux extérieurs. Cette structure mesure 45 kilomètres et est constituée de roches ignées et sédimentaires."
     },
     {
       "title": "Webb Reveals New Details in Supernova Remnant",
